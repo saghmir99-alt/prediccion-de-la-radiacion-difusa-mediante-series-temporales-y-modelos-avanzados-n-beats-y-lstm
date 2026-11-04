@@ -1,0 +1,60 @@
+{
+  "fecha_creacion_utc": "20261006T213853Z",
+  "parquet_origen": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/radiation_data_completo.parquet",
+  "resolucion_origen": "nominalmente 1 minuto",
+  "frecuencia_salida": "1 hora",
+  "definicion_ventana": "[hora_inicio, hora_fin)",
+  "longitud_nominal_ventana_minutos": 60,
+  "centrado_temporal": "centro nominal de la hora corregido por la media de los timestamps realmente disponibles",
+  "modelo_ajuste": "X(tau) = beta0 + beta1*tau + 0.5*beta2*tau**2",
+  "interpretacion": {
+    "media": "media de los valores disponibles en la hora",
+    "pendiente": "primera derivada en el centro efectivo; unidades de variable por hora",
+    "curvatura": "segunda derivada; unidades de variable por hora cuadrada"
+  },
+  "columnas_originales": {
+    "T2": "T2 [°C]",
+    "RH": "RH [%]",
+    "P": "PoPoPoPo [hPa]"
+  },
+  "variables_guardadas": [
+    "T2_media",
+    "T2_pendiente",
+    "T2_curvatura",
+    "RH_media",
+    "RH_pendiente",
+    "RH_curvatura",
+    "P_media",
+    "P_pendiente",
+    "P_curvatura"
+  ],
+  "variables_propuestas_t2": [
+    "T2_media",
+    "T2_pendiente",
+    "T2_curvatura"
+  ],
+  "variables_propuestas_rh": [
+    "RH_media",
+    "RH_pendiente",
+    "RH_curvatura"
+  ],
+  "variables_presion_principal": [
+    "P_media"
+  ],
+  "variables_presion_ampliada": [
+    "P_media",
+    "P_pendiente",
+    "P_curvatura"
+  ],
+  "criterio_diagnostico_cobertura": "se registra como cobertura reducida cuando n_validos < 57",
+  "imputacion_aplicada": false,
+  "justificacion_no_imputacion": "La única hora completamente vacía y la hora siguiente con cuatro valores se encuentran fuera de train, validation y test. Las restantes horas parciales permiten calcular los coeficientes.",
+  "particiones": {
+    "train_inicio": "2023-12-30 00:00:00+00:00",
+    "train_fin": "2024-07-31 23:00:00+00:00",
+    "validation_inicio": "2024-08-01 00:00:00+00:00",
+    "validation_fin": "2024-09-30 23:00:00+00:00",
+    "test_inicio": "2024-10-01 00:00:00+00:00"
+  },
+  "alineacion_pendiente": "Pendiente de verificar frente a DIF_lag_1 antes de construir las matrices secuenciales"
+}

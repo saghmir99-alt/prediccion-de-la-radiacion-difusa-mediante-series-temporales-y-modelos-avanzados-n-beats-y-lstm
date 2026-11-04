@@ -1,0 +1,1 @@
+SE ACEPTA: V3-50 baja el MAE de validación de 23.25 a 22.47 W/m² (-3.4 %, IC95 [-1.50, -0.06], DM p = 0.0393) sin empeorar la banda central (-1.06, IC95 [-3.74, +1.63]). Nuevo modelo oficial de la LSTM: V3-50.

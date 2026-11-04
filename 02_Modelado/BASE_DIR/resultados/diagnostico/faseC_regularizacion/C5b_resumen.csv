@@ -1,0 +1,5 @@
+configuración,semillas,mejor época,MAE mes no visto,ventaja sobre persistencia (%),MAE nubosidad variable,cambio vs R0,IC95,veredicto,_r
+R0 · E1 parando a tiempo,2,30,25.38599344783358,42.66367185782196,36.47709952434003,0.0,"[+0.00, +0.00]",referencia,R0
+"R1 · dropout 0,3",1,65,25.826787653938577,41.66810234046814,37.44158322843787,0.23128455767233824,"[-0.28, +0.79]",no se distingue de R0,R1
+R2 · weight decay 1e-3,1,45,25.52230555999744,42.35579988074763,36.844638591685595,-0.07319753626879781,"[-0.37, +0.23]",no se distingue de R0,R2
+R3 · 32 unidades,1,70,25.34930287976709,42.746540485937935,36.84439478953778,-0.24620021649914708,"[-0.69, +0.21]",no se distingue de R0,R3

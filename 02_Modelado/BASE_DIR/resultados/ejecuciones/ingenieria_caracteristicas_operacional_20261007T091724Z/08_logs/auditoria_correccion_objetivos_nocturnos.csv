@@ -1,0 +1,3 @@
+split,n_objetivos_nocturnos,media_original_noche,mediana_original_noche,media_corregida_noche
+train,2122,-0.8428919315338135,-1.0,0.0
+validation,580,-0.9785057306289673,-1.0,0.0

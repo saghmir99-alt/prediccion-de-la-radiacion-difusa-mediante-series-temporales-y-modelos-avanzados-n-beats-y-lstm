@@ -1,0 +1,3 @@
+configuración,época (fijada),MAE operación,sesgo,ganancia del ensemble,ruido entre épocas,veredicto,cambio operación,IC95 operación,cambio central,IC95 central,"1 mejora ≥0,5 e IC<0",2 central sin empeorar
+BASE · N-BEATS-DIFstats,20,30.679565088572474,-3.4061498639632215,0.9849152350653156,0.44726592914944796,referencia,,,,,,
+REG · dropout 0.2,20,30.08914081489441,-1.7670098583611464,0.6539032830395435,0.4806919067376693,no pasa,-0.5904242736780638,"[-1.41, +0.18]",-4.695490868042352,"[-7.21, -2.38]",False,True

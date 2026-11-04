@@ -1,0 +1,37 @@
+{
+  "run_id": "comparacion_nulos_DIR_DIF_20261006_132929",
+  "status": "completed",
+  "test_used": false,
+  "files": [
+    {
+      "ruta_relativa": "cobertura_horaria_DIR_DIF.csv",
+      "tamano_bytes": 226189,
+      "sha256": "d690d37ecedf69fc01cb16728eadb4d9c373c840ebb89ead71a84eff76db1e0c"
+    },
+    {
+      "ruta_relativa": "configuracion.json",
+      "tamano_bytes": 410,
+      "sha256": "f65ce4b5e7c6ccc451a3898d11d180d051af8e5c5af56c83bb4feab70499c508"
+    },
+    {
+      "ruta_relativa": "horas_cobertura_minima_DIR_DIF.csv",
+      "tamano_bytes": 112,
+      "sha256": "e8a0437edb774028be659bbd97ecab43052c74493d2d9e1231824efe0d37b813"
+    },
+    {
+      "ruta_relativa": "minutos_nulos_no_coincidentes.csv",
+      "tamano_bytes": 34994,
+      "sha256": "ee82248710d0f3df41b9aca596c481d5c0ef3c249843283379a5bd85ae59f3e7"
+    },
+    {
+      "ruta_relativa": "resumen_cobertura_horaria_DIR_DIF.csv",
+      "tamano_bytes": 111,
+      "sha256": "8ac7c36bc3805096e2e29ae80d75ffeced732a7f0e875cf5bc57bcd4a9acf893"
+    },
+    {
+      "ruta_relativa": "resumen_coincidencia_nulos_DIR_DIF.csv",
+      "tamano_bytes": 254,
+      "sha256": "a7685c6ef622b6e62a4ca0673dea418359cc6bb30520fdddb4f0298d9bd71031"
+    }
+  ]
+}

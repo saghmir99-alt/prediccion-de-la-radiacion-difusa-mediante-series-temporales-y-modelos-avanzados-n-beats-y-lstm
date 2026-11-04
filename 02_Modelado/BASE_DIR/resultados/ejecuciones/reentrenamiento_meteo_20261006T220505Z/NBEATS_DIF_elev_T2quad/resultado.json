@@ -1,0 +1,17 @@
+{
+  "configuracion": "DIF_elev_T2quad",
+  "arquitectura": "NBEATS",
+  "n_canales": 5,
+  "n_parametros": 310422,
+  "epocas_reentrenamiento": 13,
+  "MAE": 20.808872788746285,
+  "nMAE_pct": 24.19190925826776,
+  "RMSE": 38.12583436967962,
+  "R2": 0.8756506384125633,
+  "bias": -3.452430786952997,
+  "tiempo_entrenamiento_segundos": 20.9754542769997,
+  "segundos_por_epoca": 1.6134964828461307,
+  "inferencia_validation_segundos": 0.030350700500093808,
+  "inferencia_ms_por_muestra": 0.020731352800610524,
+  "tamano_modelo_MB": 1.2017316818237305
+}

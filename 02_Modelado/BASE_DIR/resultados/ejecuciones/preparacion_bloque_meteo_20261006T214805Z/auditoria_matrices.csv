@@ -1,0 +1,5 @@
+configuracion,canales,nombres_canales,shape_train,shape_validation,nulos_train,nulos_validation,inf_train,inf_validation
+DIF_elev_T2quad,5,"DIF, elevacion, T2_media, T2_pendiente, T2_curvatura","(5149, 24, 5)","(1464, 24, 5)",0,0,0,0
+DIF_elev_RHquad,5,"DIF, elevacion, RH_media, RH_pendiente, RH_curvatura","(5149, 24, 5)","(1464, 24, 5)",0,0,0,0
+DIF_elev_Pmedia,3,"DIF, elevacion, P_media","(5149, 24, 3)","(1464, 24, 3)",0,0,0,0
+DIF_elev_Pquad,5,"DIF, elevacion, P_media, P_pendiente, P_curvatura","(5149, 24, 5)","(1464, 24, 5)",0,0,0,0

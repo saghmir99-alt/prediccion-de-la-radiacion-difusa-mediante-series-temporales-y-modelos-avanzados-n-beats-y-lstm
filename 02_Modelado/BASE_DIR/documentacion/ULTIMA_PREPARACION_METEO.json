@@ -1,0 +1,7 @@
+{
+  "fecha_creacion_utc": "20261006T214805Z",
+  "directorio": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/preparacion_bloque_meteo_20261006T214805Z",
+  "matrices": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/preparacion_bloque_meteo_20261006T214805Z/matrices_meteo_train_validation.npz",
+  "auditoria": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/preparacion_bloque_meteo_20261006T214805Z/auditoria_matrices.csv",
+  "configuracion": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/preparacion_bloque_meteo_20261006T214805Z/configuracion_preparacion.json"
+}

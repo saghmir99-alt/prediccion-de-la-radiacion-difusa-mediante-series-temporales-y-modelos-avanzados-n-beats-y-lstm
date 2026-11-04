@@ -1,0 +1,74 @@
+{
+  "run_id": "reentrenamiento_lwd_mae_total_20261006_125836",
+  "status": "completed",
+  "external_validation_used": true,
+  "test_used": false,
+  "number_of_files_excluding_manifest": 13,
+  "files": [
+    {
+      "ruta_relativa": "configuracion.json",
+      "tamano_bytes": 1219,
+      "sha256": "9cd6c7bae8c01190e95a9958a9c2e5c05cb9673925e363938378ecf28648c3d4"
+    },
+    {
+      "ruta_relativa": "escaladores_train.json",
+      "tamano_bytes": 475,
+      "sha256": "946eb5cd817a9a196d626c1d190f42fc47cfb6209ac7b50653bf75279a75a723"
+    },
+    {
+      "ruta_relativa": "escaladores_train.pkl",
+      "tamano_bytes": 277,
+      "sha256": "755e9db51f4b2814495b41cc689eb5568aec223f2ac6878a010cd483aa0b4cea"
+    },
+    {
+      "ruta_relativa": "metricas/metricas_validation.csv",
+      "tamano_bytes": 1041,
+      "sha256": "702c40047862a6ae8673c2c988fdaa6c6406e05232d6d120dbbde7cb31fbf6a9"
+    },
+    {
+      "ruta_relativa": "modelos/LSTM_DIF_ELEV_LWD.pt",
+      "tamano_bytes": 85657,
+      "sha256": "968e3d487e4c6cf3d1766086e9c4d0fd5e6be00a0801acc7928600a69f14e63d"
+    },
+    {
+      "ruta_relativa": "modelos/NBEATS_DIF_ELEV_LWD.pt",
+      "tamano_bytes": 1264711,
+      "sha256": "8dc970fe8db51871fa56d749ac878d12ccffc263b880c262222306f31da83a67"
+    },
+    {
+      "ruta_relativa": "predicciones/prediccion_lstm_dif_elev_lwd_validation.npy",
+      "tamano_bytes": 5984,
+      "sha256": "f1d749fe9a4e9cef00556cb44d100cd289d0ae4ad680a9528f800b65fcf1a01e"
+    },
+    {
+      "ruta_relativa": "predicciones/prediccion_nbeats_dif_elev_lwd_validation.npy",
+      "tamano_bytes": 5984,
+      "sha256": "25e13cba8038f8a9fb3d2eb86f0e76893c7d516328882a1ddcd9364b81b4bb2b"
+    },
+    {
+      "ruta_relativa": "predicciones/predicciones_validation.csv",
+      "tamano_bytes": 47390,
+      "sha256": "216df0767e907dfbbe709c003fb98612f36c08a1e2773116747520358c6a51e7"
+    },
+    {
+      "ruta_relativa": "predicciones/predicciones_validation.npz",
+      "tamano_bytes": 14514,
+      "sha256": "03f31c6621df7dd8c83a688c9d3771a24c6e3655311b604434f32961b4219711"
+    },
+    {
+      "ruta_relativa": "tablas/coste_computacional.csv",
+      "tamano_bytes": 509,
+      "sha256": "a66c3029b302470d4fe04d0baa82aec6c753a797f3861aaa6c7a42fd0e646d87"
+    },
+    {
+      "ruta_relativa": "tablas/historial_lstm_dif_elev_lwd.csv",
+      "tamano_bytes": 2604,
+      "sha256": "46a5d141ca122a3fc45bb378a91bff58c6772b5cadadb16b7ebcc57ca999859c"
+    },
+    {
+      "ruta_relativa": "tablas/historial_nbeats_dif_elev_lwd.csv",
+      "tamano_bytes": 420,
+      "sha256": "0deeafb1e7d95e237d0a6c80598e1faf991cc89679b18a7c9a841941ae6e58fd"
+    }
+  ]
+}

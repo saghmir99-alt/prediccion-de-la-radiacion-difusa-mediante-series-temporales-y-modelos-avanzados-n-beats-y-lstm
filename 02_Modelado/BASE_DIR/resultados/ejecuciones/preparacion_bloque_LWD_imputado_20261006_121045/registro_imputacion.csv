@@ -1,0 +1,2 @@
+hora_imputada,metodo,hora_fuente,LWD_media_imputada,LWD_std_media_imputada,LWD_rango_imputado,utiliza_informacion_futura
+2024-03-15 10:00:00+00:00,arrastre_causal_hora_anterior,2024-03-15 09:00:00+00:00,342.3095238095238,1.7404761904761903,65.0,False

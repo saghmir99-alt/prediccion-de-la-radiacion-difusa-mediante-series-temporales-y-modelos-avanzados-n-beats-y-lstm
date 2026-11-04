@@ -1,0 +1,2 @@
+semillas {'BASE': [42, 123], 'C6·0': [42], 'C6a': [42], 'C6b': [42]}
+Ninguna variante mejora de forma clara a la BASE. Nada que repetir: E1-30 se mantiene como modelo base.

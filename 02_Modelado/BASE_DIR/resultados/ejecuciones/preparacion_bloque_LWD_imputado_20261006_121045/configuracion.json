@@ -1,0 +1,29 @@
+{
+  "run_id": "preparacion_bloque_LWD_imputado_20261006_121045",
+  "created_at_europe_madrid": "2026-10-06T12:11:09.089205+02:00",
+  "block": "LWD",
+  "input_channels": [
+    "DIF",
+    "elevacion",
+    "LWD_media",
+    "LWD_std_media",
+    "LWD_rango"
+  ],
+  "partial_hours": {
+    "rule": "conservar agregados calculados con los minutos observados",
+    "hours_with_30_to_59_minutes": 159,
+    "hours_with_1_to_29_minutes": 1,
+    "minimum_nonzero_minutes": 28
+  },
+  "empty_hours": {
+    "count": 1,
+    "timestamp": "2024-03-15T10:00:00+00:00",
+    "method": "arrastre causal de la hora anterior",
+    "source_timestamp": "2024-03-15T09:00:00+00:00"
+  },
+  "missingness_indicators_used_as_model_inputs": false,
+  "sensitivity_masks_saved": true,
+  "scaling_applied": false,
+  "models_trained": false,
+  "test_used": false
+}

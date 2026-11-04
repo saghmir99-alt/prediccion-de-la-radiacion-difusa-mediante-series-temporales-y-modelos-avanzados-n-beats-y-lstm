@@ -1,0 +1,16 @@
+NBEATSSWD(
+  (blocks): ModuleList(
+    (0-5): 6 x NBEATSBlockSWD(
+      (dense_network): Sequential(
+        (0): Linear(in_features=120, out_features=128, bias=True)
+        (1): ReLU()
+        (2): Linear(in_features=128, out_features=128, bias=True)
+        (3): ReLU()
+        (4): Linear(in_features=128, out_features=128, bias=True)
+        (5): ReLU()
+      )
+      (backcast_head): Linear(in_features=128, out_features=24, bias=True)
+      (forecast_head): Linear(in_features=128, out_features=1, bias=True)
+    )
+  )
+)

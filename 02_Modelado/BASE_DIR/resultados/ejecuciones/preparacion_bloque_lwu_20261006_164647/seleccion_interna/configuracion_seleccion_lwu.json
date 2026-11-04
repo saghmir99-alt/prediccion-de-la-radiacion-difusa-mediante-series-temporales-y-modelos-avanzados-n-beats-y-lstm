@@ -1,0 +1,14 @@
+{
+  "criterio_seleccion": "MAE total de validación interna",
+  "loss_entrenamiento": "L1Loss",
+  "subtrain": 4428,
+  "validacion_interna": 721,
+  "paciencia": 25,
+  "max_epocas": 300,
+  "min_delta": 1e-05,
+  "seed": 42,
+  "validation_externa_utilizada": false,
+  "test_utilizado": false,
+  "epoca_nbeats": 13,
+  "epoca_lstm": 32
+}

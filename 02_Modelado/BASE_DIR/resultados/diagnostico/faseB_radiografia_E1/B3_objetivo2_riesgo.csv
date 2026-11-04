@@ -1,0 +1,3 @@
+versión,correlación train (Spearman),correlación validación (Spearman),"error real, riesgo muy bajo","error real, riesgo muy alto",veces más error (alto / bajo)
+riesgo con I1,0.5429429402445121,0.48974308680988304,10.08911575211419,50.09758207533095,4.965507712093889
+riesgo con I2,0.5514956270413657,0.513065793074574,8.758651482513528,49.94283097709705,5.702114198379387

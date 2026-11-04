@@ -1,0 +1,27 @@
+{
+  "fase": "2A_preparacion_M0_M1",
+  "fuente_difstats": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/preparacion_bloque_difstats_20261006_180841/matrices_dif_elev_difstats.npz",
+  "orden_ventana": "T-24 hasta T-1",
+  "lookback": 24,
+  "objetivo": "DIF en T",
+  "M0": {
+    "canales": [
+      "DIF_media",
+      "elevacion"
+    ],
+    "n_features": 2
+  },
+  "M1": {
+    "canales": [
+      "DIF_media",
+      "elevacion",
+      "DIF_std",
+      "DIF_rango"
+    ],
+    "n_features": 4
+  },
+  "mascara_nocturna": "peso 0 si la hora objetivo es noche; peso 1 en operación",
+  "prediccion_nocturna": "forzada a cero después de predecir",
+  "escalado_aplicado": false,
+  "imputacion_aplicada": false
+}

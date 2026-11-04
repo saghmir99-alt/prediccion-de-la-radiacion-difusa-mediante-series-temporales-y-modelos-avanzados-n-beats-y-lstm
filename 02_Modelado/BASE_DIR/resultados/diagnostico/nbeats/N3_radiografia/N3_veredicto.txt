@@ -1,0 +1,6 @@
+B · FALLAN EN PARTE EN LO MISMO (validación: ρ = 0.61; 54 % de los fallos grandes de la N-BEATS también lo son de la LSTM).
+D1 · cielo previo: N-BEATS-DIFstats: HAY señal, LSTM E1-30: HAY señal.
+D2 · información desaprovechada (corrector con la última hora): N-BEATS-DIFstats: SÍ, LSTM E1-30: no.
+E · último minuto (réplica de R5): N-BEATS-DIFstats: no pasa, LSTM E1-30: PASA.
+N5 no se hace (la N-BEATS no desaprovecha el último minuto).
+La N-BEATS deja información de la última hora sin usar: N6 (entrada de una hora) tiene base.

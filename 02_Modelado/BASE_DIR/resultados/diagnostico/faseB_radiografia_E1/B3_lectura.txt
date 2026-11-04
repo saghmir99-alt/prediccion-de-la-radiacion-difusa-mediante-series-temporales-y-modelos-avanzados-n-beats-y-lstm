@@ -1,0 +1,3 @@
+Objetivo 1: ninguna corrección baja el MAE de forma distinguible del azar → el error de E1 NO es corregible con esta información.
+Objetivo 2: las horas de riesgo muy alto fallan 5.7 veces más que las de riesgo muy bajo (correlación 0.51) → SÍ se puede anticipar cuándo va a fallar E1: base sólida para bandas probabilísticas (D1).
+Las variables meteorológicas (I2) cambian la correlación en +0.02 respecto a I1.

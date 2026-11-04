@@ -1,0 +1,412 @@
+{
+  "created_at_europe_madrid": "2026-10-06T11:34:01.260934+02:00",
+  "project_root": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado",
+  "test_inspected": false,
+  "dataframes_detected": [
+    {
+      "objeto": "base_cost",
+      "filas": 2,
+      "columnas": 27
+    },
+    {
+      "objeto": "category_summary",
+      "filas": 8,
+      "columnas": 2
+    },
+    {
+      "objeto": "cost_table",
+      "filas": 2,
+      "columnas": 14
+    },
+    {
+      "objeto": "dataframe",
+      "filas": 1464,
+      "columnas": 21
+    },
+    {
+      "objeto": "direction_metrics",
+      "filas": 4,
+      "columnas": 11
+    },
+    {
+      "objeto": "historical_inventory_df",
+      "filas": 24,
+      "columnas": 13
+    },
+    {
+      "objeto": "history_lstm_swd_total",
+      "filas": 84,
+      "columnas": 6
+    },
+    {
+      "objeto": "history_nbeats_swd_total",
+      "filas": 43,
+      "columnas": 6
+    },
+    {
+      "objeto": "improvements",
+      "filas": 10,
+      "columnas": 11
+    },
+    {
+      "objeto": "inventory_df",
+      "filas": 24,
+      "columnas": 12
+    },
+    {
+      "objeto": "metrics_by_quintile",
+      "filas": 20,
+      "columnas": 13
+    },
+    {
+      "objeto": "metrics_by_regime",
+      "filas": 20,
+      "columnas": 11
+    },
+    {
+      "objeto": "new_cost",
+      "filas": 2,
+      "columnas": 14
+    },
+    {
+      "objeto": "object_value",
+      "filas": 2,
+      "columnas": 14
+    },
+    {
+      "objeto": "paths_proposal_df",
+      "filas": 9,
+      "columnas": 5
+    },
+    {
+      "objeto": "predictions_table",
+      "filas": 1464,
+      "columnas": 4
+    },
+    {
+      "objeto": "preliminary_metrics",
+      "filas": 2,
+      "columnas": 7
+    },
+    {
+      "objeto": "priority_zip_summary_df",
+      "filas": 6,
+      "columnas": 6
+    },
+    {
+      "objeto": "quintile_improvements",
+      "filas": 10,
+      "columnas": 8
+    },
+    {
+      "objeto": "resumen_seleccion_SWD_operacional",
+      "filas": 4,
+      "columnas": 13
+    },
+    {
+      "objeto": "selection_summary_swd_total",
+      "filas": 2,
+      "columnas": 10
+    },
+    {
+      "objeto": "swd_candidates_df",
+      "filas": 429,
+      "columnas": 8
+    },
+    {
+      "objeto": "train_hgb",
+      "filas": 5149,
+      "columnas": 21
+    },
+    {
+      "objeto": "validation_hgb",
+      "filas": 1464,
+      "columnas": 21
+    },
+    {
+      "objeto": "zip_inventory_df",
+      "filas": 817,
+      "columnas": 8
+    },
+    {
+      "objeto": "zip_summary_df",
+      "filas": 15,
+      "columnas": 6
+    }
+  ],
+  "columns_with_non_hashable_values": [
+    {
+      "objeto": "cost_table",
+      "columna": "tiempos_inferencia_repeticiones_s",
+      "dtype": "object"
+    },
+    {
+      "objeto": "object_value",
+      "columna": "tiempos_inferencia_repeticiones_s",
+      "dtype": "object"
+    }
+  ],
+  "blocks": {
+    "SWD": {
+      "columnas_detectadas": [
+        {
+          "objeto": "dataframe",
+          "columna": "SWD_media_lag1",
+          "dtype": "float64",
+          "pct_ausentes": 0.0
+        },
+        {
+          "objeto": "dataframe",
+          "columna": "SWD_media_lag2",
+          "dtype": "float64",
+          "pct_ausentes": 0.0
+        },
+        {
+          "objeto": "dataframe",
+          "columna": "SWD_media_lag24",
+          "dtype": "float64",
+          "pct_ausentes": 0.0
+        },
+        {
+          "objeto": "dataframe",
+          "columna": "SWD_media_lag3",
+          "dtype": "float64",
+          "pct_ausentes": 0.0
+        },
+        {
+          "objeto": "improvements",
+          "columna": "MAE_con_SWD",
+          "dtype": "float64",
+          "pct_ausentes": 0.0
+        },
+        {
+          "objeto": "predictions_table",
+          "columna": "prediccion_NBEATS_DIF_ELEV_SWD",
+          "dtype": "float32",
+          "pct_ausentes": 0.0
+        },
+        {
+          "objeto": "predictions_table",
+          "columna": "prediccion_LSTM_DIF_ELEV_SWD",
+          "dtype": "float32",
+          "pct_ausentes": 0.0
+        },
+        {
+          "objeto": "quintile_improvements",
+          "columna": "MAE_con_SWD",
+          "dtype": "float64",
+          "pct_ausentes": 0.0
+        },
+        {
+          "objeto": "swd_candidates_df",
+          "columna": "es_relevante_swd_modelado",
+          "dtype": "bool",
+          "pct_ausentes": 0.0
+        },
+        {
+          "objeto": "train_hgb",
+          "columna": "SWD_media_lag1",
+          "dtype": "float64",
+          "pct_ausentes": 0.0
+        },
+        {
+          "objeto": "train_hgb",
+          "columna": "SWD_media_lag2",
+          "dtype": "float64",
+          "pct_ausentes": 0.0
+        },
+        {
+          "objeto": "train_hgb",
+          "columna": "SWD_media_lag24",
+          "dtype": "float64",
+          "pct_ausentes": 0.0
+        },
+        {
+          "objeto": "train_hgb",
+          "columna": "SWD_media_lag3",
+          "dtype": "float64",
+          "pct_ausentes": 0.0
+        },
+        {
+          "objeto": "validation_hgb",
+          "columna": "SWD_media_lag1",
+          "dtype": "float64",
+          "pct_ausentes": 0.0
+        },
+        {
+          "objeto": "validation_hgb",
+          "columna": "SWD_media_lag2",
+          "dtype": "float64",
+          "pct_ausentes": 0.0
+        },
+        {
+          "objeto": "validation_hgb",
+          "columna": "SWD_media_lag24",
+          "dtype": "float64",
+          "pct_ausentes": 0.0
+        },
+        {
+          "objeto": "validation_hgb",
+          "columna": "SWD_media_lag3",
+          "dtype": "float64",
+          "pct_ausentes": 0.0
+        },
+        {
+          "objeto": "zip_inventory_df",
+          "columna": "es_relevante_swd_modelado",
+          "dtype": "bool",
+          "pct_ausentes": 0.0
+        }
+      ],
+      "objetos_detectados": [
+        {
+          "objeto": "X_train_DIF_elev_SWD_raw",
+          "tipo": "ndarray",
+          "shape": "(5149, 24, 5)",
+          "dtype": "float32"
+        },
+        {
+          "objeto": "X_train_swd_raw",
+          "tipo": "ndarray",
+          "shape": "(5149, 24, 5)",
+          "dtype": "float32"
+        },
+        {
+          "objeto": "X_validation_DIF_elev_SWD_raw",
+          "tipo": "ndarray",
+          "shape": "(1464, 24, 5)",
+          "dtype": "float32"
+        },
+        {
+          "objeto": "prediction_lstm_swd",
+          "tipo": "ndarray",
+          "shape": "(1464,)",
+          "dtype": "float32"
+        },
+        {
+          "objeto": "prediction_nbeats_swd",
+          "tipo": "ndarray",
+          "shape": "(1464,)",
+          "dtype": "float32"
+        }
+      ],
+      "n_columnas_detectadas": 18,
+      "n_objetos_detectados": 5
+    },
+    "LWD": {
+      "columnas_detectadas": [],
+      "objetos_detectados": [],
+      "n_columnas_detectadas": 0,
+      "n_objetos_detectados": 0
+    },
+    "LWU": {
+      "columnas_detectadas": [],
+      "objetos_detectados": [],
+      "n_columnas_detectadas": 0,
+      "n_objetos_detectados": 0
+    },
+    "DIR": {
+      "columnas_detectadas": [
+        {
+          "objeto": "dataframe",
+          "columna": "DIR_media_lag1",
+          "dtype": "float64",
+          "pct_ausentes": 0.0
+        },
+        {
+          "objeto": "dataframe",
+          "columna": "DIR_media_lag2",
+          "dtype": "float64",
+          "pct_ausentes": 0.0
+        },
+        {
+          "objeto": "dataframe",
+          "columna": "DIR_media_lag24",
+          "dtype": "float64",
+          "pct_ausentes": 0.0
+        },
+        {
+          "objeto": "dataframe",
+          "columna": "DIR_media_lag3",
+          "dtype": "float64",
+          "pct_ausentes": 0.0
+        },
+        {
+          "objeto": "train_hgb",
+          "columna": "DIR_media_lag1",
+          "dtype": "float64",
+          "pct_ausentes": 0.0
+        },
+        {
+          "objeto": "train_hgb",
+          "columna": "DIR_media_lag2",
+          "dtype": "float64",
+          "pct_ausentes": 0.0
+        },
+        {
+          "objeto": "train_hgb",
+          "columna": "DIR_media_lag24",
+          "dtype": "float64",
+          "pct_ausentes": 0.0
+        },
+        {
+          "objeto": "train_hgb",
+          "columna": "DIR_media_lag3",
+          "dtype": "float64",
+          "pct_ausentes": 0.0
+        },
+        {
+          "objeto": "validation_hgb",
+          "columna": "DIR_media_lag1",
+          "dtype": "float64",
+          "pct_ausentes": 0.0
+        },
+        {
+          "objeto": "validation_hgb",
+          "columna": "DIR_media_lag2",
+          "dtype": "float64",
+          "pct_ausentes": 0.0
+        },
+        {
+          "objeto": "validation_hgb",
+          "columna": "DIR_media_lag24",
+          "dtype": "float64",
+          "pct_ausentes": 0.0
+        },
+        {
+          "objeto": "validation_hgb",
+          "columna": "DIR_media_lag3",
+          "dtype": "float64",
+          "pct_ausentes": 0.0
+        }
+      ],
+      "objetos_detectados": [],
+      "n_columnas_detectadas": 12,
+      "n_objetos_detectados": 0
+    },
+    "SWU": {
+      "columnas_detectadas": [],
+      "objetos_detectados": [],
+      "n_columnas_detectadas": 0,
+      "n_objetos_detectados": 0
+    },
+    "ALBEDO": {
+      "columnas_detectadas": [],
+      "objetos_detectados": [],
+      "n_columnas_detectadas": 0,
+      "n_objetos_detectados": 0
+    },
+    "RH": {
+      "columnas_detectadas": [],
+      "objetos_detectados": [],
+      "n_columnas_detectadas": 0,
+      "n_objetos_detectados": 0
+    },
+    "PRESION": {
+      "columnas_detectadas": [],
+      "objetos_detectados": [],
+      "n_columnas_detectadas": 0,
+      "n_objetos_detectados": 0
+    }
+  }
+}

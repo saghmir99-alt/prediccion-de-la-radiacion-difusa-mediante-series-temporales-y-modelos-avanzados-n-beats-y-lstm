@@ -1,0 +1,7 @@
+{
+  "fecha_creacion_utc": "20261006T220505Z",
+  "directorio": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_meteo_20261006T220505Z",
+  "metricas": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_meteo_20261006T220505Z/metricas_validation_meteo.csv",
+  "estado": "reentrenamiento y validation completados",
+  "test_utilizado": false
+}

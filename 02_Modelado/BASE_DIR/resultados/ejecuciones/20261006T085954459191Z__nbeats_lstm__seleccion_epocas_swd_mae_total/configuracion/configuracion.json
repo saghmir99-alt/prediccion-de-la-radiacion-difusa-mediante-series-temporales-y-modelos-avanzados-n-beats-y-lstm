@@ -1,0 +1,22 @@
+{
+  "objective": "DIF(t+1)",
+  "window_hours": 24,
+  "channels": [
+    "DIF",
+    "elevacion",
+    "SWD_media",
+    "SWD_std_media",
+    "SWD_rango"
+  ],
+  "selection_metric": "MAE total de validación interna",
+  "optimizer": "Adam",
+  "loss": "L1Loss",
+  "batch_size": 128,
+  "learning_rate": 0.001,
+  "weight_decay": 1e-05,
+  "clip_norm": 1.0,
+  "max_epochs": 300,
+  "patience": 25,
+  "min_delta": 1e-05,
+  "device": "cpu"
+}

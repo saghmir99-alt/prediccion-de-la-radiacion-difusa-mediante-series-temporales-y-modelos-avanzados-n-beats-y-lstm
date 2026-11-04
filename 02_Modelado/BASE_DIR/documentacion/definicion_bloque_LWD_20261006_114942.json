@@ -1,0 +1,38 @@
+{
+  "block_name": "LWD",
+  "status": "composicion_confirmada_pendiente_construccion",
+  "created_at_europe_madrid": "2026-10-06T11:49:42.520221+02:00",
+  "source_file": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/radiation_data_completo.parquet",
+  "source_columns": {
+    "LWD_media": "LWD [W/m**2]",
+    "LWD_std_media": "LWD std dev [W/m**2]",
+    "LWD_min_source": "LWD min [W/m**2]",
+    "LWD_max_source": "LWD max [W/m**2]"
+  },
+  "hourly_transformations": {
+    "LWD_media": "media horaria de LWD [W/m**2]",
+    "LWD_std_media": "media horaria de LWD std dev [W/m**2]",
+    "LWD_rango": "maximo horario de LWD max [W/m**2] menos minimo horario de LWD min [W/m**2]"
+  },
+  "history_window_hours": 24,
+  "forecast_horizon_hours": 1,
+  "base_inputs": [
+    "DIF histórica",
+    "elevación histórica"
+  ],
+  "candidate_inputs": [
+    "DIF histórica",
+    "elevación histórica",
+    "LWD_media histórica",
+    "LWD_std_media histórica",
+    "LWD_rango histórico"
+  ],
+  "architectures": [
+    "N-BEATS congelada",
+    "LSTM congelada"
+  ],
+  "selection_partition": "validacion interna de train",
+  "selection_criterion": "MAE total interno",
+  "external_validation_used_during_screening": false,
+  "test_used": false
+}

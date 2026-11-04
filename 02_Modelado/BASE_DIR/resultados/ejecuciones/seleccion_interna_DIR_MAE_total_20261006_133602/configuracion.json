@@ -1,0 +1,38 @@
+{
+  "run_id": "seleccion_interna_DIR_MAE_total_20261006_133602",
+  "created_at_europe_madrid": "2026-10-06T13:37:54.354464+02:00",
+  "block": "DIR",
+  "channel_names": [
+    "DIF",
+    "elevacion",
+    "DIR_media",
+    "DIR_std_media",
+    "DIR_rango"
+  ],
+  "input_shape": [
+    5149,
+    24,
+    5
+  ],
+  "subtrain_rows": 4428,
+  "internal_validation_rows": 721,
+  "selection_criterion": "MAE total de validacion interna",
+  "diagnostic_metric": "MAE operacional interno",
+  "selected_epochs": {
+    "NBEATS_DIF_ELEV_DIR": 7,
+    "LSTM_DIF_ELEV_DIR": 53
+  },
+  "missing_value_treatment": "agregados horarios con los minutos disponibles; sin imputacion",
+  "quality_indicators_used_as_inputs": false,
+  "seed": 42,
+  "batch_size": 128,
+  "optimizer": "Adam",
+  "learning_rate": 0.001,
+  "weight_decay": 1e-05,
+  "gradient_clip": 1.0,
+  "maximum_epochs": 300,
+  "patience": 25,
+  "minimum_delta": 1e-05,
+  "external_validation_used": false,
+  "test_used": false
+}

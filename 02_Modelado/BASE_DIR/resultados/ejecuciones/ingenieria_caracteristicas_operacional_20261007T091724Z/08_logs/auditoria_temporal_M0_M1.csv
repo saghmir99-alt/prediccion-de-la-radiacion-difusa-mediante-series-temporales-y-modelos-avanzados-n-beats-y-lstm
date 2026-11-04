@@ -1,0 +1,9 @@
+comprobacion,coincide,diferencia_maxima,diferencia_media
+train DIF T-24,True,0.0,0.0
+train DIF T-1,True,0.0,0.0
+train elevación T-24,True,0.0,0.0
+train elevación T-1,True,0.0,0.0
+validation DIF T-24,True,0.0,0.0
+validation DIF T-1,True,0.0,0.0
+validation elevación T-24,True,0.0,0.0
+validation elevación T-1,True,0.0,0.0

@@ -1,0 +1,3 @@
+particion,n_objetivos,ventanas_con_hora_imputada,ventanas_con_hora_menos_30,ventanas_con_hora_incompleta
+train,5149,24,24,2396
+validation,1464,0,0,729

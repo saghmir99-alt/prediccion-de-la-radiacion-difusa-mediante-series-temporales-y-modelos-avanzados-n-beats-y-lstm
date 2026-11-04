@@ -1,0 +1,4 @@
+configuración,mejor época,MAE operación,veredicto,cambio operación,"IC97,5 operación",cambio central,"IC97,5 central",cambio amanecer (%),"1 mejora ≥0,5 e IC<0",2 central sin empeorar,3 amanecer ≤4 %
+BASE · E1-30 (9 canales),30,25.38599344783358,referencia,,,,,,,,
+V2a · + kt y kt_sd (11 canales),30,25.270120164678666,no pasa,-0.11587328315491836,"[-0.43, +0.22]",-0.2979817188961405,"[-1.29, +0.66]",-2.072764674569665,False,True,True
+V2b · + one-hot del cielo (13 canales),25,25.814701967850773,no pasa,0.42870852001718945,"[-0.23, +1.02]",0.8911665347820157,"[-0.87, +2.74]",16.120347842914985,False,True,False

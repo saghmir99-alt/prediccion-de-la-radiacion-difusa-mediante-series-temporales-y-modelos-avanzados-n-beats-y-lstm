@@ -1,0 +1,50 @@
+{
+  "M5": {
+    "descripcion": "DIFstats + Pmedia",
+    "canales": [
+      "DIF_media",
+      "elevacion",
+      "DIF_std",
+      "DIF_rango",
+      "P_media"
+    ],
+    "forma_train": [
+      5149,
+      24,
+      5
+    ],
+    "forma_validation": [
+      1464,
+      24,
+      5
+    ]
+  },
+  "M6": {
+    "descripcion": "DIFstats + T2quad + RHquad + Pmedia",
+    "canales": [
+      "DIF_media",
+      "elevacion",
+      "DIF_std",
+      "DIF_rango",
+      "T2_media",
+      "T2_pendiente",
+      "T2_curvatura",
+      "RH_media",
+      "RH_pendiente",
+      "RH_curvatura",
+      "P_media"
+    ],
+    "forma_train": [
+      5149,
+      24,
+      11
+    ],
+    "forma_validation": [
+      1464,
+      24,
+      11
+    ]
+  },
+  "origen_meteorologia": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/preparacion_bloque_meteo_20261006T214805Z/matrices_meteo_train_validation.npz",
+  "protocolo": "original_sin_mascara_nocturna"
+}

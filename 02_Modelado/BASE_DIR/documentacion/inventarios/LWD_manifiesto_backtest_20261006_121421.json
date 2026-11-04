@@ -1,0 +1,36 @@
+{
+  "created_at_europe_madrid": "2026-10-06T12:14:21.295757+02:00",
+  "test_used": false,
+  "files": [
+    {
+      "ruta": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/documentacion/inventarios/LWD_contexto_hora_ausente_20261006_121421.csv",
+      "tamano_bytes": 1433,
+      "sha256": "68d1dc54af5ce57f7b508a5d3cf75428a4638d8d2ab42e7d742213ac32c5e52f"
+    },
+    {
+      "ruta": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/documentacion/inventarios/LWD_backtest_imputacion_20261006_121421.csv",
+      "tamano_bytes": 2067,
+      "sha256": "8b6eeceb0064753e4aa0e59f63a961df4e902584c761be2b362a551aaa339b5c"
+    },
+    {
+      "ruta": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/documentacion/inventarios/LWD_ranking_imputacion_20261006_121421.csv",
+      "tamano_bytes": 464,
+      "sha256": "635fe9c6a71bec6d6ed765ddadfd5e15fd0eab9334b0b86d51c9f3ca0fdd90d4"
+    },
+    {
+      "ruta": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/documentacion/inventarios/LWD_mejor_imputacion_variable_20261006_121421.csv",
+      "tamano_bytes": 476,
+      "sha256": "ae549bbac1af736f0ce6d9b949770187ef5af07b8c7cf591a7b8e657125ae0fc"
+    },
+    {
+      "ruta": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/documentacion/inventarios/LWD_valores_imputacion_20261006_121421.csv",
+      "tamano_bytes": 472,
+      "sha256": "3e6a549a75b54c31af0228e42593075ec61378c501b13c1c810d53c1adeca1e5"
+    },
+    {
+      "ruta": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/documentacion/inventarios/LWD_metadatos_backtest_20261006_121421.json",
+      "tamano_bytes": 333,
+      "sha256": "1f909a6d56dbceaee19b2a471a5b1a34de978176c1174ef167642cde77ad15cc"
+    }
+  ]
+}

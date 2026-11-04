@@ -1,0 +1,6 @@
+N7 · BANDAS DE INCERTIDUMBRE PARA LA N-BEATS-1h (validación ago–sep 2024, horas con sol)
+================================================================================
+80%: cobertura D1 81.1 % · ancho medio 78.7 W/m² (fijo 77.6) · Winkler -19.57 [-25.69, -13.73] · peor grupo cielo: nubosidad variable (74.7 %) → NO SE ACEPTA
+90%: cobertura D1 90.0 % · ancho medio 108.1 W/m² (fijo 121.0) · Winkler -21.91 [-32.43, -10.63] · peor grupo cielo: velado (85.4 %) → SE ACEPTA D1
+Spearman σ̂ vs error real: 0.62
+MAE N-BEATS-1h 23.24 · persistencia 45.03 · persistencia inteligente 32.63 W/m²

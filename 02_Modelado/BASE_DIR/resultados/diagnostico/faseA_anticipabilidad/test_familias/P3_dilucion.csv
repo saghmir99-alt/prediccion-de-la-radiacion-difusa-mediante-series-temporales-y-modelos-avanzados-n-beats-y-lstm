@@ -1,0 +1,5 @@
+dirección,modelo,coste medio de 31 variables falsas (ΔPR-AUC),rango en 5 repeticiones,repeticiones con empeoramiento significativo,I2 − I1 (ayer),mejor familia sola (P1),¿hay dilución?
+subidas,HGB,-0.0011751784513175656,"[-0.026, +0.009]",0/5,0.07557960066354713,0.03858461848170869,no relevante
+subidas,Logística,-0.015727781346962965,"[-0.030, -0.001]",2/5,0.010918087299650048,0.00885082997772163,no relevante
+bajadas,HGB,0.0026752522753437204,"[-0.038, +0.030]",0/5,0.01549323294849464,0.05024914247352219,no relevante
+bajadas,Logística,-0.02443855497326456,"[-0.034, -0.011]",2/5,-0.0027064565572456623,0.015542061953797537,no relevante

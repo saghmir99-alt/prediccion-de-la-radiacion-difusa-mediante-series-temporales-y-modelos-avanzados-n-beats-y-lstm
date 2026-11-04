@@ -1,0 +1,11 @@
+INFORME H1 + H2 · Optimización de hiperparámetros de E1-30
+======================================================================
+H1: 32 intentos completos y 0 podados. Datos: solo train, 4 meses fuera, semilla 42.
+Mejor intento de H1: n.º 31 con MAE 25.34 W/m² (E1-30 en H1: 25.64).
+
+H2 (semillas 42 y 123, por parejas frente a E1-30):
+  intento 31: cambio -0.24 W/m² [-0.61, +0.11] · central -0.18 · amanecer -23.8 % → no gana  · {"lr": 0.0005372667829032765, "batch": 128, "hidden": 32, "capas": 2, "wd": 1.8280603136690437e-05, "dropout_capas": 0.0}
+  intento 27: cambio -0.33 W/m² [-0.64, -0.04] · central -0.27 · amanecer -21.4 % → no gana  · {"lr": 0.0003144507111458922, "batch": 128, "hidden": 64, "capas": 2, "wd": 2.1412554070126444e-06, "dropout_capas": 0.0}
+  intento 23: cambio -0.25 W/m² [-0.50, -0.02] · central +0.20 · amanecer -16.5 % → no gana  · {"lr": 0.00034311277026846887, "batch": 128, "hidden": 64, "capas": 1, "wd": 7.457180693872641e-06}
+
+VEREDICTO: ninguna combinación cumple los 3 criterios. E1-30 se mantiene como modelo final; no se toca validación. Siguiente: D1.

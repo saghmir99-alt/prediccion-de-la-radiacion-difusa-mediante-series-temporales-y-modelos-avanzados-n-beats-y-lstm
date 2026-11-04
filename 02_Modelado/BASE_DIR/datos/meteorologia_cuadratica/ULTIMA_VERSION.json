@@ -1,0 +1,8 @@
+{
+  "fecha_creacion_utc": "20261006T213853Z",
+  "directorio_version": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/datos/meteorologia_cuadratica/version_20261006T213853Z",
+  "archivo_variables_modelo": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/datos/meteorologia_cuadratica/version_20261006T213853Z/variables_modelo_meteo.parquet",
+  "archivo_completo": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/datos/meteorologia_cuadratica/version_20261006T213853Z/meteo_cuadratico_horario_completo.parquet",
+  "archivo_configuracion": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/datos/meteorologia_cuadratica/version_20261006T213853Z/configuracion_variables_meteo.json",
+  "archivo_manifest": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/datos/meteorologia_cuadratica/version_20261006T213853Z/manifest_archivos.json"
+}

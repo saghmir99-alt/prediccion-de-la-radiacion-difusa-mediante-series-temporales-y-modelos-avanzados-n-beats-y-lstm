@@ -1,0 +1,36 @@
+{
+  "run_id": "preparacion_bloque_DIR_20261006_134545",
+  "created_at_europe_madrid": "2026-10-06T13:45:45.516546+02:00",
+  "block": "DIR",
+  "status": "bloque_construido",
+  "channel_names": [
+    "DIF",
+    "elevacion",
+    "DIR_media",
+    "DIR_std_media",
+    "DIR_rango"
+  ],
+  "DIR_channels": [
+    "DIR_media",
+    "DIR_std_media",
+    "DIR_rango"
+  ],
+  "history_window_hours": 24,
+  "forecast_horizon_hours": 1,
+  "train_shape": [
+    5149,
+    24,
+    5
+  ],
+  "validation_shape": [
+    1464,
+    24,
+    5
+  ],
+  "missing_value_treatment": "agregados calculados con los minutos disponibles; ninguna hora vacia",
+  "negative_values_modified": false,
+  "quality_indicators_used_as_inputs": false,
+  "scaling_applied": false,
+  "models_trained": false,
+  "test_used": false
+}

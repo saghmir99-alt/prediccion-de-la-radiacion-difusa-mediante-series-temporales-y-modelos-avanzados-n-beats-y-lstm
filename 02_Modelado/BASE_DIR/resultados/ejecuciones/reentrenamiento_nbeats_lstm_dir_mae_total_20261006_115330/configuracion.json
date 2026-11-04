@@ -1,0 +1,57 @@
+{
+  "run_name": "reentrenamiento_nbeats_lstm_dir_mae_total_20261006_115330",
+  "timestamp": "20261006_115330",
+  "directorio_base": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado",
+  "directorio_ejecucion": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_nbeats_lstm_dir_mae_total_20261006_115330",
+  "bloque": "DIF_Elev_DIR",
+  "canales": [
+    "DIF",
+    "elevacion",
+    "DIR_media",
+    "DIR_std_media",
+    "DIR_rango"
+  ],
+  "n_canales": 5,
+  "window": 24,
+  "horizon": 1,
+  "criterio_seleccion_interna": "MAE total",
+  "seleccion_interna": {
+    "N-BEATS": {
+      "epoca_seleccionada": 7,
+      "MAE_interna_total": 26.4311008453,
+      "MAE_interna_operativa": 36.933177948
+    },
+    "LSTM": {
+      "epoca_seleccionada": 53,
+      "MAE_interna_total": 23.2183227539,
+      "MAE_interna_operativa": 32.6534729004
+    }
+  },
+  "entrenamiento": {
+    "seed": 42,
+    "batch_size": 128,
+    "optimizer": "Adam",
+    "learning_rate": 0.001,
+    "weight_decay": 1e-05,
+    "gradient_clip": 1.0,
+    "loss": "MAE/L1 sobre objetivo escalado",
+    "device": "cpu",
+    "early_stopping": false
+  },
+  "arquitecturas": {
+    "N-BEATS": {
+      "parametros": 310422,
+      "epocas_reentrenamiento": 7
+    },
+    "LSTM": {
+      "parametros": 20289,
+      "epocas_reentrenamiento": 53
+    }
+  },
+  "particiones": {
+    "n_train": 5149,
+    "n_validation": 1464,
+    "test_utilizado": false
+  },
+  "nota_metodologica": "Se reentrenan N-BEATS y LSTM para mantener un protocolo simétrico. N-BEATS se conserva aunque su resultado interno no mejoró los bloques previos."
+}

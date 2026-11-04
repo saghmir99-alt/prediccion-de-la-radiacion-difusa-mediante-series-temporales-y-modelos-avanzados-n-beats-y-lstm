@@ -1,0 +1,61 @@
+{
+  "created_at_europe_madrid": "2026-10-06T11:49:42.595109+02:00",
+  "train": {
+    "name": "train_hgb",
+    "shape": [
+      5149,
+      21
+    ],
+    "index_type": "RangeIndex",
+    "index_name": "None",
+    "index_is_unique": true,
+    "index_is_monotonic_increasing": true,
+    "temporal_columns": [],
+    "index_first": "0",
+    "index_last": "5148",
+    "temporal_details": {}
+  },
+  "validation": {
+    "name": "validation_hgb",
+    "shape": [
+      1464,
+      21
+    ],
+    "index_type": "RangeIndex",
+    "index_name": "None",
+    "index_is_unique": true,
+    "index_is_monotonic_increasing": true,
+    "temporal_columns": [],
+    "index_first": "0",
+    "index_last": "1463",
+    "temporal_details": {}
+  },
+  "parquet": {
+    "path": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/radiation_data_completo.parquet",
+    "number_of_rows_metadata_only": 570240,
+    "number_of_row_groups": 1,
+    "datetime_column": "Date/Time",
+    "datetime_arrow_type": "timestamp[ns]",
+    "required_lwd_columns_present": true,
+    "row_group_time_statistics": [
+      {
+        "row_group": 0,
+        "n_rows": 570240,
+        "has_statistics": true,
+        "minimum": "2023-11-01 00:00:00",
+        "maximum": "2024-11-30 23:59:00"
+      }
+    ]
+  },
+  "alignment": {
+    "train_hgb_rows": 5149,
+    "validation_hgb_rows": 1464,
+    "X_train_DIF_elev_rows": 5149,
+    "X_validation_DIF_elev_rows": 1464,
+    "y_train_rows": 5149,
+    "y_validation_rows": 1464
+  },
+  "parquet_rows_loaded": 0,
+  "blocks_created": false,
+  "test_used": false
+}

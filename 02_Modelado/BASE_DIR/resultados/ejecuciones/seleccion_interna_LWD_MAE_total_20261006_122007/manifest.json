@@ -1,0 +1,53 @@
+{
+  "run_id": "seleccion_interna_LWD_MAE_total_20261006_122007",
+  "status": "completed",
+  "external_validation_used": false,
+  "test_used": false,
+  "files": [
+    {
+      "ruta_relativa": "checkpoints_seleccion/LSTM_DIF_ELEV_LWD.pt",
+      "tamano_bytes": 85529,
+      "sha256": "439d2bb265f75473383e073f28e46ccfc9bea396b5d96a828094c62ffee5ca2a"
+    },
+    {
+      "ruta_relativa": "checkpoints_seleccion/NBEATS_DIF_ELEV_LWD.pt",
+      "tamano_bytes": 1264519,
+      "sha256": "161df2bcf4a20969366dfdfae53aaef1e547898021e11d9543df8e4681d85436"
+    },
+    {
+      "ruta_relativa": "configuracion.json",
+      "tamano_bytes": 1045,
+      "sha256": "d42bdccb60f3702d08b3d12a335eaf93d90db14193dfb468eabd713328af216f"
+    },
+    {
+      "ruta_relativa": "escaladores_subtrain.json",
+      "tamano_bytes": 418,
+      "sha256": "2943b72df229fb15ffe730124dc22b763521863823648a87582db2592b80a566"
+    },
+    {
+      "ruta_relativa": "escaladores_subtrain.pkl",
+      "tamano_bytes": 213,
+      "sha256": "d7f54497c5794778e118e114345cbdfb1f19eb36ec91a0ec7c650ae1d75f6c27"
+    },
+    {
+      "ruta_relativa": "historiales/historial_LSTM_DIF_ELEV_LWD.csv",
+      "tamano_bytes": 5275,
+      "sha256": "8206012d63471fb5d49cdc1de1819fc0b1d9599a6a2883c03c4b8d6afe8f398f"
+    },
+    {
+      "ruta_relativa": "historiales/historial_NBEATS_DIF_ELEV_LWD.csv",
+      "tamano_bytes": 2485,
+      "sha256": "a01ad9184c878ba2a6b258eef3c0ed396dde90b7299270d2de7e26e3e5238256"
+    },
+    {
+      "ruta_relativa": "predicciones_internas/predicciones_validacion_interna.npz",
+      "tamano_bytes": 8041,
+      "sha256": "0e56be524b724695cd08a64e88fbd36ed289b6e03c2a5b884fb48a62e65db065"
+    },
+    {
+      "ruta_relativa": "resumen_seleccion.csv",
+      "tamano_bytes": 487,
+      "sha256": "a6a56f5286affbc527f12879ab7eec14f48a537bf2bdbfc50aa1330404a9e666"
+    }
+  ]
+}

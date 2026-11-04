@@ -1,0 +1,1 @@
+NINGUNA PASA: ni la escala logarítmica ni el dropout mejoran a la N-BEATS lo suficiente. La N-BEATS-DIFstats de P1 (época 15) se mantiene.

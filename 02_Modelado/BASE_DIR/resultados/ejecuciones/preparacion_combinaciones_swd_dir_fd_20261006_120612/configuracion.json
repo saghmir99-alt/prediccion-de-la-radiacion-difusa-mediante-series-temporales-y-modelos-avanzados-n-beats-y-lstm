@@ -1,0 +1,100 @@
+{
+  "timestamp": "20261006_120612",
+  "directorio_base": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado",
+  "umbral_SWD_fraccion_difusa": 20.0,
+  "elevacion_minima": 0.0,
+  "limites_fraccion_difusa": [
+    0.0,
+    1.2
+  ],
+  "fraccion_calculada_solo_con_historia": true,
+  "usa_objetivo_t": false,
+  "canales": {
+    "SWD": [
+      "DIF",
+      "elevacion",
+      "SWD_media",
+      "SWD_std_media",
+      "SWD_rango"
+    ],
+    "SWD_DIR": [
+      "DIF",
+      "elevacion",
+      "SWD_media",
+      "SWD_std_media",
+      "SWD_rango",
+      "DIR_media",
+      "DIR_std_media",
+      "DIR_rango"
+    ],
+    "SWD_FD": [
+      "DIF",
+      "elevacion",
+      "SWD_media",
+      "SWD_std_media",
+      "SWD_rango",
+      "fraccion_difusa"
+    ],
+    "SWD_DIR_FD": [
+      "DIF",
+      "elevacion",
+      "SWD_media",
+      "SWD_std_media",
+      "SWD_rango",
+      "DIR_media",
+      "DIR_std_media",
+      "DIR_rango",
+      "fraccion_difusa"
+    ]
+  },
+  "formas": {
+    "SWD_DIR_train": [
+      5149,
+      24,
+      8
+    ],
+    "SWD_DIR_validation": [
+      1464,
+      24,
+      8
+    ],
+    "SWD_FD_train": [
+      5149,
+      24,
+      6
+    ],
+    "SWD_FD_validation": [
+      1464,
+      24,
+      6
+    ],
+    "SWD_DIR_FD_train": [
+      5149,
+      24,
+      9
+    ],
+    "SWD_DIR_FD_validation": [
+      1464,
+      24,
+      9
+    ]
+  },
+  "resumen_train": {
+    "n_total": 123576,
+    "n_validos": 61107,
+    "porcentaje_valido": 49.448922120800155,
+    "n_no_validos_asignados_cero": 62469,
+    "n_recorte_inferior": 0,
+    "n_recorte_superior": 0,
+    "porcentaje_recortado_superior_sobre_validos": 0.0
+  },
+  "resumen_validation": {
+    "n_total": 35136,
+    "n_validos": 18473,
+    "porcentaje_valido": 52.5757058287796,
+    "n_no_validos_asignados_cero": 16663,
+    "n_recorte_inferior": 0,
+    "n_recorte_superior": 24,
+    "porcentaje_recortado_superior_sobre_validos": 0.12991934174200184
+  }
+}

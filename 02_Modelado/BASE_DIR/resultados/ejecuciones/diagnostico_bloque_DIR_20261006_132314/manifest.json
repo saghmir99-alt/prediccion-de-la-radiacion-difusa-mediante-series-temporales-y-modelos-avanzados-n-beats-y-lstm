@@ -1,0 +1,47 @@
+{
+  "run_id": "diagnostico_bloque_DIR_20261006_132314",
+  "status": "completed",
+  "test_used": false,
+  "files": [
+    {
+      "ruta_relativa": "configuracion.json",
+      "tamano_bytes": 1196,
+      "sha256": "ea73f2d5f328f254efd4964bfad8d13401b2c9151202d8a1d6b30d5d3426760c"
+    },
+    {
+      "ruta_relativa": "descriptivos_horarios_DIR.csv",
+      "tamano_bytes": 404,
+      "sha256": "d695fde0483c4462cf16d748078ac40b72d6782480b6e07ea1953e60fa118d7b"
+    },
+    {
+      "ruta_relativa": "horas_DIR_media_negativa.csv",
+      "tamano_bytes": 15619,
+      "sha256": "9e800a19f40dd6bf47bbcd06c8f2e0dadb42f729e0e54f06d2c7677ebb35726c"
+    },
+    {
+      "ruta_relativa": "horas_incompletas_DIR.csv",
+      "tamano_bytes": 14476,
+      "sha256": "b279e4d16c035a783d8d0574eeea1203b698a9061c6c2669ab37de9a24f04759"
+    },
+    {
+      "ruta_relativa": "patrones_nulos_minutales_DIR.csv",
+      "tamano_bytes": 133,
+      "sha256": "2f9a568bcb17c26504257ef113415e076bfb48c51e55d6770af5a406b6163141"
+    },
+    {
+      "ruta_relativa": "resumen_cobertura_horaria_DIR.csv",
+      "tamano_bytes": 109,
+      "sha256": "ac1f1b85fd1827dcbc8b05aa480eacd150c1c1c796fc4b64dcbf26061fc54766"
+    },
+    {
+      "ruta_relativa": "resumen_minutal_DIR.csv",
+      "tamano_bytes": 662,
+      "sha256": "67b7a4be0621644a765e415c71552dd0eeedf3894af1a56e71cfb306b3f44296"
+    },
+    {
+      "ruta_relativa": "ventanas_afectadas_DIR.csv",
+      "tamano_bytes": 222,
+      "sha256": "f738b7e06c1fdffb8bcb99267a4b3d0fab69a17b5b0e182538b8c9bfd3036cb9"
+    }
+  ]
+}

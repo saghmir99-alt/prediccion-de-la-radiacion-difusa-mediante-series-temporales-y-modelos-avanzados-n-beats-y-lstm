@@ -1,0 +1,101 @@
+{
+  "nombre": "ingenieria_caracteristicas_operacional",
+  "timestamp_creacion_utc": "20261007T091724Z",
+  "directorio_ejecucion": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/ingenieria_caracteristicas_operacional_20261007T091724Z",
+  "objetivo": "Mejorar la predicción durante operación, especialmente en transiciones solares y rampas diurnas.",
+  "variable_objetivo": "DIF_objetivo_t1",
+  "horizonte_prediccion_horas": 1,
+  "particiones": {
+    "train": {
+      "inicio": "2023-12-30 00:00:00",
+      "fin": "2024-07-31 23:00:00",
+      "filas_historicas": 5149,
+      "uso": "ajuste y selección interna cronológica"
+    },
+    "validation": {
+      "inicio": "2024-08-01 00:00:00",
+      "fin": "2024-09-30 23:00:00",
+      "filas_historicas": 1464,
+      "uso": "evaluación externa y comparación de modelos"
+    },
+    "test": {
+      "inicio": "2024-10-01 00:00:00",
+      "fin": "2024-11-30 23:00:00",
+      "filas_historicas": null,
+      "uso": "CERRADO hasta la selección definitiva"
+    }
+  },
+  "seleccion_epocas": {
+    "procedimiento": "subtrain cronológico + validación interna",
+    "early_stopping": true,
+    "patience": 25,
+    "monitor": "val_loss",
+    "mode": "min",
+    "restore_best_weights": true,
+    "reentrenamiento_final": "desde cero con todo train durante la época seleccionada",
+    "validation_externa_para_epocas": false
+  },
+  "semillas": {
+    "cribado_inicial": 42,
+    "finalistas": [
+      42,
+      123,
+      456,
+      789,
+      2026
+    ]
+  },
+  "arquitecturas": [
+    "LSTM",
+    "NBEATS"
+  ],
+  "restriccion_arquitecturas": "Reutilizar exactamente las arquitecturas, optimizadores, escalado y configuración histórica. No modificar arquitectura y variables simultáneamente.",
+  "metricas_principales": [
+    "MAE",
+    "nMAE_historico",
+    "RMSE",
+    "R2",
+    "sesgo"
+  ],
+  "ambitos_evaluacion": [
+    "total_con_mascara_nocturna",
+    "operacion",
+    "completamente_diurno",
+    "transicion",
+    "amanecer",
+    "atardecer",
+    "noche_control",
+    "rampas_diurnas"
+  ],
+  "criterio_principal_seleccion": "MAE_operacion",
+  "criterios_secundarios": [
+    "MAE_transicion",
+    "MAE_completamente_diurno",
+    "MAE_rampas",
+    "RMSE_operacion",
+    "sesgo",
+    "estabilidad_entre_semillas",
+    "coste_computacional"
+  ],
+  "test_cerrado": true,
+  "regla_test": "No cargar, consultar, transformar ni evaluar test hasta haber seleccionado definitivamente modelos y variables.",
+  "ranking_origen": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/rankings_completos_modelos_20261007T082325Z",
+  "modelos_planificados": {
+    "M0": "DIF + Elevacion",
+    "M1": "DIFstats",
+    "M2": "DIFstats + SWD",
+    "M3": "DIFstats + SWD + DIR",
+    "M4": "DIFstats + SWD + DIR + FD",
+    "M5": "Mejor de M2-M4 + kt",
+    "M6": "Mejor de M2-M4 + Pmedia",
+    "M7": "Mejor de M2-M4 + kt + Pmedia, solo si procede"
+  },
+  "variables_aparcadas": [
+    "LWD",
+    "LWU",
+    "SWU",
+    "T2quad",
+    "RHquad",
+    "Pquad"
+  ]
+}

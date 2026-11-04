@@ -1,0 +1,3 @@
+﻿modelo,epoca_seleccionada,mae_interno_minimo,ultima_epoca_ejecutada,paciencia,parametros,tiempo_s
+NBEATS_DIF_Elev_LWU,13,26.397146224975586,38,25,310422,42.18906275500012
+LSTM_DIF_Elev_LWU,32,24.17343521118164,57,25,20289,50.16842591100067

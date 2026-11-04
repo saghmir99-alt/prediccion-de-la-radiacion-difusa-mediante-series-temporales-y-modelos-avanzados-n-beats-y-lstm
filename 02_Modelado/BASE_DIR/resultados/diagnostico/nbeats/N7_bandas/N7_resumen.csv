@@ -1,0 +1,3 @@
+nivel,cobertura D1 (%),cobertura fijo (%),ancho D1,ancho fijo,Winkler D1,Winkler fijo,cambio Winkler (D1 − fijo),IC95,peor grupo controlado,1 cobertura global,2 cobertura por grupo,3 Winkler mejor,4 Spearman > 0,veredicto
+80%,81.10859728506787,80.09049773755656,78.66707514731867,77.59045337782794,114.10749025177593,133.67981384854713,-19.572323596771223,"[-25.69, -13.73]",cielo: nubosidad variable (74.7 %),True,False,True,True,NO SE ACEPTA
+90%,90.04524886877829,89.81900452488688,108.0715440608346,121.02338828559442,143.80153881216282,165.7118691990312,-21.91033038686841,"[-32.43, -10.63]",cielo: velado (85.4 %),True,True,True,True,SE ACEPTA D1

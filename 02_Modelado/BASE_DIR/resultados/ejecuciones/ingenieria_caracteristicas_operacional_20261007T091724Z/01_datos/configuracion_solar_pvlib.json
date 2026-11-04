@@ -1,0 +1,10 @@
+{
+  "latitud": 51.971,
+  "longitud": 4.927,
+  "altitud_m": 0,
+  "zona_horaria": "UTC",
+  "metodo_pvlib": "nrel_numpy",
+  "elevacion_utilizada": "apparent_elevation",
+  "frecuencia": "1min",
+  "umbral_diurno": "apparent_elevation > 0"
+}

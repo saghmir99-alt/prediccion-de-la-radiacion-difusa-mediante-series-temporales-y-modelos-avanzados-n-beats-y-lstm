@@ -1,0 +1,46 @@
+{
+  "run_id": "reentrenamiento_lwd_mae_total_20261006_125836",
+  "created_at_europe_madrid": "2026-10-06T12:58:36.959136+02:00",
+  "purpose": "Reentrenamiento confirmatorio de N-BEATS y LSTM con DIF, elevacion y bloque LWD.",
+  "block": "LWD",
+  "channel_names": [
+    "DIF",
+    "elevacion",
+    "LWD_media",
+    "LWD_std_media",
+    "LWD_rango"
+  ],
+  "selection_criterion": "MAE total de validacion interna",
+  "selected_epochs": {
+    "NBEATS_DIF_ELEV_LWD": 6,
+    "LSTM_DIF_ELEV_LWD": 43
+  },
+  "retraining_partition": "train completo",
+  "external_evaluation_partition": "validation",
+  "external_validation_role": "comparacion confirmatoria del bloque; no se reajustan epocas ni arquitectura",
+  "train_shape": [
+    5149,
+    24,
+    5
+  ],
+  "validation_shape": [
+    1464,
+    24,
+    5
+  ],
+  "seed": 42,
+  "device": "cpu",
+  "batch_size": 128,
+  "optimizer": "Adam",
+  "learning_rate": 0.001,
+  "weight_decay": 1e-05,
+  "loss": "L1Loss",
+  "gradient_clip": 1.0,
+  "imputation": {
+    "empty_hour": "2024-03-15T10:00:00+00:00",
+    "method": "arrastre causal de la hora anterior",
+    "selected_by": "backtest causal sobre subtrain",
+    "quality_indicators_used_as_inputs": false
+  },
+  "test_used": false
+}

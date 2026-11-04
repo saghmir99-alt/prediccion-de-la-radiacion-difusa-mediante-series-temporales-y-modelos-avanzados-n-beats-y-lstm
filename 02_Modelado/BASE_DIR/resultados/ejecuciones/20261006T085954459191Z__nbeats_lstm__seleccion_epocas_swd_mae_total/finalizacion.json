@@ -1,0 +1,15 @@
+{
+  "run_id": "20261006T085954459191Z__nbeats_lstm__seleccion_epocas_swd_mae_total",
+  "status": "selection_completed",
+  "archived_at_utc": "2026-10-06T09:01:36.570998+00:00",
+  "summary": {
+    "selected_epochs": {
+      "NBEATS_DIF_ELEV_SWD": 18,
+      "LSTM_DIF_ELEV_SWD": 59
+    },
+    "selection_metric": "MAE total de validación interna",
+    "external_validation_used": false,
+    "test_used": false
+  },
+  "test_accessed": false
+}

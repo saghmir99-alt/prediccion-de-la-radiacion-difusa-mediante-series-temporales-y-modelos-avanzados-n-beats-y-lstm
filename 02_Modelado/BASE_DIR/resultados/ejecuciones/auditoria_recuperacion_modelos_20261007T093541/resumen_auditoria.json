@@ -1,0 +1,20 @@
+{
+  "fecha_auditoria": "2026-10-07T09:35:41.394891+02:00",
+  "base_dir": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado",
+  "comparativa_recuperada": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z",
+  "n_artefactos": 448,
+  "n_archivos_predicciones": 8,
+  "modelos_pendientes": [
+    "LSTM-DIR",
+    "LSTM-GeomT",
+    "LSTM-SWD+DIR",
+    "LSTM-SWD+DIR+FD",
+    "LSTM-SWD+FD",
+    "NBEATS-DIR",
+    "NBEATS-Delta",
+    "NBEATS-GeomT",
+    "NBEATS-SWD+DIR",
+    "NBEATS-SWD+DIR+FD",
+    "NBEATS-SWD+FD"
+  ]
+}

@@ -1,0 +1,7 @@
+dirección,comparación,ΔPR-AUC,IC95,lectura
+subidas,E1 − I1 HGB,-0.03130325343145529,"[-0.169, +0.106]",sin diferencia detectable
+subidas,E1 − I1 Logística,-0.006074632029810956,"[-0.107, +0.083]",sin diferencia detectable
+subidas,E1 − I1 media,-0.03531191887445201,"[-0.177, +0.087]",sin diferencia detectable
+bajadas,E1 − I1 HGB,0.049032348611981524,"[-0.043, +0.141]",sin diferencia detectable
+bajadas,E1 − I1 Logística,-0.016086371012034917,"[-0.125, +0.091]",sin diferencia detectable
+bajadas,E1 − I1 media,-0.017186466864124395,"[-0.117, +0.087]",sin diferencia detectable

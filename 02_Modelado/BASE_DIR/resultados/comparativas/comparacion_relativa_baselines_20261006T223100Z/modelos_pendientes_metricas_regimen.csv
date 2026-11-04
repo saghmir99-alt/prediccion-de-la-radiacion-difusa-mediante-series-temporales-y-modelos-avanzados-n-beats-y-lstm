@@ -1,0 +1,12 @@
+modelo,arquitectura,completamente_diurno,global,noche,operacion,transicion,n_ambitos_disponibles,perfil_completo
+LSTM-DIR,LSTM,,16.3258781,,,,1,False
+LSTM-GeomT,LSTM,,16.2659796,,,,1,False
+LSTM-SWD+DIR,LSTM,,16.3507442,,,,1,False
+LSTM-SWD+DIR+FD,LSTM,,15.8854351,,,,1,False
+LSTM-SWD+FD,LSTM,,16.2305412,,,,1,False
+NBEATS-DIR,NBEATS,,19.3899651,,,,1,False
+NBEATS-Delta,NBEATS,,18.0397694,,,,1,False
+NBEATS-GeomT,NBEATS,,17.8262339,,,,1,False
+NBEATS-SWD+DIR,NBEATS,,18.5955696,,,,1,False
+NBEATS-SWD+DIR+FD,NBEATS,,20.7894917,,,,1,False
+NBEATS-SWD+FD,NBEATS,,18.4684811,,,,1,False

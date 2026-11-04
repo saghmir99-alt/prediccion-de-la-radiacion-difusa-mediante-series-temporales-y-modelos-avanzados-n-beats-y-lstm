@@ -1,0 +1,3 @@
+particion,n_objetivos,ventanas_con_hora_incompleta,ventanas_con_hora_menos_30,ventanas_con_hora_vacia,max_horas_incompletas_por_ventana,minima_cobertura_observada
+train,5149,1669,24,0,6,29.0
+validation,1464,626,0,0,4,39.0

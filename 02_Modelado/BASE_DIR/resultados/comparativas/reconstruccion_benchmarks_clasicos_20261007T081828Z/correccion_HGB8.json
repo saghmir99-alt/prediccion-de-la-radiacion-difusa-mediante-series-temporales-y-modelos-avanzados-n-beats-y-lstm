@@ -1,0 +1,9 @@
+{
+  "modelo_canonico": "HGB-8V",
+  "modelo_fuente": "M3-HGB-8V-DIF-Elevacion-AbsoluteError-Global",
+  "loss": "absolute_error",
+  "MAE_anterior_manual": 17.034,
+  "MAE_reconstruido": 17.01353214653872,
+  "motivo": "El MAE anterior fue introducido manualmente y no coincide con las predicciones conservadas. RMSE y R2 identifican inequívocamente la variante AbsoluteError.",
+  "test_utilizado": false
+}

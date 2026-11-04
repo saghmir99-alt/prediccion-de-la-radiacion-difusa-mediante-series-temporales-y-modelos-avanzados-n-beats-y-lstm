@@ -1,0 +1,7 @@
+{
+  "formula": "100 * MAE / media(DIF_observada_del_ambito)",
+  "denominador": "Media de DIF observada dentro del mismo conjunto y régimen evaluado",
+  "mediana": "Se muestra como información descriptiva, pero no se utiliza como denominador oficial",
+  "noche": "nMAE no informado porque la media de DIF es negativa o próxima a cero",
+  "ambito_principal": "operacion"
+}

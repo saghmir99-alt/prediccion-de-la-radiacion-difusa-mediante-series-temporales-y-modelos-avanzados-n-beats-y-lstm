@@ -1,0 +1,17 @@
+{
+  "configuracion": "DIF_elev_Pquad",
+  "arquitectura": "LSTM",
+  "n_canales": 5,
+  "n_parametros": 20289,
+  "epocas_reentrenamiento": 35,
+  "MAE": 17.30274509935375,
+  "nMAE_pct": 20.115767135107873,
+  "RMSE": 33.32247790727588,
+  "R2": 0.9050096640439806,
+  "bias": 1.9486146084239064,
+  "tiempo_entrenamiento_segundos": 32.99769732899995,
+  "segundos_por_epoca": 0.9427913522571414,
+  "inferencia_validation_segundos": 0.08323698999993212,
+  "inferencia_ms_por_muestra": 0.056855867486292434,
+  "tamano_modelo_MB": 0.08151721954345703
+}

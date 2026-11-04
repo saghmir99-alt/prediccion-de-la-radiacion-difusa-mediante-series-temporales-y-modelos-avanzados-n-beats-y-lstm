@@ -1,0 +1,632 @@
+modelo_en_archivo,ruta
+LSTM-DIFstats,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/tabla_decision_dependencia_nocturna.csv
+LSTM-SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/tabla_decision_dependencia_nocturna.csv
+LSTM-Pmedia,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/tabla_decision_dependencia_nocturna.csv
+LSTM-DIF+Elevación,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/tabla_decision_dependencia_nocturna.csv
+LSTM-LWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/tabla_decision_dependencia_nocturna.csv
+LSTM-SWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/tabla_decision_dependencia_nocturna.csv
+LSTM-solo DIF,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/tabla_decision_dependencia_nocturna.csv
+LSTM-LWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/tabla_decision_dependencia_nocturna.csv
+LSTM-RHquad,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/tabla_decision_dependencia_nocturna.csv
+LSTM-Pquad,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/tabla_decision_dependencia_nocturna.csv
+LSTM-T2quad,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/tabla_decision_dependencia_nocturna.csv
+NBEATS-DIF+Elevación,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/tabla_decision_dependencia_nocturna.csv
+NBEATS-SWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/tabla_decision_dependencia_nocturna.csv
+NBEATS-DIFstats,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/tabla_decision_dependencia_nocturna.csv
+NBEATS-Pmedia,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/tabla_decision_dependencia_nocturna.csv
+NBEATS-SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/tabla_decision_dependencia_nocturna.csv
+NBEATS-solo DIF,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/tabla_decision_dependencia_nocturna.csv
+NBEATS-Pquad,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/tabla_decision_dependencia_nocturna.csv
+NBEATS-LWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/tabla_decision_dependencia_nocturna.csv
+NBEATS-LWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/tabla_decision_dependencia_nocturna.csv
+NBEATS-RHquad,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/tabla_decision_dependencia_nocturna.csv
+NBEATS-T2quad,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/tabla_decision_dependencia_nocturna.csv
+LSTM-DIR,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/modelos_pendientes_metricas_regimen.csv
+LSTM-GeomT,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/modelos_pendientes_metricas_regimen.csv
+LSTM-SWD+DIR,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/modelos_pendientes_metricas_regimen.csv
+LSTM-SWD+DIR+FD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/modelos_pendientes_metricas_regimen.csv
+LSTM-SWD+FD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/modelos_pendientes_metricas_regimen.csv
+NBEATS-DIR,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/modelos_pendientes_metricas_regimen.csv
+NBEATS-Delta,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/modelos_pendientes_metricas_regimen.csv
+NBEATS-GeomT,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/modelos_pendientes_metricas_regimen.csv
+NBEATS-SWD+DIR,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/modelos_pendientes_metricas_regimen.csv
+NBEATS-SWD+DIR+FD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/modelos_pendientes_metricas_regimen.csv
+NBEATS-SWD+FD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/modelos_pendientes_metricas_regimen.csv
+LSTM-DIFstats,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/comparacion_relativa_formato_largo.csv
+LSTM-SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/comparacion_relativa_formato_largo.csv
+LSTM-DIF+Elevación,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/comparacion_relativa_formato_largo.csv
+LSTM-LWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/comparacion_relativa_formato_largo.csv
+NBEATS-DIF+Elevación,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/comparacion_relativa_formato_largo.csv
+LSTM-SWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/comparacion_relativa_formato_largo.csv
+LSTM-solo DIF,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/comparacion_relativa_formato_largo.csv
+LSTM-LWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/comparacion_relativa_formato_largo.csv
+NBEATS-SWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/comparacion_relativa_formato_largo.csv
+NBEATS-DIFstats,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/comparacion_relativa_formato_largo.csv
+NBEATS-SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/comparacion_relativa_formato_largo.csv
+NBEATS-solo DIF,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/comparacion_relativa_formato_largo.csv
+NBEATS-LWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/comparacion_relativa_formato_largo.csv
+NBEATS-LWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/comparacion_relativa_formato_largo.csv
+LSTM-Pmedia,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/comparacion_relativa_formato_largo.csv
+LSTM-RHquad,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/comparacion_relativa_formato_largo.csv
+LSTM-Pquad,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/comparacion_relativa_formato_largo.csv
+LSTM-T2quad,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/comparacion_relativa_formato_largo.csv
+NBEATS-Pmedia,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/comparacion_relativa_formato_largo.csv
+NBEATS-Pquad,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/comparacion_relativa_formato_largo.csv
+NBEATS-RHquad,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/comparacion_relativa_formato_largo.csv
+NBEATS-T2quad,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/comparacion_relativa_formato_largo.csv
+LSTM-DIFstats,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/metricas_consolidadas_por_ambito.csv
+LSTM-SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/metricas_consolidadas_por_ambito.csv
+LSTM-SWD+DIR+FD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/metricas_consolidadas_por_ambito.csv
+LSTM-SWD+FD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/metricas_consolidadas_por_ambito.csv
+LSTM-GeomT,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/metricas_consolidadas_por_ambito.csv
+LSTM-DIR,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/metricas_consolidadas_por_ambito.csv
+LSTM-SWD+DIR,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/metricas_consolidadas_por_ambito.csv
+HGB-9V,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/metricas_consolidadas_por_ambito.csv
+LSTM-DIF+Elevación,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/metricas_consolidadas_por_ambito.csv
+LSTM-LWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/metricas_consolidadas_por_ambito.csv
+NBEATS-DIF+Elevación,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/metricas_consolidadas_por_ambito.csv
+LSTM-SWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/metricas_consolidadas_por_ambito.csv
+HGB-8V,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/metricas_consolidadas_por_ambito.csv
+LSTM-solo DIF,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/metricas_consolidadas_por_ambito.csv
+LSTM-LWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/metricas_consolidadas_por_ambito.csv
+NBEATS-SWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/metricas_consolidadas_por_ambito.csv
+NBEATS-DIFstats,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/metricas_consolidadas_por_ambito.csv
+NBEATS-GeomT,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/metricas_consolidadas_por_ambito.csv
+NBEATS-Delta,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/metricas_consolidadas_por_ambito.csv
+NBEATS-SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/metricas_consolidadas_por_ambito.csv
+NBEATS-SWD+FD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/metricas_consolidadas_por_ambito.csv
+NBEATS-SWD+DIR,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/metricas_consolidadas_por_ambito.csv
+NBEATS-solo DIF,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/metricas_consolidadas_por_ambito.csv
+NBEATS-DIR,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/metricas_consolidadas_por_ambito.csv
+NBEATS-LWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/metricas_consolidadas_por_ambito.csv
+NBEATS-LWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/metricas_consolidadas_por_ambito.csv
+NBEATS-SWD+DIR+FD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/metricas_consolidadas_por_ambito.csv
+Ridge G0,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/metricas_consolidadas_por_ambito.csv
+Persistencia híbrida,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/metricas_consolidadas_por_ambito.csv
+Persistencia inmediata,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/metricas_consolidadas_por_ambito.csv
+Persistencia diaria,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/metricas_consolidadas_por_ambito.csv
+LSTM-Pmedia,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/metricas_consolidadas_por_ambito.csv
+LSTM-RHquad,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/metricas_consolidadas_por_ambito.csv
+LSTM-Pquad,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/metricas_consolidadas_por_ambito.csv
+LSTM-T2quad,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/metricas_consolidadas_por_ambito.csv
+NBEATS-Pmedia,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/metricas_consolidadas_por_ambito.csv
+NBEATS-Pquad,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/metricas_consolidadas_por_ambito.csv
+NBEATS-RHquad,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/metricas_consolidadas_por_ambito.csv
+NBEATS-T2quad,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z/metricas_consolidadas_por_ambito.csv
+LSTM_DIF_elev_Pmedia,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_meteo_20261006T220505Z/analisis_regimenes_20261006T221610Z/metricas_meteo_por_regimen.csv
+LSTM_DIF_elev_RHquad,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_meteo_20261006T220505Z/analisis_regimenes_20261006T221610Z/metricas_meteo_por_regimen.csv
+LSTM_DIF_elev_Pquad,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_meteo_20261006T220505Z/analisis_regimenes_20261006T221610Z/metricas_meteo_por_regimen.csv
+LSTM_DIF_elev_T2quad,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_meteo_20261006T220505Z/analisis_regimenes_20261006T221610Z/metricas_meteo_por_regimen.csv
+NBEATS_DIF_elev_Pmedia,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_meteo_20261006T220505Z/analisis_regimenes_20261006T221610Z/metricas_meteo_por_regimen.csv
+NBEATS_DIF_elev_Pquad,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_meteo_20261006T220505Z/analisis_regimenes_20261006T221610Z/metricas_meteo_por_regimen.csv
+NBEATS_DIF_elev_RHquad,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_meteo_20261006T220505Z/analisis_regimenes_20261006T221610Z/metricas_meteo_por_regimen.csv
+NBEATS_DIF_elev_T2quad,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_meteo_20261006T220505Z/analisis_regimenes_20261006T221610Z/metricas_meteo_por_regimen.csv
+LSTM_DIF_elev_Pmedia,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_meteo_20261006T220505Z/analisis_regimenes_20261006T221610Z/tabla_MAE_por_ambito.csv
+LSTM_DIF_elev_RHquad,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_meteo_20261006T220505Z/analisis_regimenes_20261006T221610Z/tabla_MAE_por_ambito.csv
+LSTM_DIF_elev_Pquad,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_meteo_20261006T220505Z/analisis_regimenes_20261006T221610Z/tabla_MAE_por_ambito.csv
+LSTM_DIF_elev_T2quad,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_meteo_20261006T220505Z/analisis_regimenes_20261006T221610Z/tabla_MAE_por_ambito.csv
+NBEATS_DIF_elev_Pmedia,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_meteo_20261006T220505Z/analisis_regimenes_20261006T221610Z/tabla_MAE_por_ambito.csv
+NBEATS_DIF_elev_Pquad,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_meteo_20261006T220505Z/analisis_regimenes_20261006T221610Z/tabla_MAE_por_ambito.csv
+NBEATS_DIF_elev_RHquad,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_meteo_20261006T220505Z/analisis_regimenes_20261006T221610Z/tabla_MAE_por_ambito.csv
+NBEATS_DIF_elev_T2quad,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_meteo_20261006T220505Z/analisis_regimenes_20261006T221610Z/tabla_MAE_por_ambito.csv
+LSTM-DIFstats,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/coste_computacional_difstats.csv
+NBEATS-DIFstats,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/coste_computacional_difstats.csv
+LSTM-DIFstats,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/metricas_modelos_por_ambito.csv
+LSTM-SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/metricas_modelos_por_ambito.csv
+LSTM-SWD+DIR+FD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/metricas_modelos_por_ambito.csv
+LSTM-SWD+FD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/metricas_modelos_por_ambito.csv
+LSTM-GeomT,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/metricas_modelos_por_ambito.csv
+LSTM-DIR,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/metricas_modelos_por_ambito.csv
+LSTM-SWD+DIR,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/metricas_modelos_por_ambito.csv
+HGB-9V,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/metricas_modelos_por_ambito.csv
+LSTM-DIF+Elevación,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/metricas_modelos_por_ambito.csv
+LSTM-LWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/metricas_modelos_por_ambito.csv
+NBEATS-DIF+Elevación,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/metricas_modelos_por_ambito.csv
+LSTM-SWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/metricas_modelos_por_ambito.csv
+HGB-8V,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/metricas_modelos_por_ambito.csv
+LSTM-solo DIF,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/metricas_modelos_por_ambito.csv
+LSTM-LWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/metricas_modelos_por_ambito.csv
+NBEATS-SWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/metricas_modelos_por_ambito.csv
+NBEATS-DIFstats,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/metricas_modelos_por_ambito.csv
+NBEATS-GeomT,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/metricas_modelos_por_ambito.csv
+NBEATS-Delta,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/metricas_modelos_por_ambito.csv
+NBEATS-SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/metricas_modelos_por_ambito.csv
+NBEATS-SWD+FD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/metricas_modelos_por_ambito.csv
+NBEATS-SWD+DIR,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/metricas_modelos_por_ambito.csv
+NBEATS-solo DIF,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/metricas_modelos_por_ambito.csv
+NBEATS-DIR,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/metricas_modelos_por_ambito.csv
+NBEATS-LWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/metricas_modelos_por_ambito.csv
+NBEATS-LWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/metricas_modelos_por_ambito.csv
+NBEATS-SWD+DIR+FD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/metricas_modelos_por_ambito.csv
+Ridge G0,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/metricas_modelos_por_ambito.csv
+Persistencia híbrida,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/metricas_modelos_por_ambito.csv
+Persistencia inmediata,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/metricas_modelos_por_ambito.csv
+Persistencia diaria,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/metricas_modelos_por_ambito.csv
+LSTM-DIFstats,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/posiciones_difstats.csv
+NBEATS-DIFstats,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/posiciones_difstats.csv
+LSTM-DIFstats,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_completamente_diurno.csv
+LSTM-SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_completamente_diurno.csv
+LSTM-LWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_completamente_diurno.csv
+LSTM-SWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_completamente_diurno.csv
+LSTM-DIF+Elevación,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_completamente_diurno.csv
+HGB-9V,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_completamente_diurno.csv
+LSTM-LWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_completamente_diurno.csv
+NBEATS-DIF+Elevación,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_completamente_diurno.csv
+NBEATS-SWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_completamente_diurno.csv
+LSTM-solo DIF,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_completamente_diurno.csv
+NBEATS-DIFstats,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_completamente_diurno.csv
+NBEATS-solo DIF,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_completamente_diurno.csv
+NBEATS-SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_completamente_diurno.csv
+NBEATS-LWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_completamente_diurno.csv
+NBEATS-LWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_completamente_diurno.csv
+LSTM-DIFstats,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_operacion.csv
+LSTM-SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_operacion.csv
+HGB-9V,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_operacion.csv
+LSTM-LWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_operacion.csv
+LSTM-SWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_operacion.csv
+LSTM-DIF+Elevación,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_operacion.csv
+NBEATS-DIF+Elevación,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_operacion.csv
+LSTM-LWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_operacion.csv
+NBEATS-SWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_operacion.csv
+LSTM-solo DIF,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_operacion.csv
+NBEATS-DIFstats,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_operacion.csv
+NBEATS-solo DIF,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_operacion.csv
+NBEATS-SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_operacion.csv
+NBEATS-LWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_operacion.csv
+NBEATS-LWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_operacion.csv
+LSTM-DIFstats,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_total.csv
+LSTM-SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_total.csv
+LSTM-SWD+DIR+FD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_total.csv
+LSTM-SWD+FD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_total.csv
+LSTM-GeomT,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_total.csv
+LSTM-DIR,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_total.csv
+LSTM-SWD+DIR,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_total.csv
+HGB-9V,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_total.csv
+LSTM-DIF+Elevación,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_total.csv
+LSTM-LWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_total.csv
+NBEATS-DIF+Elevación,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_total.csv
+LSTM-SWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_total.csv
+HGB-8V,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_total.csv
+LSTM-solo DIF,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_total.csv
+LSTM-LWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_total.csv
+NBEATS-SWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_total.csv
+NBEATS-DIFstats,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_total.csv
+NBEATS-GeomT,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_total.csv
+NBEATS-Delta,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_total.csv
+NBEATS-SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_total.csv
+NBEATS-SWD+FD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_total.csv
+NBEATS-SWD+DIR,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_total.csv
+NBEATS-solo DIF,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_total.csv
+NBEATS-DIR,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_total.csv
+NBEATS-LWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_total.csv
+NBEATS-LWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_total.csv
+NBEATS-SWD+DIR+FD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_total.csv
+Ridge G0,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_total.csv
+Persistencia híbrida,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_total.csv
+Persistencia inmediata,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_total.csv
+Persistencia diaria,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_total.csv
+HGB-9V,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_transicion.csv
+LSTM-DIFstats,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_transicion.csv
+LSTM-DIF+Elevación,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_transicion.csv
+LSTM-SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_transicion.csv
+NBEATS-SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_transicion.csv
+NBEATS-DIF+Elevación,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_transicion.csv
+NBEATS-SWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_transicion.csv
+LSTM-solo DIF,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_transicion.csv
+LSTM-LWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_transicion.csv
+NBEATS-DIFstats,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_transicion.csv
+LSTM-SWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_transicion.csv
+LSTM-LWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_transicion.csv
+NBEATS-solo DIF,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_transicion.csv
+NBEATS-LWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_transicion.csv
+NBEATS-LWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/ranking_mae_transicion.csv
+LSTM-DIFstats,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/tabla_decision_modelos_actualizada.csv
+LSTM-SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/tabla_decision_modelos_actualizada.csv
+LSTM-SWD+DIR+FD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/tabla_decision_modelos_actualizada.csv
+LSTM-SWD+FD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/tabla_decision_modelos_actualizada.csv
+LSTM-GeomT,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/tabla_decision_modelos_actualizada.csv
+LSTM-DIR,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/tabla_decision_modelos_actualizada.csv
+LSTM-SWD+DIR,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/tabla_decision_modelos_actualizada.csv
+HGB-9V,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/tabla_decision_modelos_actualizada.csv
+LSTM-DIF+Elevación,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/tabla_decision_modelos_actualizada.csv
+LSTM-LWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/tabla_decision_modelos_actualizada.csv
+NBEATS-DIF+Elevación,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/tabla_decision_modelos_actualizada.csv
+LSTM-SWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/tabla_decision_modelos_actualizada.csv
+HGB-8V,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/tabla_decision_modelos_actualizada.csv
+LSTM-solo DIF,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/tabla_decision_modelos_actualizada.csv
+LSTM-LWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/tabla_decision_modelos_actualizada.csv
+NBEATS-SWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/tabla_decision_modelos_actualizada.csv
+NBEATS-DIFstats,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/tabla_decision_modelos_actualizada.csv
+NBEATS-GeomT,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/tabla_decision_modelos_actualizada.csv
+NBEATS-Delta,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/tabla_decision_modelos_actualizada.csv
+NBEATS-SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/tabla_decision_modelos_actualizada.csv
+NBEATS-SWD+FD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/tabla_decision_modelos_actualizada.csv
+NBEATS-SWD+DIR,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/tabla_decision_modelos_actualizada.csv
+NBEATS-solo DIF,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/tabla_decision_modelos_actualizada.csv
+NBEATS-DIR,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/tabla_decision_modelos_actualizada.csv
+NBEATS-LWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/tabla_decision_modelos_actualizada.csv
+NBEATS-LWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/tabla_decision_modelos_actualizada.csv
+NBEATS-SWD+DIR+FD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/tabla_decision_modelos_actualizada.csv
+Ridge G0,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/tabla_decision_modelos_actualizada.csv
+Persistencia híbrida,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/tabla_decision_modelos_actualizada.csv
+Persistencia inmediata,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/tabla_decision_modelos_actualizada.csv
+Persistencia diaria,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/tabla_decision_modelos_actualizada.csv
+LSTM-DIFstats,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/comparacion_global_modelos_actualizada.csv
+LSTM-SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/comparacion_global_modelos_actualizada.csv
+LSTM-SWD+DIR+FD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/comparacion_global_modelos_actualizada.csv
+LSTM-SWD+FD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/comparacion_global_modelos_actualizada.csv
+LSTM-GeomT,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/comparacion_global_modelos_actualizada.csv
+LSTM-DIR,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/comparacion_global_modelos_actualizada.csv
+LSTM-SWD+DIR,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/comparacion_global_modelos_actualizada.csv
+HGB-9V,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/comparacion_global_modelos_actualizada.csv
+LSTM-DIF+Elevación,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/comparacion_global_modelos_actualizada.csv
+LSTM-LWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/comparacion_global_modelos_actualizada.csv
+NBEATS-DIF+Elevación,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/comparacion_global_modelos_actualizada.csv
+LSTM-SWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/comparacion_global_modelos_actualizada.csv
+HGB-8V,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/comparacion_global_modelos_actualizada.csv
+LSTM-solo DIF,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/comparacion_global_modelos_actualizada.csv
+LSTM-LWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/comparacion_global_modelos_actualizada.csv
+NBEATS-SWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/comparacion_global_modelos_actualizada.csv
+NBEATS-DIFstats,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/comparacion_global_modelos_actualizada.csv
+NBEATS-GeomT,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/comparacion_global_modelos_actualizada.csv
+NBEATS-Delta,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/comparacion_global_modelos_actualizada.csv
+NBEATS-SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/comparacion_global_modelos_actualizada.csv
+NBEATS-SWD+FD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/comparacion_global_modelos_actualizada.csv
+NBEATS-SWD+DIR,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/comparacion_global_modelos_actualizada.csv
+NBEATS-solo DIF,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/comparacion_global_modelos_actualizada.csv
+NBEATS-DIR,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/comparacion_global_modelos_actualizada.csv
+NBEATS-LWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/comparacion_global_modelos_actualizada.csv
+NBEATS-LWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/comparacion_global_modelos_actualizada.csv
+NBEATS-SWD+DIR+FD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/comparacion_global_modelos_actualizada.csv
+Ridge G0,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/comparacion_global_modelos_actualizada.csv
+Persistencia híbrida,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/comparacion_global_modelos_actualizada.csv
+Persistencia inmediata,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/comparacion_global_modelos_actualizada.csv
+Persistencia diaria,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_con_difstats_20261006_183444/comparacion_global_modelos_actualizada.csv
+NBEATS_DIF_Elev_DIFstats,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_difstats_20261006_182213/benchmark_inferencia_difstats.csv
+LSTM_DIF_Elev_DIFstats,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_difstats_20261006_182213/benchmark_inferencia_difstats.csv
+NBEATS_DIF_Elev_DIFstats,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_difstats_20261006_182213/contribucion_error_global_difstats.csv
+LSTM_DIF_Elev_DIFstats,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_difstats_20261006_182213/contribucion_error_global_difstats.csv
+LSTM_DIF_Elev_DIFstats,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_difstats_20261006_182213/metricas_validation_difstats_por_regimen.csv
+NBEATS_DIF_Elev_DIFstats,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_difstats_20261006_182213/metricas_validation_difstats_por_regimen.csv
+NBEATS_DIF_Elev_DIFstats,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_difstats_20261006_182213/metricas_train_validation_difstats.csv
+LSTM_DIF_Elev_DIFstats,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_difstats_20261006_182213/metricas_train_validation_difstats.csv
+NBEATS_DIF_Elev_DIFstats,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/seleccion_interna_difstats_20261006_181158/resumen_seleccion_interna_difstats.csv
+LSTM_DIF_Elev_DIFstats,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/seleccion_interna_difstats_20261006_181158/resumen_seleccion_interna_difstats.csv
+LSTM-SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/tabla_decision_mae_por_ambito.csv
+LSTM-SWD+DIR+FD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/tabla_decision_mae_por_ambito.csv
+LSTM-SWD+FD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/tabla_decision_mae_por_ambito.csv
+LSTM-GeomT,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/tabla_decision_mae_por_ambito.csv
+LSTM-DIR,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/tabla_decision_mae_por_ambito.csv
+LSTM-SWD+DIR,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/tabla_decision_mae_por_ambito.csv
+HGB-9V,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/tabla_decision_mae_por_ambito.csv
+LSTM-DIF+Elevación,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/tabla_decision_mae_por_ambito.csv
+LSTM-LWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/tabla_decision_mae_por_ambito.csv
+NBEATS-DIF+Elevación,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/tabla_decision_mae_por_ambito.csv
+LSTM-SWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/tabla_decision_mae_por_ambito.csv
+HGB-8V,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/tabla_decision_mae_por_ambito.csv
+LSTM-solo DIF,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/tabla_decision_mae_por_ambito.csv
+LSTM-LWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/tabla_decision_mae_por_ambito.csv
+NBEATS-SWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/tabla_decision_mae_por_ambito.csv
+NBEATS-GeomT,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/tabla_decision_mae_por_ambito.csv
+NBEATS-Delta,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/tabla_decision_mae_por_ambito.csv
+NBEATS-SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/tabla_decision_mae_por_ambito.csv
+NBEATS-SWD+FD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/tabla_decision_mae_por_ambito.csv
+NBEATS-SWD+DIR,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/tabla_decision_mae_por_ambito.csv
+NBEATS-solo DIF,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/tabla_decision_mae_por_ambito.csv
+NBEATS-DIR,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/tabla_decision_mae_por_ambito.csv
+NBEATS-LWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/tabla_decision_mae_por_ambito.csv
+NBEATS-LWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/tabla_decision_mae_por_ambito.csv
+NBEATS-SWD+DIR+FD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/tabla_decision_mae_por_ambito.csv
+Ridge G0,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/tabla_decision_mae_por_ambito.csv
+Persistencia híbrida,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/tabla_decision_mae_por_ambito.csv
+Persistencia inmediata,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/tabla_decision_mae_por_ambito.csv
+Persistencia diaria,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/tabla_decision_mae_por_ambito.csv
+LSTM-SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/metricas_modelos_por_ambito.csv
+LSTM-SWD+DIR+FD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/metricas_modelos_por_ambito.csv
+LSTM-SWD+FD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/metricas_modelos_por_ambito.csv
+LSTM-GeomT,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/metricas_modelos_por_ambito.csv
+LSTM-DIR,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/metricas_modelos_por_ambito.csv
+LSTM-SWD+DIR,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/metricas_modelos_por_ambito.csv
+HGB-9V,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/metricas_modelos_por_ambito.csv
+LSTM-DIF+Elevación,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/metricas_modelos_por_ambito.csv
+LSTM-LWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/metricas_modelos_por_ambito.csv
+NBEATS-DIF+Elevación,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/metricas_modelos_por_ambito.csv
+LSTM-SWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/metricas_modelos_por_ambito.csv
+HGB-8V,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/metricas_modelos_por_ambito.csv
+LSTM-solo DIF,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/metricas_modelos_por_ambito.csv
+LSTM-LWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/metricas_modelos_por_ambito.csv
+NBEATS-SWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/metricas_modelos_por_ambito.csv
+NBEATS-GeomT,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/metricas_modelos_por_ambito.csv
+NBEATS-Delta,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/metricas_modelos_por_ambito.csv
+NBEATS-SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/metricas_modelos_por_ambito.csv
+NBEATS-SWD+FD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/metricas_modelos_por_ambito.csv
+NBEATS-SWD+DIR,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/metricas_modelos_por_ambito.csv
+NBEATS-solo DIF,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/metricas_modelos_por_ambito.csv
+NBEATS-DIR,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/metricas_modelos_por_ambito.csv
+NBEATS-LWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/metricas_modelos_por_ambito.csv
+NBEATS-LWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/metricas_modelos_por_ambito.csv
+NBEATS-SWD+DIR+FD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/metricas_modelos_por_ambito.csv
+Ridge G0,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/metricas_modelos_por_ambito.csv
+Persistencia híbrida,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/metricas_modelos_por_ambito.csv
+Persistencia inmediata,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/metricas_modelos_por_ambito.csv
+Persistencia diaria,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/metricas_modelos_por_ambito.csv
+LSTM-SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_completamente_diurno.csv
+LSTM-LWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_completamente_diurno.csv
+LSTM-SWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_completamente_diurno.csv
+LSTM-DIF+Elevación,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_completamente_diurno.csv
+HGB-9V,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_completamente_diurno.csv
+LSTM-LWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_completamente_diurno.csv
+NBEATS-DIF+Elevación,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_completamente_diurno.csv
+NBEATS-SWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_completamente_diurno.csv
+LSTM-solo DIF,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_completamente_diurno.csv
+NBEATS-solo DIF,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_completamente_diurno.csv
+NBEATS-SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_completamente_diurno.csv
+NBEATS-LWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_completamente_diurno.csv
+NBEATS-LWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_completamente_diurno.csv
+LSTM-SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_operacion.csv
+HGB-9V,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_operacion.csv
+LSTM-LWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_operacion.csv
+LSTM-SWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_operacion.csv
+LSTM-DIF+Elevación,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_operacion.csv
+NBEATS-DIF+Elevación,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_operacion.csv
+LSTM-LWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_operacion.csv
+NBEATS-SWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_operacion.csv
+LSTM-solo DIF,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_operacion.csv
+NBEATS-solo DIF,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_operacion.csv
+NBEATS-SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_operacion.csv
+NBEATS-LWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_operacion.csv
+NBEATS-LWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_operacion.csv
+LSTM-SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_total.csv
+LSTM-SWD+DIR+FD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_total.csv
+LSTM-SWD+FD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_total.csv
+LSTM-GeomT,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_total.csv
+LSTM-DIR,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_total.csv
+LSTM-SWD+DIR,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_total.csv
+HGB-9V,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_total.csv
+LSTM-DIF+Elevación,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_total.csv
+LSTM-LWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_total.csv
+NBEATS-DIF+Elevación,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_total.csv
+LSTM-SWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_total.csv
+HGB-8V,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_total.csv
+LSTM-solo DIF,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_total.csv
+LSTM-LWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_total.csv
+NBEATS-SWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_total.csv
+NBEATS-GeomT,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_total.csv
+NBEATS-Delta,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_total.csv
+NBEATS-SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_total.csv
+NBEATS-SWD+FD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_total.csv
+NBEATS-SWD+DIR,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_total.csv
+NBEATS-solo DIF,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_total.csv
+NBEATS-DIR,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_total.csv
+NBEATS-LWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_total.csv
+NBEATS-LWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_total.csv
+NBEATS-SWD+DIR+FD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_total.csv
+Ridge G0,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_total.csv
+Persistencia híbrida,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_total.csv
+Persistencia inmediata,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_total.csv
+Persistencia diaria,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_total.csv
+HGB-9V,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_transicion.csv
+LSTM-DIF+Elevación,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_transicion.csv
+LSTM-SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_transicion.csv
+NBEATS-SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_transicion.csv
+NBEATS-DIF+Elevación,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_transicion.csv
+NBEATS-SWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_transicion.csv
+LSTM-solo DIF,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_transicion.csv
+LSTM-LWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_transicion.csv
+LSTM-SWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_transicion.csv
+LSTM-LWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_transicion.csv
+NBEATS-solo DIF,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_transicion.csv
+NBEATS-LWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_transicion.csv
+NBEATS-LWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/ranking_mae_transicion.csv
+LSTM-SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/comparacion_global_modelos_actualizada.csv
+LSTM-SWD+DIR+FD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/comparacion_global_modelos_actualizada.csv
+LSTM-SWD+FD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/comparacion_global_modelos_actualizada.csv
+LSTM-GeomT,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/comparacion_global_modelos_actualizada.csv
+LSTM-DIR,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/comparacion_global_modelos_actualizada.csv
+LSTM-SWD+DIR,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/comparacion_global_modelos_actualizada.csv
+HGB-9V,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/comparacion_global_modelos_actualizada.csv
+LSTM-DIF+Elevación,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/comparacion_global_modelos_actualizada.csv
+LSTM-LWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/comparacion_global_modelos_actualizada.csv
+NBEATS-DIF+Elevación,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/comparacion_global_modelos_actualizada.csv
+LSTM-SWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/comparacion_global_modelos_actualizada.csv
+HGB-8V,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/comparacion_global_modelos_actualizada.csv
+LSTM-solo DIF,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/comparacion_global_modelos_actualizada.csv
+LSTM-LWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/comparacion_global_modelos_actualizada.csv
+NBEATS-SWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/comparacion_global_modelos_actualizada.csv
+NBEATS-GeomT,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/comparacion_global_modelos_actualizada.csv
+NBEATS-Delta,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/comparacion_global_modelos_actualizada.csv
+NBEATS-SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/comparacion_global_modelos_actualizada.csv
+NBEATS-SWD+FD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/comparacion_global_modelos_actualizada.csv
+NBEATS-SWD+DIR,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/comparacion_global_modelos_actualizada.csv
+NBEATS-solo DIF,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/comparacion_global_modelos_actualizada.csv
+NBEATS-DIR,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/comparacion_global_modelos_actualizada.csv
+NBEATS-LWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/comparacion_global_modelos_actualizada.csv
+NBEATS-LWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/comparacion_global_modelos_actualizada.csv
+NBEATS-SWD+DIR+FD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/comparacion_global_modelos_actualizada.csv
+Ridge G0,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/comparacion_global_modelos_actualizada.csv
+Persistencia híbrida,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/comparacion_global_modelos_actualizada.csv
+Persistencia inmediata,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/comparacion_global_modelos_actualizada.csv
+Persistencia diaria,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/ranking_modelos_por_ambito_20261006_174709/comparacion_global_modelos_actualizada.csv
+NBEATS_DIF_Elev_SWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/modelado_swu_completo_20261006_173357/contribucion_error_global_swu.csv
+LSTM_DIF_Elev_SWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/modelado_swu_completo_20261006_173357/contribucion_error_global_swu.csv
+LSTM_DIF_Elev_SWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/modelado_swu_completo_20261006_173357/metricas_validation_swu_por_regimen.csv
+NBEATS_DIF_Elev_SWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/modelado_swu_completo_20261006_173357/metricas_validation_swu_por_regimen.csv
+NBEATS_DIF_Elev_SWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/modelado_swu_completo_20261006_173357/metricas_train_validation_swu.csv
+LSTM_DIF_Elev_SWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/modelado_swu_completo_20261006_173357/metricas_train_validation_swu.csv
+NBEATS_DIF_Elev_SWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/seleccion_interna_swu_20261006_172840/resumen_seleccion_interna_swu.csv
+LSTM_DIF_Elev_SWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/seleccion_interna_swu_20261006_172840/resumen_seleccion_interna_swu.csv
+LSTM-SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_modelos_20261006_172035/comparacion_global_modelos.csv
+LSTM-SWD+DIR+FD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_modelos_20261006_172035/comparacion_global_modelos.csv
+LSTM-SWD+FD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_modelos_20261006_172035/comparacion_global_modelos.csv
+LSTM-GeomT,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_modelos_20261006_172035/comparacion_global_modelos.csv
+LSTM-DIR,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_modelos_20261006_172035/comparacion_global_modelos.csv
+LSTM-SWD+DIR,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_modelos_20261006_172035/comparacion_global_modelos.csv
+HGB-9V,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_modelos_20261006_172035/comparacion_global_modelos.csv
+LSTM-DIF+Elevación,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_modelos_20261006_172035/comparacion_global_modelos.csv
+LSTM-LWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_modelos_20261006_172035/comparacion_global_modelos.csv
+NBEATS-DIF+Elevación,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_modelos_20261006_172035/comparacion_global_modelos.csv
+HGB-8V,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_modelos_20261006_172035/comparacion_global_modelos.csv
+LSTM-solo DIF,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_modelos_20261006_172035/comparacion_global_modelos.csv
+LSTM-LWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_modelos_20261006_172035/comparacion_global_modelos.csv
+NBEATS-GeomT,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_modelos_20261006_172035/comparacion_global_modelos.csv
+NBEATS-Delta,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_modelos_20261006_172035/comparacion_global_modelos.csv
+NBEATS-SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_modelos_20261006_172035/comparacion_global_modelos.csv
+NBEATS-SWD+FD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_modelos_20261006_172035/comparacion_global_modelos.csv
+NBEATS-SWD+DIR,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_modelos_20261006_172035/comparacion_global_modelos.csv
+NBEATS-solo DIF,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_modelos_20261006_172035/comparacion_global_modelos.csv
+NBEATS-DIR,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_modelos_20261006_172035/comparacion_global_modelos.csv
+NBEATS-LWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_modelos_20261006_172035/comparacion_global_modelos.csv
+NBEATS-LWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_modelos_20261006_172035/comparacion_global_modelos.csv
+NBEATS-SWD+DIR+FD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_modelos_20261006_172035/comparacion_global_modelos.csv
+Ridge G0,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_modelos_20261006_172035/comparacion_global_modelos.csv
+Persistencia híbrida,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_modelos_20261006_172035/comparacion_global_modelos.csv
+Persistencia inmediata,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_modelos_20261006_172035/comparacion_global_modelos.csv
+Persistencia diaria,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_modelos_20261006_172035/comparacion_global_modelos.csv
+LSTM-SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_modelos_20261006_172035/comparacion_lwu_swd.csv
+LSTM-LWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_modelos_20261006_172035/comparacion_lwu_swd.csv
+NBEATS-SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_modelos_20261006_172035/comparacion_lwu_swd.csv
+NBEATS-LWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_modelos_20261006_172035/comparacion_lwu_swd.csv
+LSTM-SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_modelos_20261006_172035/mejores_por_metrica.csv
+LSTM-GeomT,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_global_modelos_20261006_172035/mejores_por_metrica.csv
+NBEATS_DIF_Elev_LWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_lwu_mae_total_20261006_165727/metricas/impacto_noche_validation_lwu.csv
+LSTM_DIF_Elev_LWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_lwu_mae_total_20261006_165727/metricas/impacto_noche_validation_lwu.csv
+LSTM_DIF_Elev_LWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_lwu_mae_total_20261006_165727/metricas/metricas_ambitos_validation_lwu.csv
+NBEATS_DIF_Elev_LWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_lwu_mae_total_20261006_165727/metricas/metricas_ambitos_validation_lwu.csv
+LSTM_DIF_Elev_LWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_lwu_mae_total_20261006_165727/metricas/metricas_validation_lwu.csv
+NBEATS_DIF_Elev_LWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_lwu_mae_total_20261006_165727/metricas/metricas_validation_lwu.csv
+LSTM_DIF_Elev_LWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_lwu_mae_total_20261006_165727/tablas/historial_lstm_lwu.csv
+NBEATS_DIF_Elev_LWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_lwu_mae_total_20261006_165727/tablas/historial_nbeats_lwu.csv
+LSTM_LWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/preparacion_bloque_lwu_20261006_164647/seleccion_interna/historial_lstm_lwu.csv
+NBEATS_LWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/preparacion_bloque_lwu_20261006_164647/seleccion_interna/historial_nbeats_lwu.csv
+NBEATS_DIF_Elev_LWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/preparacion_bloque_lwu_20261006_164647/seleccion_interna/resumen_seleccion_lwu.csv
+LSTM_DIF_Elev_LWU,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/preparacion_bloque_lwu_20261006_164647/seleccion_interna/resumen_seleccion_lwu.csv
+LSTM SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/documentacion/checkpoint_continuidad_modelado_20261006_125123/inventario_modelos_principales.csv
+LSTM SWD+DIR+FD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/documentacion/checkpoint_continuidad_modelado_20261006_125123/inventario_modelos_principales.csv
+LSTM SWD+FD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/documentacion/checkpoint_continuidad_modelado_20261006_125123/inventario_modelos_principales.csv
+LSTM DIF+Elev+GeomT,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/documentacion/checkpoint_continuidad_modelado_20261006_125123/inventario_modelos_principales.csv
+LSTM DIR,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/documentacion/checkpoint_continuidad_modelado_20261006_125123/inventario_modelos_principales.csv
+LSTM SWD+DIR,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/documentacion/checkpoint_continuidad_modelado_20261006_125123/inventario_modelos_principales.csv
+HGB-9V,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/documentacion/checkpoint_continuidad_modelado_20261006_125123/inventario_modelos_principales.csv
+LSTM DIF+Elev,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/documentacion/checkpoint_continuidad_modelado_20261006_125123/inventario_modelos_principales.csv
+N-BEATS DIF+Elev,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/documentacion/checkpoint_continuidad_modelado_20261006_125123/inventario_modelos_principales.csv
+LSTM DIF,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/documentacion/checkpoint_continuidad_modelado_20261006_125123/inventario_modelos_principales.csv
+LSTM LWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/documentacion/checkpoint_continuidad_modelado_20261006_125123/inventario_modelos_principales.csv
+N-BEATS DIF+Elev+GeomT,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/documentacion/checkpoint_continuidad_modelado_20261006_125123/inventario_modelos_principales.csv
+N-BEATS delta,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/documentacion/checkpoint_continuidad_modelado_20261006_125123/inventario_modelos_principales.csv
+N-BEATS SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/documentacion/checkpoint_continuidad_modelado_20261006_125123/inventario_modelos_principales.csv
+N-BEATS SWD+FD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/documentacion/checkpoint_continuidad_modelado_20261006_125123/inventario_modelos_principales.csv
+N-BEATS SWD+DIR,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/documentacion/checkpoint_continuidad_modelado_20261006_125123/inventario_modelos_principales.csv
+N-BEATS DIF,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/documentacion/checkpoint_continuidad_modelado_20261006_125123/inventario_modelos_principales.csv
+N-BEATS DIR,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/documentacion/checkpoint_continuidad_modelado_20261006_125123/inventario_modelos_principales.csv
+N-BEATS LWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/documentacion/checkpoint_continuidad_modelado_20261006_125123/inventario_modelos_principales.csv
+N-BEATS SWD+DIR+FD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/documentacion/checkpoint_continuidad_modelado_20261006_125123/inventario_modelos_principales.csv
+Ridge G0,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/documentacion/checkpoint_continuidad_modelado_20261006_125123/inventario_modelos_principales.csv
+Persistencia híbrida,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/documentacion/checkpoint_continuidad_modelado_20261006_125123/inventario_modelos_principales.csv
+Persistencia inmediata,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/documentacion/checkpoint_continuidad_modelado_20261006_125123/inventario_modelos_principales.csv
+Persistencia diaria,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/documentacion/checkpoint_continuidad_modelado_20261006_125123/inventario_modelos_principales.csv
+LSTM,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_combinaciones_swd_dir_fd_20261006_122214/SWD_DIR_FD/metricas/historial_lstm.csv
+LSTM,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_combinaciones_swd_dir_fd_20261006_122214/comparacion_externa_completa.csv
+N-BEATS,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_combinaciones_swd_dir_fd_20261006_122214/comparacion_externa_completa.csv
+N-BEATS,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_combinaciones_swd_dir_fd_20261006_122214/historial_entrenamiento_completo.csv
+LSTM,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_combinaciones_swd_dir_fd_20261006_122214/historial_entrenamiento_completo.csv
+LSTM,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_combinaciones_swd_dir_fd_20261006_122214/metricas_validation_combinaciones.csv
+N-BEATS,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_combinaciones_swd_dir_fd_20261006_122214/metricas_validation_combinaciones.csv
+N-BEATS,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_combinaciones_swd_dir_fd_20261006_122214/SWD_DIR_FD/metricas/historial_nbeats.csv
+LSTM,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_combinaciones_swd_dir_fd_20261006_122214/SWD_FD/metricas/historial_lstm.csv
+N-BEATS,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_combinaciones_swd_dir_fd_20261006_122214/SWD_FD/metricas/historial_nbeats.csv
+LSTM,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_combinaciones_swd_dir_fd_20261006_122214/SWD_DIR/metricas/historial_lstm.csv
+N-BEATS,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_combinaciones_swd_dir_fd_20261006_122214/SWD_DIR/metricas/historial_nbeats.csv
+LSTM,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/seleccion_interna_combinaciones_swd_dir_fd_mae_total_20261006_121216/SWD_DIR_FD/lstm/historial_seleccion.csv
+LSTM,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/seleccion_interna_combinaciones_swd_dir_fd_mae_total_20261006_121216/comparacion_interna_completa.csv
+N-BEATS,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/seleccion_interna_combinaciones_swd_dir_fd_mae_total_20261006_121216/comparacion_interna_completa.csv
+N-BEATS,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/seleccion_interna_combinaciones_swd_dir_fd_mae_total_20261006_121216/historial_completo.csv
+LSTM,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/seleccion_interna_combinaciones_swd_dir_fd_mae_total_20261006_121216/historial_completo.csv
+LSTM,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/seleccion_interna_combinaciones_swd_dir_fd_mae_total_20261006_121216/resumen_seleccion_interna.csv
+N-BEATS,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/seleccion_interna_combinaciones_swd_dir_fd_mae_total_20261006_121216/resumen_seleccion_interna.csv
+N-BEATS,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/seleccion_interna_combinaciones_swd_dir_fd_mae_total_20261006_121216/SWD_DIR_FD/nbeats/historial_seleccion.csv
+LSTM,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/seleccion_interna_combinaciones_swd_dir_fd_mae_total_20261006_121216/SWD_FD/lstm/historial_seleccion.csv
+N-BEATS,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/seleccion_interna_combinaciones_swd_dir_fd_mae_total_20261006_121216/SWD_FD/nbeats/historial_seleccion.csv
+LSTM,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/seleccion_interna_combinaciones_swd_dir_fd_mae_total_20261006_121216/SWD_DIR/lstm/historial_seleccion.csv
+N-BEATS,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/seleccion_interna_combinaciones_swd_dir_fd_mae_total_20261006_121216/SWD_DIR/nbeats/historial_seleccion.csv
+N-BEATS,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_nbeats_lstm_dir_mae_total_20261006_115330/metricas/comparacion_mae_bloques.csv
+LSTM,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_nbeats_lstm_dir_mae_total_20261006_115330/metricas/comparacion_mae_bloques.csv
+N-BEATS,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_nbeats_lstm_dir_mae_total_20261006_115330/metricas/historial_entrenamiento.csv
+LSTM,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_nbeats_lstm_dir_mae_total_20261006_115330/metricas/historial_entrenamiento.csv
+N-BEATS,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_nbeats_lstm_dir_mae_total_20261006_115330/metricas/metricas_validation.csv
+LSTM,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_nbeats_lstm_dir_mae_total_20261006_115330/metricas/metricas_validation.csv
+LSTM_DIF_ELEV_DIR,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/seleccion_interna_DIR_MAE_total_20261006_133602/historiales/historial_LSTM_DIF_ELEV_DIR.csv
+NBEATS_DIF_ELEV_DIR,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/seleccion_interna_DIR_MAE_total_20261006_133602/resumen_seleccion.csv
+LSTM_DIF_ELEV_DIR,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/seleccion_interna_DIR_MAE_total_20261006_133602/resumen_seleccion.csv
+NBEATS_DIF_ELEV_DIR,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/seleccion_interna_DIR_MAE_total_20261006_133602/historiales/historial_NBEATS_DIF_ELEV_DIR.csv
+NBEATS_DIF_ELEV_LWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/comparativas/comparacion_externa_swd_lwd_20261006_130515/coste_modelos_lwd.csv
+LSTM_DIF_ELEV_LWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/comparativas/comparacion_externa_swd_lwd_20261006_130515/coste_modelos_lwd.csv
+NBEATS_DIF_ELEV_SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/comparativas/comparacion_externa_swd_lwd_20261006_130515/coste_modelos_swd.csv
+LSTM_DIF_ELEV_SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/comparativas/comparacion_externa_swd_lwd_20261006_130515/coste_modelos_swd.csv
+NBEATS_DIF_ELEV_SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/comparativas/comparacion_externa_swd_lwd_20261006_130515/direccion_y_sesgo_rampas_swd_lwd.csv
+NBEATS_DIF_ELEV_LWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/comparativas/comparacion_externa_swd_lwd_20261006_130515/direccion_y_sesgo_rampas_swd_lwd.csv
+LSTM_DIF_ELEV_SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/comparativas/comparacion_externa_swd_lwd_20261006_130515/direccion_y_sesgo_rampas_swd_lwd.csv
+LSTM_DIF_ELEV_LWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/comparativas/comparacion_externa_swd_lwd_20261006_130515/direccion_y_sesgo_rampas_swd_lwd.csv
+NBEATS_DIF_ELEV_SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/comparativas/comparacion_externa_swd_lwd_20261006_130515/metricas_swd_lwd_por_quintil.csv
+NBEATS_DIF_ELEV_LWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/comparativas/comparacion_externa_swd_lwd_20261006_130515/metricas_swd_lwd_por_quintil.csv
+LSTM_DIF_ELEV_SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/comparativas/comparacion_externa_swd_lwd_20261006_130515/metricas_swd_lwd_por_quintil.csv
+LSTM_DIF_ELEV_LWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/comparativas/comparacion_externa_swd_lwd_20261006_130515/metricas_swd_lwd_por_quintil.csv
+NBEATS_DIF_ELEV_SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/comparativas/comparacion_externa_swd_lwd_20261006_130515/metricas_swd_lwd_por_regimen.csv
+NBEATS_DIF_ELEV_LWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/comparativas/comparacion_externa_swd_lwd_20261006_130515/metricas_swd_lwd_por_regimen.csv
+LSTM_DIF_ELEV_SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/comparativas/comparacion_externa_swd_lwd_20261006_130515/metricas_swd_lwd_por_regimen.csv
+LSTM_DIF_ELEV_LWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/comparativas/comparacion_externa_swd_lwd_20261006_130515/metricas_swd_lwd_por_regimen.csv
+NBEATS_DIF_ELEV_LWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_lwd_mae_total_20261006_125836/metricas/metricas_validation.csv
+LSTM_DIF_ELEV_LWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_lwd_mae_total_20261006_125836/metricas/metricas_validation.csv
+NBEATS_DIF_ELEV_LWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_lwd_mae_total_20261006_125836/tablas/coste_computacional.csv
+LSTM_DIF_ELEV_LWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_lwd_mae_total_20261006_125836/tablas/coste_computacional.csv
+LSTM_DIF_ELEV_LWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_lwd_mae_total_20261006_125836/tablas/historial_lstm_dif_elev_lwd.csv
+NBEATS_DIF_ELEV_LWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_lwd_mae_total_20261006_125836/tablas/historial_nbeats_dif_elev_lwd.csv
+LSTM_DIF_ELEV_LWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/seleccion_interna_LWD_MAE_total_20261006_122007/historiales/historial_LSTM_DIF_ELEV_LWD.csv
+NBEATS_DIF_ELEV_LWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/seleccion_interna_LWD_MAE_total_20261006_122007/resumen_seleccion.csv
+LSTM_DIF_ELEV_LWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/seleccion_interna_LWD_MAE_total_20261006_122007/resumen_seleccion.csv
+NBEATS_DIF_ELEV_LWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/seleccion_interna_LWD_MAE_total_20261006_122007/historiales/historial_NBEATS_DIF_ELEV_LWD.csv
+NBEATS-U24-DIF-ElevHist,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/comparativas/comparacion_externa_swd_20261006_110803/coste_modelos_base_recuperado.csv
+LSTM-U24-DIF-ElevHist,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/comparativas/comparacion_externa_swd_20261006_110803/coste_modelos_base_recuperado.csv
+NBEATS_DIF_ELEV_SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/comparativas/comparacion_externa_swd_20261006_110803/coste_modelos_swd.csv
+LSTM_DIF_ELEV_SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/comparativas/comparacion_externa_swd_20261006_110803/coste_modelos_swd.csv
+NBEATS_DIF_ELEV,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/comparativas/comparacion_externa_swd_20261006_110803/direccion_y_sesgo_rampas.csv
+NBEATS_DIF_ELEV_SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/comparativas/comparacion_externa_swd_20261006_110803/direccion_y_sesgo_rampas.csv
+LSTM_DIF_ELEV,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/comparativas/comparacion_externa_swd_20261006_110803/direccion_y_sesgo_rampas.csv
+LSTM_DIF_ELEV_SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/comparativas/comparacion_externa_swd_20261006_110803/direccion_y_sesgo_rampas.csv
+NBEATS_DIF_ELEV,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/comparativas/comparacion_externa_swd_20261006_110803/metricas_por_quintil_delta_DIF.csv
+NBEATS_DIF_ELEV_SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/comparativas/comparacion_externa_swd_20261006_110803/metricas_por_quintil_delta_DIF.csv
+LSTM_DIF_ELEV,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/comparativas/comparacion_externa_swd_20261006_110803/metricas_por_quintil_delta_DIF.csv
+LSTM_DIF_ELEV_SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/comparativas/comparacion_externa_swd_20261006_110803/metricas_por_quintil_delta_DIF.csv
+NBEATS_DIF_ELEV,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/comparativas/comparacion_externa_swd_20261006_110803/metricas_por_regimen.csv
+NBEATS_DIF_ELEV_SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/comparativas/comparacion_externa_swd_20261006_110803/metricas_por_regimen.csv
+LSTM_DIF_ELEV,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/comparativas/comparacion_externa_swd_20261006_110803/metricas_por_regimen.csv
+LSTM_DIF_ELEV_SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/comparativas/comparacion_externa_swd_20261006_110803/metricas_por_regimen.csv
+NBEATS_DIF_ELEV_SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_swd_mae_total_20261006_110229/metricas/metricas_preliminares_validation.csv
+LSTM_DIF_ELEV_SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_swd_mae_total_20261006_110229/metricas/metricas_preliminares_validation.csv
+NBEATS_DIF_ELEV_SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_swd_mae_total_20261006_110229/tablas/coste_computacional.csv
+LSTM_DIF_ELEV_SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_swd_mae_total_20261006_110229/tablas/coste_computacional.csv
+LSTM_DIF_ELEV_SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_swd_mae_total_20261006_110229/tablas/historial_lstm_dif_elev_swd.csv
+NBEATS_DIF_ELEV_SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_swd_mae_total_20261006_110229/tablas/historial_nbeats_dif_elev_swd.csv
+NBEATS_DIF_ELEV_SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/20261006T085954459191Z__nbeats_lstm__seleccion_epocas_swd_mae_total/metricas/resumen_seleccion_SWD_MAE_total.csv
+LSTM_DIF_ELEV_SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/20261006T085954459191Z__nbeats_lstm__seleccion_epocas_swd_mae_total/metricas/resumen_seleccion_SWD_MAE_total.csv
+NBEATS_DIF_ELEV_SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/20261006T084045944992Z__nbeats_lstm__seleccion_epocas_swd_mae_total/metricas/resumen_seleccion_SWD_MAE_total.csv
+LSTM_DIF_ELEV_SWD,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/20261006T084045944992Z__nbeats_lstm__seleccion_epocas_swd_mae_total/metricas/resumen_seleccion_SWD_MAE_total.csv
+HGB-9V,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/metricas_prediccion_cambios.csv
+N-BEATS-U24 DIF,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/metricas_prediccion_cambios.csv
+LSTM-U24 DIF,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/metricas_prediccion_cambios.csv
+N-BEATS-U24 DIF+Elev,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/metricas_prediccion_cambios.csv
+LSTM-U24 DIF+Elev,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/metricas_prediccion_cambios.csv
+HGB-9V,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/metricas_cinco_modelos_por_regimen.csv
+N-BEATS-U24 DIF,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/metricas_cinco_modelos_por_regimen.csv
+LSTM-U24 DIF,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/metricas_cinco_modelos_por_regimen.csv
+N-BEATS-U24 DIF+Elev,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/metricas_cinco_modelos_por_regimen.csv
+LSTM-U24 DIF+Elev,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/metricas_cinco_modelos_por_regimen.csv
+HGB-9V,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/coste_computacional_modelos.csv
+N-BEATS-U24 DIF,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/coste_computacional_modelos.csv
+LSTM-U24 DIF,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/coste_computacional_modelos.csv
+N-BEATS-U24 DIF+Elev,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/coste_computacional_modelos.csv
+LSTM-U24 DIF+Elev,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/coste_computacional_modelos.csv
+HGB-9V,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/MAE_por_quintil_cambio.csv
+N-BEATS-U24 DIF,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/MAE_por_quintil_cambio.csv
+LSTM-U24 DIF,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/MAE_por_quintil_cambio.csv
+N-BEATS-U24 DIF+Elev,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/MAE_por_quintil_cambio.csv
+LSTM-U24 DIF+Elev,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/MAE_por_quintil_cambio.csv

@@ -1,0 +1,25 @@
+{
+  "fecha_creacion_utc": "20261006T220505Z",
+  "train_n": 5149,
+  "validation_n": 1464,
+  "test_estado": "cerrado",
+  "seed": 42,
+  "dispositivo": "cpu",
+  "batch_size": 128,
+  "learning_rate": 0.001,
+  "weight_decay": 1e-05,
+  "gradient_clip": 1.0,
+  "funcion_perdida": "L1Loss",
+  "epocas_seleccionadas": {
+    "DIF_elev_T2quad__LSTM": 41,
+    "DIF_elev_RHquad__LSTM": 30,
+    "DIF_elev_Pmedia__LSTM": 54,
+    "DIF_elev_Pquad__LSTM": 35,
+    "DIF_elev_Pmedia__NBEATS": 12,
+    "DIF_elev_Pquad__NBEATS": 8,
+    "DIF_elev_T2quad__NBEATS": 13,
+    "DIF_elev_RHquad__NBEATS": 8
+  },
+  "normalizacion": "ajustada exclusivamente con train completo",
+  "validation_externa": "evaluada una vez tras cada reentrenamiento"
+}

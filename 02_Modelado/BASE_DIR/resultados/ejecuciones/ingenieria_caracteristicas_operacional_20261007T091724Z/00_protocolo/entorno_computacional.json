@@ -1,0 +1,17 @@
+{
+  "timestamp_utc": "20261007T091724Z",
+  "python": "3.13.16 (main, Oct  1 2026, 15:40:24) [GCC 13.3.0]",
+  "sistema": "Linux-6.6.122+-x86_64-with-glibc2.39",
+  "procesador": "x86_64",
+  "numpy": "2.1.3",
+  "pandas": "2.2.3",
+  "scikit_learn": "1.6.1",
+  "tensorflow": "2.21.0",
+  "keras": "3.13.2",
+  "torch": "2.11.0+cpu",
+  "tensorflow_dispositivos": [
+    "/physical_device:CPU:0"
+  ],
+  "torch_cuda_disponible": false,
+  "torch_gpu": null
+}

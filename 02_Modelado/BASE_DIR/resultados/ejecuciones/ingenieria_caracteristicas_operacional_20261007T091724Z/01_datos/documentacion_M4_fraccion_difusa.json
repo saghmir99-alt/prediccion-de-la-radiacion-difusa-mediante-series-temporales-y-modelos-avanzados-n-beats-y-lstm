@@ -1,0 +1,41 @@
+{
+  "modelo": "M4_DIFstats_SWD_DIR_FD",
+  "origen_fd": "Recuperada de /content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/documentacion/checkpoint_continuidad_modelado_20261006_125123/estado_arrays_modelado.npz; claves kd_train, kd_validation",
+  "formula_reconstruccion": "clip(DIF_media / SWD_media, 0, 1) si SWD_media > 0; FD=0 en otro caso",
+  "uso_temporal": "Solo valores históricos T-24 a T-1",
+  "canales": [
+    "DIF_media",
+    "elevacion",
+    "DIF_std",
+    "DIF_rango",
+    "SWD_media",
+    "SWD_std",
+    "SWD_rango",
+    "DIR_media",
+    "DIR_std",
+    "DIR_rango",
+    "fraccion_difusa"
+  ],
+  "resumen": [
+    {
+      "split": "train",
+      "media": 0.3617193102836609,
+      "std": 0.4156689941883087,
+      "min": 0.0,
+      "mediana": 0.0,
+      "max": 1.172825574874878,
+      "porcentaje_cero": 50.551077879199845,
+      "porcentaje_uno": 0.252476208972616
+    },
+    {
+      "split": "validation",
+      "media": 0.3307510316371918,
+      "std": 0.37665238976478577,
+      "min": 0.0,
+      "mediana": 0.20255708694458008,
+      "max": 1.2000000476837158,
+      "porcentaje_cero": 47.424294171220396,
+      "porcentaje_uno": 0.06830601092896176
+    }
+  ]
+}

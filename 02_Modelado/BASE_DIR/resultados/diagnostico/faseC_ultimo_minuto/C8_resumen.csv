@@ -1,0 +1,3 @@
+configuración,mejor época,MAE operación,veredicto,cambio operación,IC95 operación,cambio central,IC95 central,"1 mejora ≥0,5 e IC<0",2 central sin empeorar
+BASE · E1-30 (9 canales),30,25.38599344783358,referencia,,,,,,
+V3 · + DIF_ult1 (10 canales),50,24.398818754673332,PASA A VALIDACIÓN,-0.9871746931602493,"[-1.62, -0.34]",-1.7775459737285202,"[-3.67, +0.20]",True,True

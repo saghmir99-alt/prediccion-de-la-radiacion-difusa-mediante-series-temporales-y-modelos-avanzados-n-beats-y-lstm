@@ -1,0 +1,3 @@
+particion,horas_requeridas,inicio,fin,horas_vacias,horas_parciales_1_29,horas_con_nulos
+train,5183,2023-12-29,2024-07-31 22:00:00,0,0,0
+validation,1487,2024-07-31,2024-09-30 22:00:00,0,0,0

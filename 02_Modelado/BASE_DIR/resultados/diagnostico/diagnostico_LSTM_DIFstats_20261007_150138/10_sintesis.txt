@@ -1,0 +1,13 @@
+RETRASO: la LSTM reproduce los cambios 1 h tarde (corr. de incrementos 0.46 en k=0 frente a 0.89 en k=1): se comporta como una persistencia suavizada. → Añadir información conocida de la hora objetivo (DIF y GHI de cielo despejado, elevación de T), término de derivada en la pérdida MAE(Δŷ, Δy) o ponderar las rampas; a medio plazo, información de previsión (NWP o satélite).
+
+RAMPAS SUAVIZADAS: en las rampas predice el 43 % del cambio real (CSI = 0.20); son el 10 % de las horas y el 31 % del error. → Pesos mayores en rampas en la L1Loss, variables de tendencia (ΔDIF, Δkt) y de variabilidad reciente.
+
+ERROR NO PREDECIBLE con la información de emisión: más variables del pasado difícilmente ayudarán. → Mejora por la función de pérdida, la arquitectura o información prospectiva.
+
+CONCENTRACIÓN DEL ERROR en nivel_DIF = 'Q5 (alto)': 37 % del error, cociente error/muestras 1.83, sesgo -31.8 W/m². → Priorizar variables y ponderación para esas condiciones.
+
+CONCENTRACIÓN DEL ERROR en elevacion = '(40, 65]': 41 % del error, cociente error/muestras 1.76, sesgo -0.9 W/m². → Priorizar variables y ponderación para esas condiciones.
+
+MEMORIA CORTA: T-3…T-1 concentra el 90 % de la importancia temporal; la LSTM apenas usa el resto del día. → Probar ventanas más cortas o añadir explícitamente la información del día anterior que sí sea útil.
+
+SIN DIFERENCIA SIGNIFICATIVA: ['LSTM-DIFstats vs LSTM-DIFstats+Pmedia']. → En la memoria, tratarlos como equivalentes y elegir el más parsimonioso; entrenar varias semillas antes de afirmar mejoras pequeñas.

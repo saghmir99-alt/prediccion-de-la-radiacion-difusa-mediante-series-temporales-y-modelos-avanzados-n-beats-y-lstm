@@ -1,0 +1,2 @@
+NO SE CONFIRMA: el intento 19 queda igual que la N-BEATS-1h de N6b (-0.09, IC95 [-0.60; +0.44]); sigue la N-BEATS-1h de N6b.
+Banda central: +1.40, IC95 [+0.17; +2.67] · DM p (operación) = 0.7338

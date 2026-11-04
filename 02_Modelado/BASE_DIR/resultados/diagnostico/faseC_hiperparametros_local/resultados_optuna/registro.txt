@@ -1,0 +1,180 @@
+[19:25:40] ======================================================================
+[19:25:40] Inicio / reanudación
+[19:25:40] Datos: (5149, 24, 9) (esperado (5149, 24, 9)) · meses de la criba ['2024-01', '2024-03', '2024-05', '2024-07']
+[19:25:40] Intento 0 = E1-30 (referencia) puesto en cola.
+[19:25:40] H1: 0/30 intentos terminados. Lanzando 4 trabajadores…
+[19:32:29] intento 1: MAE 25.78 W/m² (época 60) en 6.8 min · {'lr': 0.0011879627954691377, 'batch': 256, 'hidden': 64, 'capas': 1, 'wd': 1.1852082392181959e-05}
+[19:32:58] intento 0: MAE 25.64 W/m² (época 25) en 7.3 min · {'lr': 0.001, 'batch': 128, 'hidden': 64, 'capas': 1, 'wd': 1e-05}
+[19:41:39] intento 3: MAE 25.46 W/m² (época 25) en 9.2 min · {'lr': 0.0009308261033391283, 'batch': 128, 'hidden': 64, 'capas': 2, 'wd': 6.0934137976112215e-06, 'dropout_capas': 0.0}
+[19:54:16] intento 2: MAE 25.83 W/m² (época 65) en 28.6 min · {'lr': 0.0008113952487931968, 'batch': 256, 'hidden': 128, 'capas': 2, 'wd': 8.343739845338371e-06, 'dropout_capas': 0.2}
+[19:59:52] intento 4: MAE 25.95 W/m² (época 60) en 26.9 min · {'lr': 0.0010483980307230654, 'batch': 256, 'hidden': 128, 'capas': 2, 'wd': 2.571104740261945e-06, 'dropout_capas': 0.2}
+[20:04:25] intento 7: MAE 25.91 W/m² (época 80) en 4.5 min · {'lr': 0.0004856499818452489, 'batch': 256, 'hidden': 32, 'capas': 2, 'wd': 6.640812848625789e-06, 'dropout_capas': 0.2}
+[20:05:13] intento 6: MAE 25.83 W/m² (época 65) en 11.0 min · {'lr': 0.002660789922771725, 'batch': 64, 'hidden': 128, 'capas': 1, 'wd': 0.00043136733524518675}
+[20:08:21] intento 5: MAE 26.05 W/m² (época 45) en 26.7 min · {'lr': 0.0010685100195751249, 'batch': 256, 'hidden': 128, 'capas': 2, 'wd': 3.537116074362896e-05, 'dropout_capas': 0.2}
+[20:08:33] intento 9: MAE 25.90 W/m² (época 25) en 3.3 min · {'lr': 0.0017062000291142962, 'batch': 64, 'hidden': 32, 'capas': 1, 'wd': 5.87569844830218e-05}
+[20:15:00] intento 8: MAE 25.61 W/m² (época 25) en 10.6 min · {'lr': 0.0019713813039066966, 'batch': 256, 'hidden': 128, 'capas': 1, 'wd': 6.259362890594754e-05}
+[20:17:13] intento 10: MAE 25.50 W/m² (época 65) en 8.9 min · {'lr': 0.0004944491571053004, 'batch': 128, 'hidden': 64, 'capas': 2, 'wd': 0.00029112970967092895, 'dropout_capas': 0.0}
+[20:17:25] intento 11: MAE 25.92 W/m² (época 25) en 8.9 min · {'lr': 0.002371126007675546, 'batch': 128, 'hidden': 64, 'capas': 2, 'wd': 1.7503349339535793e-06, 'dropout_capas': 0.0}
+[20:23:57] intento 12: MAE 25.75 W/m² (época 25) en 9.0 min · {'lr': 0.0016727004560517153, 'batch': 128, 'hidden': 64, 'capas': 2, 'wd': 1.1705745102404921e-05, 'dropout_capas': 0.0}
+[20:25:51] intento 13: MAE 25.52 W/m² (época 65) en 8.6 min · {'lr': 0.00042081144999091697, 'batch': 128, 'hidden': 64, 'capas': 2, 'wd': 0.0005928910391540749, 'dropout_capas': 0.0}
+[20:26:12] intento 14: MAE 25.49 W/m² (época 65) en 8.8 min · {'lr': 0.0007073670480826177, 'batch': 128, 'hidden': 64, 'capas': 2, 'wd': 5.9533665720509474e-05, 'dropout_capas': 0.0}
+[20:32:35] intento 15: MAE 25.43 W/m² (época 50) en 8.6 min · {'lr': 0.0004086176246411623, 'batch': 128, 'hidden': 64, 'capas': 2, 'wd': 2.267552105554789e-06, 'dropout_capas': 0.0}
+[20:34:29] intento 16: MAE 25.65 W/m² (época 25) en 8.6 min · {'lr': 0.001005904085842349, 'batch': 128, 'hidden': 64, 'capas': 2, 'wd': 1.0811414530629217e-06, 'dropout_capas': 0.0}
+[20:35:18] intento 17: MAE 25.74 W/m² (época 30) en 9.1 min · {'lr': 0.0007026577546792601, 'batch': 64, 'hidden': 64, 'capas': 2, 'wd': 3.0930626717901724e-06, 'dropout_capas': 0.0}
+[20:36:45] intento 18: MAE 25.48 W/m² (época 60) en 4.2 min · {'lr': 0.0003938974669700214, 'batch': 128, 'hidden': 64, 'capas': 1, 'wd': 2.04562165527059e-06}
+[20:40:48] intento 21: MAE 25.48 W/m² (época 60) en 4.0 min · {'lr': 0.00046283800260467323, 'batch': 128, 'hidden': 64, 'capas': 1, 'wd': 2.4889153943774762e-05}
+[20:43:47] intento 20: MAE 25.48 W/m² (época 65) en 8.5 min · {'lr': 0.0005757515392604271, 'batch': 128, 'hidden': 64, 'capas': 2, 'wd': 5.807854202905997e-06, 'dropout_capas': 0.0}
+[20:47:53] intento 23: MAE 25.42 W/m² (época 60) en 4.1 min · {'lr': 0.00034311277026846887, 'batch': 128, 'hidden': 64, 'capas': 1, 'wd': 7.457180693872641e-06}
+[20:49:21] intento 22: MAE 25.73 W/m² (época 25) en 8.5 min · {'lr': 0.0021525924936708248, 'batch': 128, 'hidden': 64, 'capas': 2, 'wd': 0.000134487686417947, 'dropout_capas': 0.0}
+[20:53:20] intento 25: MAE 25.46 W/m² (época 60) en 4.0 min · {'lr': 0.0003152938112906119, 'batch': 128, 'hidden': 64, 'capas': 1, 'wd': 1.1673264889893657e-05}
+[20:57:17] intento 24: MAE 25.58 W/m² (época 65) en 9.4 min · {'lr': 0.00032739056102365065, 'batch': 256, 'hidden': 64, 'capas': 2, 'wd': 7.206088135420275e-06, 'dropout_capas': 0.0}
+[20:57:19] intento 26: MAE 25.65 W/m² (época 20) en 4.0 min · {'lr': 0.0014673251431244789, 'batch': 128, 'hidden': 64, 'capas': 1, 'wd': 1.8014676270649804e-06}
+[20:59:31] intento 19: MAE 25.61 W/m² (época 65) en 25.0 min · {'lr': 0.0003189667933922331, 'batch': 128, 'hidden': 128, 'capas': 2, 'wd': 1.0168446915631776e-06, 'dropout_capas': 0.0}
+[21:01:24] intento 28: MAE 25.81 W/m² (época 25) en 4.1 min · {'lr': 0.0028126901596698586, 'batch': 128, 'hidden': 64, 'capas': 1, 'wd': 7.773238253144237e-06}
+[21:05:43] intento 27: MAE 25.41 W/m² (época 60) en 8.4 min · {'lr': 0.0003144507111458922, 'batch': 128, 'hidden': 64, 'capas': 2, 'wd': 2.1412554070126444e-06, 'dropout_capas': 0.0}
+[21:09:04] intento 29: MAE 25.86 W/m² (época 50) en 9.5 min · {'lr': 0.0015556706228573242, 'batch': 128, 'hidden': 64, 'capas': 2, 'wd': 4.728533306610022e-06, 'dropout_capas': 0.2}
+[21:09:41] intento 31: MAE 25.34 W/m² (época 60) en 4.0 min · {'lr': 0.0005372667829032765, 'batch': 128, 'hidden': 32, 'capas': 2, 'wd': 1.8280603136690437e-05, 'dropout_capas': 0.0}
+[21:09:44] intento 30: MAE 25.46 W/m² (época 60) en 8.3 min · {'lr': 0.0003714069071423459, 'batch': 128, 'hidden': 64, 'capas': 2, 'wd': 2.1432693554645763e-05, 'dropout_capas': 0.0}
+[21:18:22] ======================================================================
+[21:18:22] Inicio / reanudación
+[21:18:22] Datos: (5149, 24, 9) (esperado (5149, 24, 9)) · meses de la criba ['2024-01', '2024-03', '2024-05', '2024-07']
+[21:18:22] H1: 32/30 intentos terminados. Lanzando 4 trabajadores…
+[21:18:22] H1 terminado: 32 completos.
+[21:18:22] H2: 4 configuraciones × 2 semillas · 16 entrenamientos pendientes.
+[21:19:33]    H2 1/16 hecho (6ec4a3810a0f · 2024-01 · semilla 123)
+[21:19:34]    H2 2/16 hecho (6ec4a3810a0f · 2024-03 · semilla 123)
+[21:19:34]    H2 3/16 hecho (6ec4a3810a0f · 2024-05 · semilla 123)
+[21:19:36]    H2 4/16 hecho (6ec4a3810a0f · 2024-07 · semilla 123)
+[21:20:59]    H2 5/16 hecho (561765c81c44 · 2024-01 · semilla 123)
+[21:21:00]    H2 6/16 hecho (561765c81c44 · 2024-03 · semilla 123)
+[21:21:02]    H2 7/16 hecho (561765c81c44 · 2024-05 · semilla 123)
+[21:21:04]    H2 8/16 hecho (561765c81c44 · 2024-07 · semilla 123)
+[21:24:13]    H2 9/16 hecho (0c72de308a17 · 2024-01 · semilla 123)
+[21:24:16]    H2 10/16 hecho (0c72de308a17 · 2024-03 · semilla 123)
+[21:24:20]    H2 11/16 hecho (0c72de308a17 · 2024-05 · semilla 123)
+[21:24:22]    H2 12/16 hecho (0c72de308a17 · 2024-07 · semilla 123)
+[21:25:45]    H2 13/16 hecho (a6897045f8ed · 2024-01 · semilla 123)
+[21:25:49]    H2 14/16 hecho (a6897045f8ed · 2024-03 · semilla 123)
+[21:25:52]    H2 15/16 hecho (a6897045f8ed · 2024-05 · semilla 123)
+[21:25:52]    H2 16/16 hecho (a6897045f8ed · 2024-07 · semilla 123)
+[21:26:00] 
+INFORME H1 + H2 · Optimización de hiperparámetros de E1-30
+======================================================================
+H1: 32 intentos completos y 0 podados. Datos: solo train, 4 meses fuera, semilla 42.
+Mejor intento de H1: n.º 31 con MAE 25.34 W/m² (E1-30 en H1: 25.64).
+
+H2 (semillas 42 y 123, por parejas frente a E1-30):
+  intento 31: cambio -0.24 W/m² [-0.61, +0.11] · central -0.18 · amanecer -23.8 % → no gana  · {"lr": 0.0005372667829032765, "batch": 128, "hidden": 32, "capas": 2, "wd": 1.8280603136690437e-05, "dropout_capas": 0.0}
+  intento 27: cambio -0.33 W/m² [-0.64, -0.04] · central -0.27 · amanecer -21.4 % → no gana  · {"lr": 0.0003144507111458922, "batch": 128, "hidden": 64, "capas": 2, "wd": 2.1412554070126444e-06, "dropout_capas": 0.0}
+  intento 23: cambio -0.25 W/m² [-0.50, -0.02] · central +0.20 · amanecer -16.5 % → no gana  · {"lr": 0.00034311277026846887, "batch": 128, "hidden": 64, "capas": 1, "wd": 7.457180693872641e-06}
+
+VEREDICTO: ninguna combinación cumple los 3 criterios. E1-30 se mantiene como modelo final; no se toca validación. Siguiente: D1.
+[21:26:00] FIN. Resultados en: C:\optuna_local\resultados_optuna
+[21:51:16] ======================================================================
+[21:51:16] H2+ · 5 semillas para E1-30, intento 23 e intento 27
+[21:51:16] 36 entrenamientos pendientes (los demás ya están en la caché).
+[21:52:19]    1/36 hecho (6ec4a3810a0f · 2024-01 · semilla 2024)
+[21:52:21]    2/36 hecho (6ec4a3810a0f · 2024-03 · semilla 2024)
+[21:52:21]    3/36 hecho (6ec4a3810a0f · 2024-05 · semilla 2024)
+[21:52:23]    4/36 hecho (6ec4a3810a0f · 2024-07 · semilla 2024)
+[21:54:50]    5/36 hecho (6ec4a3810a0f · 2024-01 · semilla 7)
+[21:54:54]    6/36 hecho (6ec4a3810a0f · 2024-03 · semilla 7)
+[21:54:55]    7/36 hecho (6ec4a3810a0f · 2024-05 · semilla 7)
+[21:54:57]    8/36 hecho (6ec4a3810a0f · 2024-07 · semilla 7)
+[21:57:15]    9/36 hecho (6ec4a3810a0f · 2024-01 · semilla 99)
+[21:57:21]    10/36 hecho (6ec4a3810a0f · 2024-03 · semilla 99)
+[21:57:22]    11/36 hecho (6ec4a3810a0f · 2024-05 · semilla 99)
+[21:57:24]    12/36 hecho (6ec4a3810a0f · 2024-07 · semilla 99)
+[21:58:57]    13/36 hecho (a6897045f8ed · 2024-01 · semilla 2024)
+[21:59:04]    14/36 hecho (a6897045f8ed · 2024-03 · semilla 2024)
+[21:59:04]    15/36 hecho (a6897045f8ed · 2024-05 · semilla 2024)
+[21:59:08]    16/36 hecho (a6897045f8ed · 2024-07 · semilla 2024)
+[22:00:35]    17/36 hecho (a6897045f8ed · 2024-01 · semilla 7)
+[22:00:41]    18/36 hecho (a6897045f8ed · 2024-03 · semilla 7)
+[22:00:42]    19/36 hecho (a6897045f8ed · 2024-05 · semilla 7)
+[22:00:46]    20/36 hecho (a6897045f8ed · 2024-07 · semilla 7)
+[22:02:10]    21/36 hecho (a6897045f8ed · 2024-01 · semilla 99)
+[22:02:20]    22/36 hecho (a6897045f8ed · 2024-03 · semilla 99)
+[22:02:20]    23/36 hecho (a6897045f8ed · 2024-05 · semilla 99)
+[22:02:24]    24/36 hecho (a6897045f8ed · 2024-07 · semilla 99)
+[22:05:26]    25/36 hecho (0c72de308a17 · 2024-01 · semilla 2024)
+[22:05:37]    26/36 hecho (0c72de308a17 · 2024-03 · semilla 2024)
+[22:05:38]    27/36 hecho (0c72de308a17 · 2024-05 · semilla 2024)
+[22:05:44]    28/36 hecho (0c72de308a17 · 2024-07 · semilla 2024)
+[22:08:38]    29/36 hecho (0c72de308a17 · 2024-01 · semilla 7)
+[22:08:50]    30/36 hecho (0c72de308a17 · 2024-03 · semilla 7)
+[22:08:52]    31/36 hecho (0c72de308a17 · 2024-05 · semilla 7)
+[22:08:58]    32/36 hecho (0c72de308a17 · 2024-07 · semilla 7)
+[22:11:42]    33/36 hecho (0c72de308a17 · 2024-01 · semilla 99)
+[22:11:54]    34/36 hecho (0c72de308a17 · 2024-03 · semilla 99)
+[22:11:54]    35/36 hecho (0c72de308a17 · 2024-05 · semilla 99)
+[22:11:58]    36/36 hecho (0c72de308a17 · 2024-07 · semilla 99)
+[22:12:00] 
+H2+ · 5 semillas (solo train, 4 meses fuera), por parejas frente a E1-30
+======================================================================
+  E1-30: MAE 25.34 W/m² (mejor época 30)
+  intento 23: MAE 25.17 · cambio -0.17 W/m² (-0.7 %) [-0.36, +0.03] · central -0.28 [-0.74, +0.21] · amanecer -10.8 % · mejora en 5/5 semillas · época 80 → no pasa
+  intento 27: MAE 25.01 · cambio -0.33 W/m² (-1.3 %) [-0.61, -0.08] · central -0.70 [-1.30, -0.09] · amanecer -6.0 % · mejora en 3/5 semillas · época 80 → PASA A H3
+[22:12:00] FIN H2+.
+[22:21:34] ======================================================================
+[22:21:34] H2e · intento 27 hasta 150 épocas · 5 semillas
+[22:21:34] 20 entrenamientos pendientes.
+[22:30:59]    1/20 hecho (2024-01 · semilla 42)
+[22:31:06]    2/20 hecho (2024-03 · semilla 42)
+[22:31:06]    3/20 hecho (2024-05 · semilla 42)
+[22:31:06]    4/20 hecho (2024-07 · semilla 42)
+[22:37:00]    5/20 hecho (2024-01 · semilla 123)
+[22:37:13]    6/20 hecho (2024-03 · semilla 123)
+[22:37:13]    7/20 hecho (2024-05 · semilla 123)
+[22:37:21]    8/20 hecho (2024-07 · semilla 123)
+[22:43:11]    9/20 hecho (2024-01 · semilla 2024)
+[22:43:27]    10/20 hecho (2024-03 · semilla 2024)
+[22:43:27]    11/20 hecho (2024-05 · semilla 2024)
+[22:43:48]    12/20 hecho (2024-07 · semilla 2024)
+[22:50:47]    13/20 hecho (2024-01 · semilla 7)
+[22:51:02]    14/20 hecho (2024-03 · semilla 7)
+[22:51:05]    15/20 hecho (2024-05 · semilla 7)
+[22:51:25]    16/20 hecho (2024-07 · semilla 7)
+[22:56:36]    17/20 hecho (2024-01 · semilla 99)
+[22:56:57]    18/20 hecho (2024-03 · semilla 99)
+[22:57:00]    19/20 hecho (2024-05 · semilla 99)
+[22:57:21]    20/20 hecho (2024-07 · semilla 99)
+[22:57:24] Control: diferencia máxima épocas 5–80 frente a H2+ = 0.0000 W/m² (≈0 = reproducible)
+[22:57:25] 
+H2e · intento 27 hasta 150 épocas (5 semillas, train, 4 meses fuera)
+======================================================================
+Mejor época: 95 → MAE 25.00 W/m² (en la época 80: 25.04)
+E1-30 en su mejor época (30): MAE 25.33 W/m²
+Cambio frente a E1-30 en la mejor época: -0.34 W/m² [-0.66, -0.02]
+ÉPOCAS PARA H3 (regla fijada): 95
+[22:57:25] FIN H2e.
+[23:23:48] ======================================================================
+[23:23:48] H3 · confirmación en VALIDACIÓN (una sola vez)
+[23:23:48]    E1-30: 30 épocas
+[23:23:48]    intento 27: 95 épocas
+[23:23:48] Validación: 1464 horas (2024-08-01 00:00:00 → 2024-09-30 23:00:00)
+[23:23:48] 10 entrenamientos con todo train pendientes.
+[23:24:11]    1/10 hecho (E1-30 · semilla 42)
+[23:24:12]    2/10 hecho (E1-30 · semilla 123)
+[23:24:12]    3/10 hecho (E1-30 · semilla 2024)
+[23:24:12]    4/10 hecho (E1-30 · semilla 7)
+[23:24:48]    5/10 hecho (E1-30 · semilla 99)
+[23:30:03]    6/10 hecho (intento 27 · semilla 42)
+[23:30:03]    7/10 hecho (intento 27 · semilla 123)
+[23:30:03]    8/10 hecho (intento 27 · semilla 2024)
+[23:30:39]    9/10 hecho (intento 27 · semilla 7)
+[23:33:29]    10/10 hecho (intento 27 · semilla 99)
+[23:33:36] 
+H3 · CONFIRMACIÓN EN VALIDACIÓN (ago–sep 2024, horas con sol, 5 semillas, una sola vez)
+==============================================================================
+E1-30:      MAE 23.33 W/m²  (ventaja sobre persistencia 48.2 %)
+intento 27: MAE 23.24 W/m²  (ventaja sobre persistencia 48.4 %)
+
+1) Operación:     -0.09 W/m² (-0.4 %) IC95 [-0.43, +0.23] → NO cumple
+2) Banda central: +0.26 W/m² IC95 [-0.70, +1.24] · sin empeorar op./central → cumple
+3) Amanecer:      -13.9 % IC95 [-1.02, +0.04] W/m² → cumple (límite +4 %)
+Diebold–Mariano (diario, 61 días, Newey–West L=3, HLN): estadístico -0.69, p = 0.4953
+Mejora por semilla: 4/5
+
+VEREDICTO: NO SE ACEPTA. E1-30 se mantiene como modelo base.
+[23:33:36] FIN H3. Resultados en C:\optuna_local\resultados_optuna\H3_validacion

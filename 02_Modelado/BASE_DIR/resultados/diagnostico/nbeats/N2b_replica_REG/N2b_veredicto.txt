@@ -1,0 +1,1 @@
+NO REPLICA: en feb–abr–jun REG cambia -0.59 W/m² (IC95 [-1.41, +0.18]). REG queda cerrada; la N-BEATS final es la N-BEATS-DIFstats de P1 (época 15).

@@ -1,0 +1,4 @@
+particion,inicio,fin,filas_historicas,uso
+train,2023-12-30 00:00:00,2024-07-31 23:00:00,5149.0,ajuste y selección interna cronológica
+validation,2024-08-01 00:00:00,2024-09-30 23:00:00,1464.0,evaluación externa y comparación de modelos
+test,2024-10-01 00:00:00,2024-11-30 23:00:00,,CERRADO hasta la selección definitiva

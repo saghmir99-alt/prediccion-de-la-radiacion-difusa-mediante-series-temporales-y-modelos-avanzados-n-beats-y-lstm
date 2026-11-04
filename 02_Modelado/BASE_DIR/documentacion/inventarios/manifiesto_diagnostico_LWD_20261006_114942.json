@@ -1,0 +1,16 @@
+{
+  "created_at_europe_madrid": "2026-10-06T11:49:42.608363+02:00",
+  "test_used": false,
+  "files": [
+    {
+      "ruta": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/documentacion/definicion_bloque_LWD_20261006_114942.json",
+      "tamano_bytes": 1264,
+      "sha256": "947762191a56c40afcf7d0264e966d5f8a5a373073db129cf72a4dfc1d1a066b"
+    },
+    {
+      "ruta": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/documentacion/inventarios/diagnostico_temporal_LWD_20261006_114942.json",
+      "tamano_bytes": 1575,
+      "sha256": "33abd0e6773986f1960940525c8466b0773e25ff9d64afe7e884a39dbecdb149"
+    }
+  ]
+}

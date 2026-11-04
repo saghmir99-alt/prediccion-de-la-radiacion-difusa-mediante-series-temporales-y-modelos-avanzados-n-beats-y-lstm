@@ -1,0 +1,1 @@
+DEFECTO DEL MODELO: la N-BEATS ya sobrestima en train frente a la LSTM (+6.00, IC95 [+4.46, +7.68]). N2 = corregir el modelo (normalización / forma de entrar la elevación).

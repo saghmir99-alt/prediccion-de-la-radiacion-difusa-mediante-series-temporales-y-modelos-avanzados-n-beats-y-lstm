@@ -1,0 +1,1 @@
+PASA A VALIDACIÓN: V3 (-0.99 W/m², IC95 [-1.62, -0.34], mejor época 50). Siguiente: confirmación con 5 semillas en validación frente a E1-30.

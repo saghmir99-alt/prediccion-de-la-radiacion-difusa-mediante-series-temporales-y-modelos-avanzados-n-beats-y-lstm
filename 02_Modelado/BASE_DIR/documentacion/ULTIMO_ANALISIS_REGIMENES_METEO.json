@@ -1,0 +1,7 @@
+{
+  "fecha_creacion_utc": "20261006T221610Z",
+  "directorio": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_meteo_20261006T220505Z/analisis_regimenes_20261006T221610Z",
+  "metricas": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_meteo_20261006T220505Z/analisis_regimenes_20261006T221610Z/metricas_meteo_por_regimen.csv",
+  "tabla_MAE": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_meteo_20261006T220505Z/analisis_regimenes_20261006T221610Z/tabla_MAE_por_ambito.csv",
+  "test_utilizado": false
+}

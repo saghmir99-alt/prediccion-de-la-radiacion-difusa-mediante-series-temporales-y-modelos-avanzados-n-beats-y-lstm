@@ -1,0 +1,1 @@
+p90 |ΔDIF| horas de sol train = 97.7767 W/m2

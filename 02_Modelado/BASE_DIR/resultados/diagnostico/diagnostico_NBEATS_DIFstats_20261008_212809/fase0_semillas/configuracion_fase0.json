@@ -1,0 +1,27 @@
+{
+  "modelo_original": "reentrenamiento_difstats_20261006_182213",
+  "semillas": [
+    42,
+    123,
+    2024
+  ],
+  "epocas": 18,
+  "batch": 128,
+  "lr": 0.001,
+  "weight_decay": 1e-05,
+  "bandas": {
+    "hombros (≤20°)": [
+      -90,
+      20
+    ],
+    "intermedia (20–40°)": [
+      20,
+      40
+    ],
+    "central (>40°)": [
+      40,
+      90
+    ]
+  },
+  "fecha": "2026-10-08T21:43:58"
+}

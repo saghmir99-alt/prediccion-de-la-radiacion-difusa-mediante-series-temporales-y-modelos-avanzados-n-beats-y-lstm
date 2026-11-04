@@ -1,0 +1,1 @@
+PASAN LAS DOS. Se elige A (B no mejora a A de forma significativa: se queda la más sencilla; B − A = -0.00, IC95 [-0.46, +0.43]). Siguiente: confirmación con 5 semillas en validación, época 40.

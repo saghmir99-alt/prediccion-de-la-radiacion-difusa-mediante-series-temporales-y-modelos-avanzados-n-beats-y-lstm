@@ -1,0 +1,25 @@
+{
+  "LSTM_DIF_Elev_LWU": {
+    "MAE_global": 16.84096,
+    "MAE_operacion": 27.3957,
+    "MAE_noche": 0.7541,
+    "RMSE_global": 33.422958,
+    "RMSE_operacion": 43.0043,
+    "RMSE_noche": 1.0045,
+    "pct_error_operacion": 98.23,
+    "pct_error_noche": 1.77
+  },
+  "NBEATS_DIF_Elev_LWU": {
+    "MAE_global": 20.19537,
+    "MAE_operacion": 32.7147,
+    "MAE_noche": 1.1141,
+    "RMSE_global": 37.929848,
+    "RMSE_operacion": 48.792,
+    "RMSE_noche": 1.7197,
+    "pct_error_operacion": 97.81,
+    "pct_error_noche": 2.19
+  },
+  "conclusion": "Las métricas globales están favorecidas por las horas nocturnas; el rendimiento operativo es considerablemente peor.",
+  "comparacion_entre_bloques_pendiente": true,
+  "test_utilizado": false
+}

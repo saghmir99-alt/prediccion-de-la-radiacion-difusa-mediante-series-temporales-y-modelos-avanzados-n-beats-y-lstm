@@ -1,0 +1,42 @@
+{
+  "run_id": "seleccion_interna_LWD_MAE_total_20261006_122007",
+  "created_at_europe_madrid": "2026-10-06T12:21:46.324248+02:00",
+  "block": "LWD",
+  "channel_names": [
+    "DIF",
+    "elevacion",
+    "LWD_media",
+    "LWD_std_media",
+    "LWD_rango"
+  ],
+  "input_shape": [
+    5149,
+    24,
+    5
+  ],
+  "subtrain_rows": 4428,
+  "internal_validation_rows": 721,
+  "selection_criterion": "MAE total de validacion interna",
+  "diagnostic_metric": "MAE operacional interno",
+  "seed": 42,
+  "batch_size": 128,
+  "optimizer": "Adam",
+  "learning_rate": 0.001,
+  "weight_decay": 1e-05,
+  "gradient_clip": 1.0,
+  "maximum_epochs": 300,
+  "patience": 25,
+  "minimum_delta": 1e-05,
+  "selected_epochs": {
+    "NBEATS_DIF_ELEV_LWD": 6,
+    "LSTM_DIF_ELEV_LWD": 43
+  },
+  "imputation": {
+    "empty_hour": "2024-03-15T10:00:00+00:00",
+    "method": "arrastre causal de la hora anterior",
+    "selected_by": "backtest causal sobre subtrain",
+    "quality_indicators_used_as_inputs": false
+  },
+  "external_validation_used": false,
+  "test_used": false
+}

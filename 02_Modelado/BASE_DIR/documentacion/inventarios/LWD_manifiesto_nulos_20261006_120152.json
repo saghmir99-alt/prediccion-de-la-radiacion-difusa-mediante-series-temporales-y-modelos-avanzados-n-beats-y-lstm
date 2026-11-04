@@ -1,0 +1,36 @@
+{
+  "created_at_europe_madrid": "2026-10-06T12:01:53.443026+02:00",
+  "test_used": false,
+  "files": [
+    {
+      "ruta": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/documentacion/inventarios/LWD_patrones_nulos_20261006_120152.csv",
+      "tamano_bytes": 133,
+      "sha256": "ffafc157d42b9f4dbdc1a83d44d8a94ce3cdb64d6855835d6c13b8023fb8004b"
+    },
+    {
+      "ruta": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/documentacion/inventarios/LWD_intervalos_nulos_20261006_120152.csv",
+      "tamano_bytes": 9351,
+      "sha256": "8178abc0133e5be9d617e0869e848a7fc19c5f79be2a080ab4bbd589f47fb9a3"
+    },
+    {
+      "ruta": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/documentacion/inventarios/LWD_calidad_horaria_20261006_120152.csv",
+      "tamano_bytes": 367836,
+      "sha256": "78d11c35eccc4a1e8f1b9e9ce6684029e12a1e7790116e67cf257d5f9c94cc08"
+    },
+    {
+      "ruta": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/documentacion/inventarios/LWD_nulos_por_mes_20261006_120152.csv",
+      "tamano_bytes": 246,
+      "sha256": "4ee99f3a06bdedd78a47d004acb840ac95e59a346a68b47de343578b93e1f81b"
+    },
+    {
+      "ruta": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/documentacion/inventarios/LWD_ventanas_afectadas_20261006_120152.csv",
+      "tamano_bytes": 331473,
+      "sha256": "2d4e9ce0cc6b8dfbd714adc65ac7a51c221bf12c48a1e7010eaf60cda7614fdd"
+    },
+    {
+      "ruta": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/documentacion/inventarios/LWD_resumen_nulos_20261006_120152.json",
+      "tamano_bytes": 992,
+      "sha256": "96e692a607aeedae4735c1c8df8e38130a5c711117aa9819d23fb8d6b6a70ead"
+    }
+  ]
+}

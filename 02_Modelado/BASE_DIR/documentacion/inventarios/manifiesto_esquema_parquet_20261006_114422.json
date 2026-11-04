@@ -1,0 +1,17 @@
+{
+  "created_at_europe_madrid": "2026-10-06T11:44:22.808876+02:00",
+  "test_used": false,
+  "rows_loaded": 0,
+  "files": [
+    {
+      "ruta": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/documentacion/inventarios/esquema_radiation_data_completo_20261006_114422.csv",
+      "tamano_bytes": 1326,
+      "sha256": "752b1914fa0ffe5b970242b1d357a57c19b760df190b9aadaafef53ce8039366"
+    },
+    {
+      "ruta": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/documentacion/inventarios/metadatos_radiation_data_completo_20261006_114422.json",
+      "tamano_bytes": 549,
+      "sha256": "7de2df4d1e5714f2d280ba3ef8a2c87f701b76b32b109946e54169ebc886a565"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "created_at_europe_madrid": "2026-10-06T11:34:01.308555+02:00",
+  "test_used": false,
+  "files": [
+    {
+      "ruta": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/documentacion/plan_cribado_bloques_variables_20261006_113114.md",
+      "tamano_bytes": 4351,
+      "sha256": "9158efe7e4ae210ad27b583a772700d60a30f52142c2e91389fc8b45bb2325f3"
+    },
+    {
+      "ruta": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/documentacion/inventarios/inventario_columnas_bloques_20261006_113114.csv",
+      "tamano_bytes": 35142,
+      "sha256": "d26485d81797300b2a2ad4fa2888e1ac7e98f32bad462635f7ff31adb3f05b32"
+    },
+    {
+      "ruta": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/documentacion/inventarios/inventario_objetos_secuenciales_20261006_113114.csv",
+      "tamano_bytes": 1547,
+      "sha256": "838c053bc0f382d284f7fe2ec79c3a8c3c9287f1ffaaa4e8941f0f752228ee4e"
+    },
+    {
+      "ruta": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/documentacion/inventarios/resumen_bloques_detectados_20261006_113114.json",
+      "tamano_bytes": 9601,
+      "sha256": "057e952b81b062080a4a1e6fcd3c11f943001de010724cd3aa6d2b3ee3077bf5"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "fecha_creacion_utc": "20261007T075606Z",
+  "test_utilizado": false,
+  "modelos_recuperados": [
+    "LSTM-DIR",
+    "LSTM-GeomT",
+    "LSTM-SWD+DIR",
+    "LSTM-SWD+DIR+FD",
+    "LSTM-SWD+FD",
+    "NBEATS-DIR",
+    "NBEATS-Delta",
+    "NBEATS-GeomT",
+    "NBEATS-SWD+DIR",
+    "NBEATS-SWD+DIR+FD",
+    "NBEATS-SWD+FD"
+  ],
+  "n_modelos_recuperados": 11,
+  "n_validation": 1464,
+  "ambitos": {
+    "global": 1464,
+    "operacion": 884,
+    "completamente_diurno": 765,
+    "transicion": 119,
+    "noche": 580
+  },
+  "zip_maestro": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/TFM_resultados_completos_20261005_194124.zip",
+  "ejecucion_DIR": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_nbeats_lstm_dir_mae_total_20261006_115330",
+  "ejecucion_combinaciones": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_combinaciones_swd_dir_fd_20261006_122214",
+  "comparativa_anterior": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/comparacion_relativa_baselines_20261006T223100Z"
+}

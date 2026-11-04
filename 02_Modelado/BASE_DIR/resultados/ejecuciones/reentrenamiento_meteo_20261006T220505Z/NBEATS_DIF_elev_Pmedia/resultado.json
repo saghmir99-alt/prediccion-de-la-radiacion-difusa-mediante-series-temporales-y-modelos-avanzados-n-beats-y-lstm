@@ -1,0 +1,17 @@
+{
+  "configuracion": "DIF_elev_Pmedia",
+  "arquitectura": "NBEATS",
+  "n_canales": 3,
+  "n_parametros": 273558,
+  "epocas_reentrenamiento": 12,
+  "MAE": 18.193907752227233,
+  "nMAE_pct": 21.15181201132682,
+  "RMSE": 34.45369484083431,
+  "R2": 0.898450812743189,
+  "bias": 6.62240017505612,
+  "tiempo_entrenamiento_segundos": 6.671185315999992,
+  "segundos_por_epoca": 0.555932109666666,
+  "inferencia_validation_segundos": 0.016578996999896844,
+  "inferencia_ms_por_muestra": 0.01132445150266178,
+  "tamano_modelo_MB": 1.0610456466674805
+}

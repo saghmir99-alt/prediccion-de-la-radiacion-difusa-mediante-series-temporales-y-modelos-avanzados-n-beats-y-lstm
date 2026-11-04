@@ -1,0 +1,28 @@
+{
+  "configuracion": "DIF_elev_Pquad",
+  "arquitectura": "NBEATS",
+  "canales": [
+    "DIF",
+    "elevacion",
+    "P_media",
+    "P_pendiente",
+    "P_curvatura"
+  ],
+  "n_canales": 5,
+  "n_parametros": 310422,
+  "epoca_seleccionada": 8,
+  "mae_validacion_interna": 26.970245361328125,
+  "epocas_ejecutadas": 33,
+  "early_stopping": true,
+  "patience": 25,
+  "min_delta": 1e-05,
+  "batch_size": 128,
+  "learning_rate": 0.001,
+  "weight_decay": 1e-05,
+  "gradient_clip": 1.0,
+  "seed": 42,
+  "dispositivo": "cpu",
+  "tiempo_seleccion_segundos": 25.200110156999926,
+  "validation_externa_utilizada": false,
+  "test_utilizado": false
+}

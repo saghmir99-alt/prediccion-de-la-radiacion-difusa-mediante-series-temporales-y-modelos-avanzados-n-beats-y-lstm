@@ -1,0 +1,53 @@
+{
+  "run_id": "seleccion_interna_DIR_MAE_total_20261006_133602",
+  "status": "completed",
+  "external_validation_used": false,
+  "test_used": false,
+  "files": [
+    {
+      "ruta_relativa": "checkpoints_seleccion/LSTM_DIF_ELEV_DIR.pt",
+      "tamano_bytes": 85529,
+      "sha256": "9edc11690213bfbc453fd2abf3e704bddf7e0dda8d289f4bd54e9e8e0a7dd6ae"
+    },
+    {
+      "ruta_relativa": "checkpoints_seleccion/NBEATS_DIF_ELEV_DIR.pt",
+      "tamano_bytes": 1264519,
+      "sha256": "66044483e3e90a0ba831ac3784251cb6dc0f4c3b3c12b53f0df5825ba1f12559"
+    },
+    {
+      "ruta_relativa": "configuracion.json",
+      "tamano_bytes": 963,
+      "sha256": "ca9274c240d83cac878ba337fbd5c485beafe7c9d31776d9d6d436884263dbf4"
+    },
+    {
+      "ruta_relativa": "escaladores_subtrain.json",
+      "tamano_bytes": 415,
+      "sha256": "629a31a0b02cd647027e78d387c07593820dbe3e80f2a732f313aead4191da0c"
+    },
+    {
+      "ruta_relativa": "escaladores_subtrain.pkl",
+      "tamano_bytes": 213,
+      "sha256": "473e1be9a1442da40df31a85068e7cdcba02dd6c4b9bce70ad86dfc88eeef10d"
+    },
+    {
+      "ruta_relativa": "historiales/historial_LSTM_DIF_ELEV_DIR.csv",
+      "tamano_bytes": 6043,
+      "sha256": "876f00ebb10ee3dde9fb504eb05df1e84b72b56bb2ecc7ff813ee766481345c0"
+    },
+    {
+      "ruta_relativa": "historiales/historial_NBEATS_DIF_ELEV_DIR.csv",
+      "tamano_bytes": 2575,
+      "sha256": "0a2c70a11f3321dcb90f3937479b1f6d9b973e1c0e3e89925717d60265d8acd4"
+    },
+    {
+      "ruta_relativa": "predicciones_internas/predicciones_validacion_interna.npz",
+      "tamano_bytes": 8045,
+      "sha256": "4a4880347d6fd20ab782abb6eb0998181d9d10b0473c31b167bff3d5f3afa30a"
+    },
+    {
+      "ruta_relativa": "resumen_seleccion.csv",
+      "tamano_bytes": 491,
+      "sha256": "77b056aa8942264ab2b977059e9d0db6003288f8dba12c585f9ae0054b3ed051"
+    }
+  ]
+}

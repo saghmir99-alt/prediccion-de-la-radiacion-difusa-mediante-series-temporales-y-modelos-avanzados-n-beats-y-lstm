@@ -1,0 +1,21 @@
+{
+  "fecha_creacion_utc": "20261007T082325Z",
+  "directorio_fuente": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/comparativas/reconstruccion_benchmarks_clasicos_20261007T081828Z",
+  "n_modelos": 39,
+  "ambitos": [
+    "global",
+    "operacion",
+    "completamente_diurno",
+    "transicion",
+    "noche"
+  ],
+  "criterio_principal": "MAE ascendente",
+  "criterios_diagnosticos": [
+    "nMAE_pct",
+    "RMSE",
+    "R2",
+    "bias"
+  ],
+  "nota_noche": "El ranking nocturno es descriptivo y no determina la selección operativa.",
+  "test_utilizado": false
+}

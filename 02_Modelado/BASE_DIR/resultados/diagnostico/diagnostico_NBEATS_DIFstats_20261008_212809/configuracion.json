@@ -1,0 +1,32 @@
+{
+  "modelo": "NBEATS_DIFstats",
+  "epocas": 18,
+  "semillas": [
+    42,
+    123,
+    2024
+  ],
+  "umbral_rampa_W_m2": 97.78,
+  "ambito_rampas": "operacion",
+  "base": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_difstats_20261006_182213",
+  "matrices": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/preparacion_bloque_difstats_20261006_180841/matrices_dif_elev_difstats.npz",
+  "torch": "2.11.0+cpu",
+  "numpy": "2.1.3",
+  "pandas": "2.2.3",
+  "fase1": {
+    "E1": [
+      "DIF_ult15",
+      "DIF_pend30",
+      "DIF_acel60",
+      "DIF_saltos",
+      "SWD_cv"
+    ],
+    "E2": [
+      "R_ult15",
+      "R_pend30",
+      "R_acel60",
+      "DIF_saltos",
+      "SWD_cv"
+    ]
+  }
+}

@@ -1,0 +1,3 @@
+modelo,familia,variables,puesto_total,MAE_total,RMSE,R2,puesto_operacion,MAE_operacion,puesto_completamente_diurno,MAE_completamente_diurno,puesto_transicion,MAE_transicion
+LSTM-DIFstats,LSTM,DIF + elevación + DIF std + DIF rango,1,15.699157512924874,31.87974408507549,0.9130570245162306,1,25.69810335281225,1,29.278937446369845,2,2.6784556085134255
+NBEATS-DIFstats,N-BEATS,DIF + elevación + DIF std + DIF rango,17,17.584780429003136,33.633605307107,0.9032275596286637,11,28.332298797296097,11,32.04742306821487,10,4.449357055675457

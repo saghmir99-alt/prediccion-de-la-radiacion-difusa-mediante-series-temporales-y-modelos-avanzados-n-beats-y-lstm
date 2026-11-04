@@ -1,0 +1,28 @@
+{
+  "configuracion": "DIF_elev_RHquad",
+  "arquitectura": "LSTM",
+  "canales": [
+    "DIF",
+    "elevacion",
+    "RH_media",
+    "RH_pendiente",
+    "RH_curvatura"
+  ],
+  "n_canales": 5,
+  "n_parametros": 20289,
+  "epoca_seleccionada": 30,
+  "mae_validacion_interna": 23.772146224975586,
+  "epocas_ejecutadas": 55,
+  "early_stopping": true,
+  "patience": 25,
+  "min_delta": 1e-05,
+  "batch_size": 128,
+  "learning_rate": 0.001,
+  "weight_decay": 1e-05,
+  "gradient_clip": 1.0,
+  "seed": 42,
+  "dispositivo": "cpu",
+  "tiempo_seleccion_segundos": 65.08602224800006,
+  "validation_externa_utilizada": false,
+  "test_utilizado": false
+}

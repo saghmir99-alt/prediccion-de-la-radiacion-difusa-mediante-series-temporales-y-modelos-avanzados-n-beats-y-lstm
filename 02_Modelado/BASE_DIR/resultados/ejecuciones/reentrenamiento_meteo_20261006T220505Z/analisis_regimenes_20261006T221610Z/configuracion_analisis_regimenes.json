@@ -1,0 +1,24 @@
+{
+  "fecha_creacion_utc": "20261006T221610Z",
+  "validation_inicio": "2024-08-01 00:00:00+00:00",
+  "validation_fin": "2024-09-30 23:00:00+00:00",
+  "validation_n": 1464,
+  "ambitos": {
+    "global": "todas las observaciones",
+    "operacion": "transicion + completamente_diurno",
+    "completamente_diurno": "régimen original completamente diurno",
+    "transicion": "régimen original transición",
+    "noche": "régimen original noche"
+  },
+  "metricas": [
+    "MAE",
+    "nMAE_pct",
+    "RMSE",
+    "R2",
+    "bias",
+    "contribucion_error_abs_pct"
+  ],
+  "predicciones_reutilizadas": true,
+  "modelos_reentrenados_nuevamente": false,
+  "test_utilizado": false
+}

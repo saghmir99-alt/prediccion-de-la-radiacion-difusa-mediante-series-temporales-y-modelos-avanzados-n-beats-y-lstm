@@ -1,0 +1,49 @@
+{
+  "created_at_europe_madrid": "2026-10-06T13:20:11.107495+02:00",
+  "block": "LWD",
+  "status": "descartado_provisionalmente_como_bloque_individual",
+  "reference_block": "SWD",
+  "main_conclusion": "LWD empeora el rendimiento global frente a SWD en N-BEATS y LSTM.",
+  "secondary_finding": {
+    "subset": "Q5 de la magnitud del cambio de DIF",
+    "n_observations": 177,
+    "NBEATS": {
+      "MAE_SWD": 57.01979657081561,
+      "MAE_LWD": 51.8545192082723,
+      "improvement_W_m2": 5.165277362543307,
+      "improvement_pct": 9.058743933132595,
+      "bootstrap_CI95": [
+        2.3256454473976196,
+        7.927638534532789
+      ],
+      "conclusion": "mejora consistente en validation"
+    },
+    "LSTM": {
+      "MAE_SWD": 60.977899923162944,
+      "MAE_LWD": 59.81936716090488,
+      "improvement_W_m2": 1.1585327622580621,
+      "improvement_pct": 1.8999223714130964,
+      "bootstrap_CI95": [
+        -0.8966653447886863,
+        3.357123065872751
+      ],
+      "conclusion": "diferencia no concluyente"
+    }
+  },
+  "interpretation": "La señal de LWD parece afectar principalmente a la magnitud de algunos cambios extremos y no a la identificación de la dirección de las rampas.",
+  "physical_hypothesis_status": "plausible_pero_no_demostrada",
+  "pending_analyses": [
+    "Separar Q5 en aumentos y descensos.",
+    "Estratificar Q5 por elevacion solar y hora.",
+    "Comparar observaciones donde LWD gana y pierde.",
+    "Caracterizar nivel, pendiente, desviacion y rango de LWD.",
+    "Comprobar concentración de la mejora por episodios o días.",
+    "Ablacion de canales LWD si reaparece en una combinación.",
+    "Confirmación con varias semillas si vuelve a ser finalista."
+  ],
+  "priority": "aplazado_hasta_finalizar_cribado_de_bloques",
+  "next_block": "LWU",
+  "external_validation_used": true,
+  "models_modified_after_validation": false,
+  "test_used": false
+}

@@ -1,0 +1,9 @@
+tipo,columna_real,columna_pred,columna_fecha,ruta
+CSV,y_real,y_pred,instante_objetivo,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_meteo_20261006T220505Z/LSTM_DIF_elev_Pquad/predicciones_validation.csv
+CSV,y_real,y_pred,instante_objetivo,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_meteo_20261006T220505Z/NBEATS_DIF_elev_Pquad/predicciones_validation.csv
+CSV,y_real,y_pred,instante_objetivo,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_meteo_20261006T220505Z/LSTM_DIF_elev_Pmedia/predicciones_validation.csv
+CSV,y_real,y_pred,instante_objetivo,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_meteo_20261006T220505Z/NBEATS_DIF_elev_Pmedia/predicciones_validation.csv
+CSV,y_real,y_pred,instante_objetivo,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_meteo_20261006T220505Z/LSTM_DIF_elev_RHquad/predicciones_validation.csv
+CSV,y_real,y_pred,instante_objetivo,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_meteo_20261006T220505Z/NBEATS_DIF_elev_RHquad/predicciones_validation.csv
+CSV,y_real,y_pred,instante_objetivo,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_meteo_20261006T220505Z/LSTM_DIF_elev_T2quad/predicciones_validation.csv
+CSV,y_real,y_pred,instante_objetivo,/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_meteo_20261006T220505Z/NBEATS_DIF_elev_T2quad/predicciones_validation.csv

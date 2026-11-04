@@ -1,0 +1,36 @@
+{
+  "timestamp": "20261006_125123",
+  "n_archivos": 6,
+  "archivos": [
+    {
+      "archivo": "PUNTO_REANUDACION.md",
+      "tamano_bytes": 967,
+      "sha256": "23783d9bcdc625e3474a583cc84d6ef7a33c087ffc96c9c9efcfeaeeff48a77a"
+    },
+    {
+      "archivo": "estado_arrays_modelado.npz",
+      "tamano_bytes": 399928,
+      "sha256": "66d3164d29dae65552fb6d7af5e1fc695088ecc7e4d741d64be1ee799c561fa7"
+    },
+    {
+      "archivo": "estado_modelado.json",
+      "tamano_bytes": 2584,
+      "sha256": "95c0b1ebc38ee3d3eacc4e46cfb731bb4d6662cf575fc6c8d2ad637d44399b5e"
+    },
+    {
+      "archivo": "inventario_modelos_principales.csv",
+      "tamano_bytes": 1749,
+      "sha256": "e7426b0a2fa700392ee57cac14dce4bf70437350ef6053ea6fa12a70e6d5aab5"
+    },
+    {
+      "archivo": "train_hgb.parquet",
+      "tamano_bytes": 597646,
+      "sha256": "2d929d082e21dac58f03a3da6083c8344012ec015548d84c465843c15acff1d5"
+    },
+    {
+      "archivo": "validation_hgb.parquet",
+      "tamano_bytes": 187338,
+      "sha256": "55a1c3be3fa7e4df7cd747aa176c4f9e8d76aecece3e696c185106d134aab9a3"
+    }
+  ]
+}

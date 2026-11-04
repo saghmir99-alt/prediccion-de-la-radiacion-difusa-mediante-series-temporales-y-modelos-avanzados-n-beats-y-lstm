@@ -1,0 +1,25 @@
+objeto,tipo,shape,dtype,n_elementos,bloques_detectados,contiene_no_finitos
+X_subtrain,ndarray,"(4428, 24, 5)",float32,531360,,False
+X_subtrain_raw,ndarray,"(4428, 24, 5)",float32,531360,,False
+X_train_DIF_elev_SWD_raw,ndarray,"(5149, 24, 5)",float32,617880,SWD|DIF,False
+X_train_DIF_elevacion_raw,ndarray,"(5149, 24, 2)",float32,247152,DIF|ELEVACION,False
+X_train_raw,ndarray,"(5149, 24, 5)",float32,617880,,False
+X_train_scaled,ndarray,"(5149, 24, 5)",float32,617880,,False
+X_train_swd_raw,ndarray,"(5149, 24, 5)",float32,617880,SWD,False
+X_validation_DIF_elev_SWD_raw,ndarray,"(1464, 24, 5)",float32,175680,SWD|DIF,False
+X_validation_DIF_elevacion_raw,ndarray,"(1464, 24, 2)",float32,70272,DIF|ELEVACION,False
+X_validation_raw,ndarray,"(1464, 24, 5)",float32,175680,,False
+X_validation_scaled,ndarray,"(1464, 24, 5)",float32,175680,,False
+correct_direction,ndarray,"(177,)",bool,177,,
+dif_lag1,ndarray,"(1464,)",float64,1464,DIF,False
+dif_lag1_validation,ndarray,"(1464,)",float32,1464,DIF,False
+prediction_lstm_swd,ndarray,"(1464,)",float32,1464,SWD,False
+prediction_nbeats_swd,ndarray,"(1464,)",float32,1464,SWD,False
+valid_direction,ndarray,"(1464,)",bool,1464,,
+y_subtrain,ndarray,"(4428,)",float32,4428,,False
+y_subtrain_raw,ndarray,"(4428,)",float32,4428,,False
+y_train_raw,ndarray,"(5149,)",float32,5149,,False
+y_train_scaled,ndarray,"(5149,)",float32,5149,,False
+y_train_secuencial,ndarray,"(5149,)",float32,5149,,False
+y_validation_raw,ndarray,"(1464,)",float32,1464,,False
+y_validation_secuencial,ndarray,"(1464,)",float32,1464,,False

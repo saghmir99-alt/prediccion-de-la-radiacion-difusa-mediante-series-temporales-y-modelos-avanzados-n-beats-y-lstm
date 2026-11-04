@@ -1,0 +1,35 @@
+{
+  "created_at_europe_madrid": "2026-10-06T12:01:53.416257+02:00",
+  "minute_missing_counts": {
+    "LWD [W/m**2]": 518,
+    "LWD std dev [W/m**2]": 518,
+    "LWD min [W/m**2]": 518,
+    "LWD max [W/m**2]": 518
+  },
+  "number_of_missing_runs": 166,
+  "number_of_incomplete_hours": 161,
+  "number_of_hours_below_30_minutes": 2,
+  "number_of_empty_hours": 1,
+  "affected_windows": [
+    {
+      "particion": "train",
+      "n_objetivos": 5149,
+      "ventanas_con_hora_incompleta": 2396,
+      "ventanas_con_hora_menos_30": 48,
+      "ventanas_con_hora_vacia": 24,
+      "max_horas_incompletas_por_ventana": 4,
+      "minima_cobertura_observada": 0.0
+    },
+    {
+      "particion": "validation",
+      "n_objetivos": 1464,
+      "ventanas_con_hora_incompleta": 729,
+      "ventanas_con_hora_menos_30": 0,
+      "ventanas_con_hora_vacia": 0,
+      "max_horas_incompletas_por_ventana": 3,
+      "minima_cobertura_observada": 52.0
+    }
+  ],
+  "imputation_applied": false,
+  "test_used": false
+}

@@ -1,0 +1,13 @@
+canal,descripcion,media_train,desv_train,min_train,max_train
+DIF_media,Media horaria de DIF,80.13656,111.865265,-2.3333333,555.15
+elevacion,Elevación solar media de la hora,4.618433,29.91618,-60.932575,61.184086
+DIF_std,Media horaria de DIF std dev,1.2591628,2.268602,0.011666667,25.073334
+DIF_rango,Máx(DIF max) − mín(DIF min) en la hora,69.81388,103.33212,0.0,673.0
+DIF_ult15,E1 · media de DIF en los últimos 15 min,80.650764,115.58921,-2.0666666,598.5333
+DIF_pend30,E1 · pendiente de DIF en los últimos 30 min,1.7282792,129.79398,-1240.8588,1469.98
+DIF_acel60,E1 · curvatura de DIF en los 60 min,7.0545454,364.10486,-3510.2449,4155.3657
+DIF_saltos,E1 · fracción de minutos con |ΔDIF| > 20 W/m²,0.045476064,0.11789347,0.0,0.76666665
+SWD_cv,E1 · coef. de variación de SWD minutal,0.16348188,0.21704568,0.0,1.3059145
+DIF_D1,"E4 · DIF de ayer, una hora por delante: DIF(h+1−24)",79.72402,111.6131,-2.3333333,555.15
+DIF_D2,"E4 · DIF de anteayer, una hora por delante: DIF(h+1−48)",79.50123,111.66195,-2.3333333,555.15
+saltos_24h,E4 · media de DIF_saltos en las 24 h anteriores,0.045431793,0.05153821,0.0,0.20902778

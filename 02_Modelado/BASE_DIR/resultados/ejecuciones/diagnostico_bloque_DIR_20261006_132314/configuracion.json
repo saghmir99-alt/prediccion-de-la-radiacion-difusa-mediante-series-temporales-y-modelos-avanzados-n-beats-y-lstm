@@ -1,0 +1,38 @@
+{
+  "run_id": "diagnostico_bloque_DIR_20261006_132314",
+  "created_at_europe_madrid": "2026-10-06T13:25:40.003052+02:00",
+  "block": "DIR",
+  "status": "diagnostico_previo_sin_imputacion",
+  "source_file": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/radiation_data_completo.parquet",
+  "source_columns": [
+    "DIR [W/m**2]",
+    "DIR std dev [W/m**2]",
+    "DIR min [W/m**2]",
+    "DIR max [W/m**2]"
+  ],
+  "provisional_hourly_channels": [
+    "DIR_media",
+    "DIR_std_media",
+    "DIR_rango"
+  ],
+  "history_window_hours": 24,
+  "forecast_horizon_hours": 1,
+  "read_start": "2023-12-29 00:00:00+00:00",
+  "read_end_exclusive": "2024-10-01 00:00:00+00:00",
+  "coherence_summary": {
+    "n_horas": 6648,
+    "n_horas_rango_negativo": 0,
+    "n_horas_media_fuera_limites_horarios": 0,
+    "n_horas_DIR_media_negativa": 209,
+    "n_horas_DIR_rango_cero": 647,
+    "n_horas_completamente_vacias": 0,
+    "n_horas_con_menos_30_validos": 1,
+    "n_horas_incompletas": 136
+  },
+  "zero_values_treated_as_missing": false,
+  "negative_values_modified": false,
+  "imputation_applied": false,
+  "scaling_applied": false,
+  "models_trained": false,
+  "test_used": false
+}

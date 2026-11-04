@@ -1,0 +1,33 @@
+{
+  "run_id": "preparacion_bloque_DIR_20261006_134545",
+  "status": "completed",
+  "external_validation_used": false,
+  "test_used": false,
+  "files": [
+    {
+      "ruta_relativa": "bloque_DIR_secuencial.npz",
+      "tamano_bytes": 183939,
+      "sha256": "dcdd6065f57d2aed04d1794cd5e895b7903e3f0615f5d3773d4ff28618cf08c7"
+    },
+    {
+      "ruta_relativa": "calidad_ventanas_train_DIR.csv",
+      "tamano_bytes": 230119,
+      "sha256": "fcbb513a8995ac4413dbaa7dd034caa512a86d3c7b705b71482ff4fd55c5a626"
+    },
+    {
+      "ruta_relativa": "calidad_ventanas_validation_DIR.csv",
+      "tamano_bytes": 65361,
+      "sha256": "f57d114d4ec05156fc600009c706d55cade5fdbb6e990a20eefbd33799dd3644"
+    },
+    {
+      "ruta_relativa": "configuracion.json",
+      "tamano_bytes": 783,
+      "sha256": "5cff56e69c45eafcec586203c339bc2c1ccdfa7fd40160649dbfd1adffc7f05f"
+    },
+    {
+      "ruta_relativa": "resumen_calidad_ventanas_DIR.csv",
+      "tamano_bytes": 137,
+      "sha256": "506f4a0028abe9d079c40c8e76bab117a11d6e3cf08477ffd648435fb83baeb4"
+    }
+  ]
+}

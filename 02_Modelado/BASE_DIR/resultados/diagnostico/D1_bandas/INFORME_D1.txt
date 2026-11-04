@@ -1,0 +1,6 @@
+D1 · BANDAS DE INCERTIDUMBRE PARA E1-30 (validación ago–sep 2024, horas con sol)
+================================================================================
+80%: cobertura D1 82.8 % · ancho medio 82.1 W/m² (fijo 80.9) · Winkler -20.30 [-27.08, -13.43] · peor grupo banda: central >40° (81.0 %) → SE ACEPTA D1
+90%: cobertura D1 91.5 % · ancho medio 114.9 W/m² (fijo 127.3) · Winkler -28.56 [-39.50, -17.44] · peor grupo banda: hombros ≤20° (91.4 %) → SE ACEPTA D1
+Spearman σ̂ vs error real: 0.58
+MAE E1-30 23.25 · persistencia 45.03 · persistencia inteligente 32.63 W/m²

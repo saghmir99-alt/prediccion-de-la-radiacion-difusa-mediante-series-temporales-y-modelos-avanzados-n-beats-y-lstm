@@ -1,0 +1,18 @@
+{
+  "run_id": "20261006_164647",
+  "canales": [
+    "DIF",
+    "elevacion",
+    "LWU_media",
+    "LWU_rango",
+    "LWU_std"
+  ],
+  "definiciones": {
+    "LWU_media": "Media horaria de LWU [W/m**2]",
+    "LWU_rango": "Máximo horario de LWU max menos mínimo horario de LWU min",
+    "LWU_std": "Media horaria de LWU std dev [W/m**2]"
+  },
+  "imputacion": "Arrastre causal exclusivamente para horas completamente vacías",
+  "horas_imputadas": [],
+  "test_utilizado": false
+}

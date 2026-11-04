@@ -1,0 +1,3 @@
+modelo,epocas_reentrenamiento,tiempo_reentrenamiento_s,segundos_por_epoca,tiempo_inferencia_mediano_s,microsegundos_por_prediccion,parametros_entrenables,checkpoint_MB,memoria_maxima_inicio_MB,memoria_maxima_final_MB
+NBEATS_DIF_ELEV_LWD,6,9.480570338000687,1.5800950563334482,0.0309540569996897,21.143481557165156,310422,1.2061223983764648,617.421875,617.421875
+LSTM_DIF_ELEV_LWD,43,50.20825928599879,1.1676339368836928,0.0860790679998899,58.79717759555325,20289,0.0816888809204101,617.421875,617.421875

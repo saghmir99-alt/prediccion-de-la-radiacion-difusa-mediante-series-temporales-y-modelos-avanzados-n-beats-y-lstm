@@ -1,0 +1,18 @@
+T3 · EVALUACIÓN ÚNICA DEL TEST (oct–nov 2024, horas con sol)
+================================================================================
+Horas evaluadas: 646 · ejecución nº 1
+COMPARACIÓN PRINCIPAL · N-BEATS-1h − LSTM E1-30 (train + val): -1.84 W/m², IC95 [-2.72; -0.94], DM p = 0.0000 → N-BEATS mejor
+E1-30 train+val: MAE 14.77 · RMSE 23.25 · sesgo -1.31 · nMAE 19.3 % · R² 0.862 · S vs p. simple / horaria / último minuto: +49.1 % / +19.1 % / +9.9 %
+N-BEATS-1h train+val: MAE 12.93 · RMSE 20.59 · sesgo +0.49 · nMAE 16.9 % · R² 0.891 · S vs p. simple / horaria / último minuto: +55.5 % / +29.2 % / +21.2 %
+E1-30 solo train: MAE 15.17 · RMSE 23.74 · sesgo -3.09 · nMAE 19.9 % · R² 0.856 · S vs p. simple / horaria / último minuto: +47.7 % / +16.9 % / +7.5 %
+N-BEATS-1h solo train: MAE 13.04 · RMSE 20.86 · sesgo -0.04 · nMAE 17.1 % · R² 0.889 · S vs p. simple / horaria / último minuto: +55.1 % / +28.6 % / +20.5 %
+persistencia simple: MAE 29.04
+persistencia inteligente horaria: MAE 18.26
+persistencia inteligente último minuto: MAE 16.40
+Secundaria · E1-30 train+val − E1-30 solo train: -0.40 [-0.61; -0.19] → reentrenado mejor
+Secundaria · N-BEATS-1h train+val − N-BEATS-1h solo train: -0.11 [-0.37; +0.13] → no se distinguen
+Secundaria · N-BEATS-1h solo train − E1-30 solo train: -2.14 [-3.10; -1.19] → N-BEATS mejor
+Bandas E1-30 train+val 80%: cobertura D1 83.6 % · ancho 51.6 (fijo 76.3) · Winkler -19.33 [-23.52; -15.04] · peor grupo cielo: nubosidad variable (72.5 %) → NO SE ACEPTA
+Bandas E1-30 train+val 90%: cobertura D1 90.9 % · ancho 71.1 (fijo 115.4) · Winkler -33.20 [-40.34; -25.46] · peor grupo cielo: nubosidad variable (84.3 %) → NO SE ACEPTA
+Bandas N-BEATS-1h train+val 80%: cobertura D1 83.1 % · ancho 46.8 (fijo 73.7) · Winkler -22.47 [-26.72; -18.14] · peor grupo amanecer (73.3 %) → NO SE ACEPTA
+Bandas N-BEATS-1h train+val 90%: cobertura D1 92.9 % · ancho 65.1 (fijo 113.3) · Winkler -39.68 [-46.90; -31.96] · peor grupo amanecer (85.0 %) → SE ACEPTA D1

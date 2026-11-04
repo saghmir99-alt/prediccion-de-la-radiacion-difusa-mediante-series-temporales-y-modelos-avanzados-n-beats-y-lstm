@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "created_at_utc": "2026-10-06T07:48:49.278198+00:00",
+  "project_root": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado",
+  "active_notebook": "/content/drive/MyDrive/Colab Notebooks/Modelado.ipynb",
+  "run_id_format": "YYYYMMDDTHHMMSSZ__arquitectura__variante",
+  "storage_policy": {
+    "historical_files": "Permanecen sin cambios en la raíz del proyecto.",
+    "runs": "Cada ejecución se guarda autocontenida dentro de resultados/ejecuciones/<run_id>.",
+    "promoted_models": "La carpeta modelos se reserva para modelos seleccionados o finales.",
+    "temporary_training": "Los entrenamientos pesados se realizan primero en /content/tfm_runs.",
+    "overwrite_existing_files": false,
+    "test_access_allowed": false
+  },
+  "paths": {
+    "root": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado",
+    "data": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/datos",
+    "models_promoted": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/modelos",
+    "results": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados",
+    "runs": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones",
+    "comparisons": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/comparativas",
+    "exports": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/exportaciones",
+    "documentation": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/documentacion",
+    "inventories": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/documentacion/inventarios",
+    "notebooks": "/content/drive/MyDrive/Colab Notebooks",
+    "notebook_active": "/content/drive/MyDrive/Colab Notebooks/Modelado.ipynb",
+    "temp_runs": "/content/tfm_runs"
+  },
+  "initial_inventory": {
+    "csv": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/documentacion/inventarios/inventario_drive_20261006T074137Z.csv",
+    "csv_sha256": "9a564acda68d52c5bb44f2bd56db156ddc0a5cfc2c63522991ec536a7e7d6c5b",
+    "json": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/documentacion/inventarios/inventario_drive_20261006T074137Z.json",
+    "json_sha256": "cb8f9c5fb1b9b1c24a482fdefc50b1f950f49cee046436caaa3f75c2a5258fb0"
+  }
+}

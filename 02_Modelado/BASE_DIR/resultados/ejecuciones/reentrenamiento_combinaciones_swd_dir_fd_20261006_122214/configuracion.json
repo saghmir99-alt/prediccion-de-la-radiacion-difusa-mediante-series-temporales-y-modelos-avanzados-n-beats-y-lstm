@@ -1,0 +1,22 @@
+{
+  "timestamp": "20261006_122214",
+  "directorio": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_combinaciones_swd_dir_fd_20261006_122214",
+  "epocas_seleccionadas": {
+    "SWD_DIR__N-BEATS": 14,
+    "SWD_DIR__LSTM": 47,
+    "SWD_FD__N-BEATS": 16,
+    "SWD_FD__LSTM": 38,
+    "SWD_DIR_FD__N-BEATS": 18,
+    "SWD_DIR_FD__LSTM": 38
+  },
+  "criterio_seleccion_epocas": "MAE total de validación interna",
+  "batch_size": 128,
+  "learning_rate": 0.001,
+  "weight_decay": 1e-05,
+  "gradient_clip": 1.0,
+  "seed": 42,
+  "device": "cpu",
+  "n_train": 5149,
+  "n_validation": 1464,
+  "test_utilizado": false
+}

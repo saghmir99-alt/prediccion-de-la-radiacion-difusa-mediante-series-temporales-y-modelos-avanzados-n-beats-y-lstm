@@ -1,0 +1,4 @@
+variable,horas_totales,horas_60_min,horas_57_o_mas,horas_menos_57,horas_vacias,min_validos,cobertura_media_pct
+T2,9504,9475,9487,17,1,0,99.93686868686869
+RH,9504,9479,9485,19,1,0,99.93090628507296
+P,9504,9485,9489,15,1,0,99.93318602693603

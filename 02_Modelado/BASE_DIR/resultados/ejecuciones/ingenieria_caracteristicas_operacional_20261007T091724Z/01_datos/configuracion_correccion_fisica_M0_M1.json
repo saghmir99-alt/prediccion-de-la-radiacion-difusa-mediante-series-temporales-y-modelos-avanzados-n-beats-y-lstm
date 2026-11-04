@@ -1,0 +1,20 @@
+{
+  "fase": "2D_A_correccion_fisica_ventanas_objetivo",
+  "regla_hora_nocturna": "fraccion de minutos con elevacion aparente > 0 igual a cero",
+  "orden_ventana": "T-24 hasta T-1",
+  "M0_canales_corregidos": [
+    "DIF_media"
+  ],
+  "M1_canales_corregidos": [
+    "DIF_media",
+    "DIF_std",
+    "DIF_rango"
+  ],
+  "canales_no_modificados": [
+    "elevacion"
+  ],
+  "objetivo_nocturno": 0,
+  "peso_entrenamiento_nocturno": 1,
+  "transiciones_modificadas": false,
+  "imputacion": false
+}

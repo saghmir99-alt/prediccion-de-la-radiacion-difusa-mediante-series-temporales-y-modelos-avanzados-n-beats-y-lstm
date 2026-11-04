@@ -1,0 +1,58 @@
+{
+  "comparison_id": "comparacion_externa_swd_lwd_20261006_130515",
+  "status": "completed",
+  "external_validation_used": true,
+  "test_used": false,
+  "files": [
+    {
+      "ruta_relativa": "comparacion_lwd_frente_swd_por_quintil.csv",
+      "tamano_bytes": 1376,
+      "sha256": "c6be8c995fa22dec71bdf2b464d929cfc0c6b91a072a10d9956315fc99d18512"
+    },
+    {
+      "ruta_relativa": "comparacion_lwd_frente_swd_por_regimen.csv",
+      "tamano_bytes": 2096,
+      "sha256": "fd6d5bdb721f46b1a57a33e6bb8256e5306714c01550f6a64977cfb023a64986"
+    },
+    {
+      "ruta_relativa": "comparacion_pareada_bootstrap_swd_lwd.csv",
+      "tamano_bytes": 2254,
+      "sha256": "a83150e339d0cf2ca577a04c01801552967105d8b171a83c3bbadbd72dc32e13"
+    },
+    {
+      "ruta_relativa": "configuracion_comparacion.json",
+      "tamano_bytes": 1102,
+      "sha256": "15851f96bf6a26c0d49eacd3d278b0e19c5a28988da2fd5b3e79d5ccf2500d45"
+    },
+    {
+      "ruta_relativa": "coste_modelos_lwd.csv",
+      "tamano_bytes": 504,
+      "sha256": "d6a21d38e1cdbc17d88a4a9afa9480f8a36760663d8a47384e43856a1963b4b2"
+    },
+    {
+      "ruta_relativa": "coste_modelos_swd.csv",
+      "tamano_bytes": 918,
+      "sha256": "d63aa8e8a8750eee7a8fbefabdaeeb488dc5323668eefd037105ce82425f6124"
+    },
+    {
+      "ruta_relativa": "direccion_y_sesgo_rampas_swd_lwd.csv",
+      "tamano_bytes": 789,
+      "sha256": "9a8ab647a465d8f792d72b1a0e4f8f297dac50ad08c596d3fdc58ea1223ba4c4"
+    },
+    {
+      "ruta_relativa": "errores_pareados_por_hora_swd_lwd.csv",
+      "tamano_bytes": 291833,
+      "sha256": "ba81f9891691a8a64e4837d10abc9600bb4ed794e6564c0822cd1078f6f2e98f"
+    },
+    {
+      "ruta_relativa": "metricas_swd_lwd_por_quintil.csv",
+      "tamano_bytes": 4373,
+      "sha256": "1da9446462e7165cd41891d295bec357d2a8586bea2ac26ca5bee19d4cf741f1"
+    },
+    {
+      "ruta_relativa": "metricas_swd_lwd_por_regimen.csv",
+      "tamano_bytes": 3295,
+      "sha256": "fe1261f4387c9d4ada74287aaae28b8ec1fa8402900ef39379c9321bf54007d8"
+    }
+  ]
+}

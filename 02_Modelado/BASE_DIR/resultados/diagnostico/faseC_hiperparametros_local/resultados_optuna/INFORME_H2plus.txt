@@ -1,0 +1,5 @@
+H2+ · 5 semillas (solo train, 4 meses fuera), por parejas frente a E1-30
+======================================================================
+  E1-30: MAE 25.34 W/m² (mejor época 30)
+  intento 23: MAE 25.17 · cambio -0.17 W/m² (-0.7 %) [-0.36, +0.03] · central -0.28 [-0.74, +0.21] · amanecer -10.8 % · mejora en 5/5 semillas · época 80 → no pasa
+  intento 27: MAE 25.01 · cambio -0.33 W/m² (-1.3 %) [-0.61, -0.08] · central -0.70 [-1.30, -0.09] · amanecer -6.0 % · mejora en 3/5 semillas · época 80 → PASA A H3

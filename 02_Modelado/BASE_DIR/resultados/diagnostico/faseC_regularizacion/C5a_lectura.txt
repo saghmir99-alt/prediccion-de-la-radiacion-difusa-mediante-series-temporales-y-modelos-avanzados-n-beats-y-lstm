@@ -1,0 +1,2 @@
+mejor_epoca 25 | epoca_plano 20 | mae_mejor 26.583 | mae_105 28.504
+E1 alcanza su mejor error hacia la época 25 y después empeora: con 105 épocas pierde 1.92 W/m². Parar antes (≈20–25 épocas) es la primera regularización a probar en C5b.

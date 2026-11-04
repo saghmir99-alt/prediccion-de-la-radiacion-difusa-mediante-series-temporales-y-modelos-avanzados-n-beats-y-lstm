@@ -1,0 +1,37 @@
+{
+  "run_id": "preparacion_bloque_LWD_imputado_20261006_121045",
+  "status": "completed",
+  "test_used": false,
+  "files": [
+    {
+      "ruta_relativa": "LWD_horaria_tratada.parquet",
+      "tamano_bytes": 134987,
+      "sha256": "b53632f63ceec96b10bc013b06a6cf23944f87d120e9599f67cf87196dd58dbc"
+    },
+    {
+      "ruta_relativa": "calidad_LWD_por_objetivo.parquet",
+      "tamano_bytes": 62515,
+      "sha256": "fabff0f83208dec6233afe7abca5163e5a1eada6c854363dec364e92c5e2ea3d"
+    },
+    {
+      "ruta_relativa": "configuracion.json",
+      "tamano_bytes": 827,
+      "sha256": "7f4cab1faa4d2fe8bd87270479f6704dea32efc6f12da4ce9cb543197206f084"
+    },
+    {
+      "ruta_relativa": "registro_imputacion.csv",
+      "tamano_bytes": 251,
+      "sha256": "98546dbfd616e230ac607b4d893112a745e420ef51e29f18c6fc045814387e55"
+    },
+    {
+      "ruta_relativa": "resumen_calidad_ventanas.csv",
+      "tamano_bytes": 151,
+      "sha256": "15857be433d3c4c9aed9c44f003d4d66c13b9d094e44332c37c606e90f93f144"
+    },
+    {
+      "ruta_relativa": "ventanas_LWD_train_validation.npz",
+      "tamano_bytes": 205904,
+      "sha256": "ab9cfb611eb4282b27d69cdd393898b5976abaf6926b4ddeed1508ad3a806535"
+    }
+  ]
+}

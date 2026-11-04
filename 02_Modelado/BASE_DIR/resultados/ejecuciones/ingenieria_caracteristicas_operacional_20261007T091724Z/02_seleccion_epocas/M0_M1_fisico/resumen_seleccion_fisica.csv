@@ -1,0 +1,5 @@
+modelo,arquitectura,configuracion,mejor_epoca,MAE_interna_operacion,epocas_ejecutadas,tiempo_minutos,n_parametros
+LSTM-M1_DIFstats_fisico,LSTM,M1_DIFstats_fisico,105,32.16556167602539,130,2.9122048988166473,20033
+LSTM-M0_fisico,LSTM,M0_fisico,48,34.043453216552734,73,1.6279616966499817,19521
+NBEATS-M1_DIFstats_fisico,NBEATS,M1_DIFstats_fisico,20,34.596527099609375,45,0.6501022765499935,291990
+NBEATS-M0_fisico,NBEATS,M0_fisico,16,35.1734619140625,41,0.7207082718166627,255126

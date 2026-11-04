@@ -1,0 +1,24 @@
+{
+  "comparison_id": "comparacion_externa_swd_lwd_20261006_130515",
+  "created_at_europe_madrid": "2026-10-06T13:05:34.392066+02:00",
+  "source_swd_run": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_swd_mae_total_20261006_110229",
+  "source_lwd_run": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/resultados/ejecuciones/reentrenamiento_lwd_mae_total_20261006_125836",
+  "models": [
+    "NBEATS_DIF_ELEV_SWD",
+    "NBEATS_DIF_ELEV_LWD",
+    "LSTM_DIF_ELEV_SWD",
+    "LSTM_DIF_ELEV_LWD"
+  ],
+  "comparison_direction": "SWD minus LWD; positive values favor LWD",
+  "operational_definition": "horas completamente diurnas y de transicion",
+  "quintiles_defined_on": "magnitud absoluta del cambio real de DIF en observaciones operacionales",
+  "significant_ramp_threshold_W_m2": 1.0,
+  "bootstrap": {
+    "method": "remuestreo pareado por bloques diarios",
+    "number_days": 61,
+    "repetitions": 10000,
+    "seed": 42
+  },
+  "models_refitted_after_external_validation": false,
+  "test_used": false
+}

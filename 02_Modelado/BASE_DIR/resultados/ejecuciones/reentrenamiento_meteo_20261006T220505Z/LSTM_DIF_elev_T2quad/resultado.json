@@ -1,0 +1,17 @@
+{
+  "configuracion": "DIF_elev_T2quad",
+  "arquitectura": "LSTM",
+  "n_canales": 5,
+  "n_parametros": 20289,
+  "epocas_reentrenamiento": 41,
+  "MAE": 17.600156355057614,
+  "nMAE_pct": 20.46153051130894,
+  "RMSE": 34.12876703437038,
+  "R2": 0.9003571722112924,
+  "bias": -2.49628662864698,
+  "tiempo_entrenamiento_segundos": 54.70101227299983,
+  "segundos_por_epoca": 1.3341710310487764,
+  "inferencia_validation_segundos": 0.08534296400011954,
+  "inferencia_ms_por_muestra": 0.058294374317021544,
+  "tamano_modelo_MB": 0.08151721954345703
+}

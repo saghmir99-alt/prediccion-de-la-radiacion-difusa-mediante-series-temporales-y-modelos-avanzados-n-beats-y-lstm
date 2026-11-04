@@ -1,0 +1,5 @@
+modelo,MAE_nocturno_sin_mascara,MAE_nocturno_final
+NBEATS-M0_fisico,1.3222967386245728,0.0
+LSTM-M0_fisico,0.9118481874465942,0.0
+NBEATS-M1_DIFstats_fisico,0.42624008655548096,0.0
+LSTM-M1_DIFstats_fisico,0.6009238362312317,0.0

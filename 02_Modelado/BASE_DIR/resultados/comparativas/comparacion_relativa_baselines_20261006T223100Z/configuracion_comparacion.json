@@ -1,0 +1,24 @@
+{
+  "fecha_creacion_utc": "20261006T223100Z",
+  "baselines": {
+    "LSTM": "LSTM-DIF+Elevación",
+    "NBEATS": "NBEATS-DIF+Elevación"
+  },
+  "definicion_mejora_relativa": "100 * (MAE_baseline - MAE_modelo) / MAE_baseline",
+  "interpretacion_mejora_relativa": {
+    "positiva": "mejora frente al baseline",
+    "cero": "igual al baseline",
+    "negativa": "empeora frente al baseline"
+  },
+  "definicion_dependencia_nocturna": "porcentaje de la reducción absoluta total del error que procede de las observaciones nocturnas",
+  "umbral_principalmente_nocturna_pct": 50,
+  "porcentaje_observaciones_noche": 39.61748633879781,
+  "n_ambitos": {
+    "global": 1464,
+    "operacion": 884,
+    "completamente_diurno": 765,
+    "transicion": 119,
+    "noche": 580
+  },
+  "test_utilizado": false
+}

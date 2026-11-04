@@ -1,0 +1,76 @@
+{
+  "run_name": "reentrenamiento_nbeats_lstm_dir_mae_total_20261006_115330",
+  "n_archivos": 14,
+  "archivos": [
+    {
+      "ruta_relativa": "configuracion.json",
+      "tamano_bytes": 1669,
+      "sha256": "277a44b438d1a01eac61df7620b39a1c872a74c5389587394f10398e7a1dd917"
+    },
+    {
+      "ruta_relativa": "figuras/comparacion_nbeats_lstm_validation.png",
+      "tamano_bytes": 65384,
+      "sha256": "b019775cba607f800799526c921a02aae36555474744114a0aaa70b266263567"
+    },
+    {
+      "ruta_relativa": "figuras/curvas_entrenamiento.png",
+      "tamano_bytes": 63443,
+      "sha256": "e85763604324dd990cf9d8e521c7bfac28c778f1844d2c3ca60252dbed208b26"
+    },
+    {
+      "ruta_relativa": "metricas/comparacion_mae_bloques.csv",
+      "tamano_bytes": 249,
+      "sha256": "fe573b8eeeca8cc046b4dd060e69d9cb08c4803ccb67e5c6f238669ee0436a44"
+    },
+    {
+      "ruta_relativa": "metricas/historial_entrenamiento.csv",
+      "tamano_bytes": 1697,
+      "sha256": "6f12e66b0c2bb26ae68bf7cf31387ff8d6ea801521738231a0d77e4798e5fe62"
+    },
+    {
+      "ruta_relativa": "metricas/metricas_validation.csv",
+      "tamano_bytes": 252,
+      "sha256": "d6bcf3afce74fce4cd532d618216dc8a2f3223424a817c0f6b84cded815d4ad6"
+    },
+    {
+      "ruta_relativa": "modelos/arquitectura_lstm.txt",
+      "tamano_bytes": 211,
+      "sha256": "aeb057e156dd6979d790ccf16e71404a846cd23bdb2940a6b9d7f60510f397de"
+    },
+    {
+      "ruta_relativa": "modelos/arquitectura_nbeats.txt",
+      "tamano_bytes": 527,
+      "sha256": "6a3425d3eeb9cd3c4a3d088f6c7343f72c41911daced8cee85857379cf088659"
+    },
+    {
+      "ruta_relativa": "modelos/lstm_DIF_elev_DIR.pt",
+      "tamano_bytes": 85145,
+      "sha256": "f714b518725b969415a6b5baf49a3a30c853ad6cebe0049195e2fa88e7c926ba"
+    },
+    {
+      "ruta_relativa": "modelos/nbeats_DIF_elev_DIR.pt",
+      "tamano_bytes": 1264135,
+      "sha256": "a68e25fdff54c64f70815729ccdd2e3554b09412c5e690cfd42ba028d1499bac"
+    },
+    {
+      "ruta_relativa": "predicciones/predicciones_validation.csv",
+      "tamano_bytes": 106705,
+      "sha256": "89ca42114385668cd8bb2ed57c54ab8996b098ed6fdf19609120a41baeb2255f"
+    },
+    {
+      "ruta_relativa": "predicciones/predicciones_validation.npz",
+      "tamano_bytes": 15025,
+      "sha256": "57c0dcdca5d4d5329f730d5e545499ab0db1818c91196521f6c2a63e0b712599"
+    },
+    {
+      "ruta_relativa": "scalers/scaler_X_DIF_elev_DIR.joblib",
+      "tamano_bytes": 719,
+      "sha256": "6d18e874f868d79f57f5b55b979e3a1604e1cc0c7bb729eb758ae7fecbfc6710"
+    },
+    {
+      "ruta_relativa": "scalers/scaler_y_DIF.joblib",
+      "tamano_bytes": 623,
+      "sha256": "74bda3dba7b9abc9a868e3655a0919812d59495471b1a2e2bd40a6de949e7753"
+    }
+  ]
+}

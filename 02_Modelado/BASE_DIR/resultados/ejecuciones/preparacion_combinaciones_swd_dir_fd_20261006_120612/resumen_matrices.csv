@@ -1,0 +1,7 @@
+matriz,n_muestras,ventana,n_canales,n_nan,n_inf
+SWD_DIR_train,5149,24,8,0,0
+SWD_DIR_validation,1464,24,8,0,0
+SWD_FD_train,5149,24,6,0,0
+SWD_FD_validation,1464,24,6,0,0
+SWD_DIR_FD_train,5149,24,9,0,0
+SWD_DIR_FD_validation,1464,24,9,0,0

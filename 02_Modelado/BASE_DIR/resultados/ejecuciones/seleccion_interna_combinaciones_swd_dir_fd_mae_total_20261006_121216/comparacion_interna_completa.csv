@@ -1,0 +1,13 @@
+bloque,modelo,epoca_seleccionada,mae_internal_total,mae_internal_operativa,tipo,ranking_modelo
+DIR,LSTM,53,23.2183228,32.6534729,referencia previa,1
+SWD_DIR,LSTM,47,23.35353660583496,,combinación nueva,2
+SWD_FD,LSTM,38,23.40610694885254,,combinación nueva,3
+SWD_DIR_FD,LSTM,38,23.418901443481445,,combinación nueva,4
+SWD,LSTM,59,23.5116596,,referencia previa,5
+LWD,LSTM,43,23.8236,33.5881,referencia previa,6
+SWD_FD,N-BEATS,16,25.624717712402344,,combinación nueva,1
+LWD,N-BEATS,6,26.0207,36.2583,referencia previa,2
+SWD,N-BEATS,18,26.1508598,,referencia previa,3
+DIR,N-BEATS,7,26.4311008,36.9331779,referencia previa,4
+SWD_DIR_FD,N-BEATS,18,27.050928115844727,,combinación nueva,5
+SWD_DIR,N-BEATS,14,27.484018325805664,,combinación nueva,6

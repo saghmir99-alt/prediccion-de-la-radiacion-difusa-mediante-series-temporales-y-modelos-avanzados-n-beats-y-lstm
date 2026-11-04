@@ -1,0 +1,17 @@
+{
+  "configuracion": "DIF_elev_Pmedia",
+  "arquitectura": "LSTM",
+  "n_canales": 3,
+  "n_parametros": 19777,
+  "epocas_reentrenamiento": 54,
+  "MAE": 16.62698672921651,
+  "nMAE_pct": 19.330146244594474,
+  "RMSE": 32.91795039882059,
+  "R2": 0.9073019882361585,
+  "bias": -2.3244055313849565,
+  "tiempo_entrenamiento_segundos": 51.248444277999624,
+  "segundos_por_epoca": 0.9490452644074004,
+  "inferencia_validation_segundos": 0.08487436550012717,
+  "inferencia_ms_por_muestra": 0.0579742933744038,
+  "tamano_modelo_MB": 0.07950305938720703
+}

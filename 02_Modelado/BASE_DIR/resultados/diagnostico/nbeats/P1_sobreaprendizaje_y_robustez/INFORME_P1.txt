@@ -1,0 +1,6 @@
+N-BEATS · P1 sobreaprendizaje y robustez (7 meses fuera, purga 24 h, semillas [42, 123, 2024, 7, 99], hasta 60 épocas)
+DIFstats: época 15, MAE fuera de muestra 29.19 W/m²
+E1: época 5, MAE fuera de muestra 29.01 W/m²
+E1 − DIFstats: operación -0.17 [-0.96, +0.56] · central -1.70 [-3.86, +0.34] · amanecer +47.6 %
+VEREDICTO: se adopta N-BEATS-DIFstats (época 15) como N-BEATS candidata. E1 no cumple las dos condiciones fijadas.
+Referencia orientativa: E1-30 (LSTM, 2 semillas) fuera de muestra = 26.50 W/m² · N-BEATS-DIFstats (5 semillas, época 15) = 29.19 W/m²

@@ -1,0 +1,31 @@
+{
+  "fecha_creacion_utc": "20261006T215223Z",
+  "seed": 42,
+  "dispositivo": "cpu",
+  "n_subtrain": 4428,
+  "n_validacion_interna": 721,
+  "batch_size": 128,
+  "learning_rate": 0.001,
+  "weight_decay": 1e-05,
+  "gradient_clip": 1.0,
+  "max_epochs": 300,
+  "patience": 25,
+  "min_delta": 1e-05,
+  "criterio_entrenamiento": "L1Loss",
+  "criterio_seleccion": "MAE de validación interna en unidades originales",
+  "arquitectura_nbeats": {
+    "n_stacks": 2,
+    "blocks_per_stack": 3,
+    "hidden": 128,
+    "dense_layers_per_block": 3,
+    "residual": "solo canal DIF",
+    "covariables": "fijas"
+  },
+  "arquitectura_lstm": {
+    "num_layers": 1,
+    "hidden_size": 64,
+    "head": "64 -> 32 -> 1"
+  },
+  "validation_externa_utilizada": false,
+  "test_utilizado": false
+}

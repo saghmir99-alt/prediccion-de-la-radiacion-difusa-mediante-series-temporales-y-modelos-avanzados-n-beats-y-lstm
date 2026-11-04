@@ -1,0 +1,1 @@
+N-BEATS-DIFstats (época 15) en validación: MAE 28.05 W/m² frente a 23.25 de la LSTM E1-30 (diferencia +4.79, IC95 [+3.52, +6.05], DM p = 0.0000) → la LSTM E1-30 es mejor.

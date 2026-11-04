@@ -1,0 +1,12 @@
+INFORME H1 + H2 · Optimización de hiperparámetros de la N-BEATS-1h
+======================================================================
+H1: 32 intentos completos y 0 podados. Datos: solo train, 4 meses fuera, semilla 42, épocas 1–40 medidas en cada época.
+Mejor intento de H1: n.º 31 con MAE 23.70 W/m² (referencia en H1: 24.41).
+
+H2 (semillas 42 y 123, por parejas frente a la referencia):
+  intento 31: cambio -0.54 W/m² [-0.92, -0.18] · central -1.13 · amanecer -5.0 % → GANA  · época 36 · {"lr": 0.00010784441324491315, "batch": 256, "hidden": 256, "n_bloques": 2, "wd": 1.7731590067744103e-05, "dropout": 0.0}
+  intento 19: cambio -0.63 W/m² [-0.97, -0.28] · central -0.89 · amanecer -7.5 % → GANA  · época 23 · {"lr": 0.00018320637359866263, "batch": 256, "hidden": 256, "n_bloques": 3, "wd": 1.1294733377267313e-06, "dropout": 0.0}
+  intento 25: cambio -0.49 W/m² [-0.95, -0.04] · central -0.49 · amanecer -7.2 % → no gana  · época 36 · {"lr": 0.00016380600816573237, "batch": 256, "hidden": 256, "n_bloques": 3, "wd": 2.2159509830595553e-05, "dropout": 0.2}
+  referencia: MAE 24.19 W/m², mejor época 6
+
+VEREDICTO: GANA intento 19 ({"lr": 0.00018320637359866263, "batch": 256, "hidden": 256, "n_bloques": 3, "wd": 1.1294733377267313e-06, "dropout": 0.0}), mejor época 23. Siguiente: H3 (confirmación en validación con 5 semillas, una sola vez).

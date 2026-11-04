@@ -1,0 +1,1 @@
+NINGUNA PASA: añadir el cielo de las horas anteriores no mejora E1-30 lo suficiente. E1-30 se mantiene; la señal de R2 queda documentada.

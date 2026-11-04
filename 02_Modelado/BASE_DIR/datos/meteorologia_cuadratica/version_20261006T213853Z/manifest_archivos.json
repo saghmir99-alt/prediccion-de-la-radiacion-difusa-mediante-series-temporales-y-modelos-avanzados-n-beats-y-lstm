@@ -1,0 +1,36 @@
+{
+  "fecha_creacion_utc": "20261006T213853Z",
+  "directorio_version": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/datos/meteorologia_cuadratica/version_20261006T213853Z",
+  "archivos": [
+    {
+      "nombre": "meteo_cuadratico_horario_completo.parquet",
+      "ruta": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/datos/meteorologia_cuadratica/version_20261006T213853Z/meteo_cuadratico_horario_completo.parquet",
+      "tamano_bytes": 1419533,
+      "sha256": "e69c84daac15a2102de6fc1eeb3f856c29cbdf303cc471df07db4f75761429b9"
+    },
+    {
+      "nombre": "variables_modelo_meteo.parquet",
+      "ruta": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/datos/meteorologia_cuadratica/version_20261006T213853Z/variables_modelo_meteo.parquet",
+      "tamano_bytes": 756171,
+      "sha256": "17bdbb4e721a0493a149ddde344b0416a981607f96a3ad8a98cf2c51f9df6e15"
+    },
+    {
+      "nombre": "resumen_cobertura.csv",
+      "ruta": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/datos/meteorologia_cuadratica/version_20261006T213853Z/resumen_cobertura.csv",
+      "tamano_bytes": 239,
+      "sha256": "e041126c7eb50b75cf487e5b0137e76b285ed180fd865d0ac1a02d38974ddb74"
+    },
+    {
+      "nombre": "horas_cobertura_inferior_57.csv",
+      "ruta": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/datos/meteorologia_cuadratica/version_20261006T213853Z/horas_cobertura_inferior_57.csv",
+      "tamano_bytes": 1577,
+      "sha256": "2bfe6467f4a2d9a409509904b88c74d8f964634a2a6e0574088ccd370909e5f2"
+    },
+    {
+      "nombre": "configuracion_variables_meteo.json",
+      "ruta": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/datos/meteorologia_cuadratica/version_20261006T213853Z/configuracion_variables_meteo.json",
+      "tamano_bytes": 2154,
+      "sha256": "93bfabf4868c088f3dfecfb3ad0c8fbf6f9beabecc0f17f13ecbb94f91698646"
+    }
+  ]
+}

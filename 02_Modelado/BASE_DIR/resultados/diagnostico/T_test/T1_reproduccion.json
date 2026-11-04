@@ -1,0 +1,40 @@
+{
+ "DIF media (canal 0)": {
+  "≥30 min": 1.0,
+  "≥1 min": 1.0,
+  "elegida": "≥30 min"
+ },
+ "objetivo y": {
+  "≥30 min": 1.0,
+  "≥1 min": 1.0,
+  "elegida": "≥30 min"
+ },
+ "elevación (canal 1)": {
+  "aparente": 1.0,
+  "geométrica": 0.7599866424718987,
+  "centro de la hora": 0.21055118705579917,
+  "elegida": "aparente"
+ },
+ "DIF_std (canal 2)": {
+  "media horaria": 1.0,
+  "elegida": "media horaria"
+ },
+ "DIF_rango (canal 3)": {
+  "máx − mín": 1.0,
+  "elegida": "máx − mín"
+ },
+ "intra DIF_ult15": 1.0,
+ "intra DIF_pend30": 1.0,
+ "intra DIF_acel60": 1.0,
+ "intra DIF_saltos": 1.0,
+ "intra SWD_cv": 1.0,
+ "tabla regimen": 0.999848782700741,
+ "tabla banda": 1.0,
+ "tabla cielo": 0.9968244367155603,
+ "tabla kt": 1.0,
+ "tabla kt_variabilidad": 0.9442313366774859,
+ "tabla persistencia": 1.0,
+ "1h secuencia": 1.0,
+ "1h escalares": 1.0,
+ "1h contexto": 1.0
+}

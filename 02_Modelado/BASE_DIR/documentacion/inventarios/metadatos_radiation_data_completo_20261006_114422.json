@@ -1,0 +1,12 @@
+{
+  "created_at_europe_madrid": "2026-10-06T11:44:22.785921+02:00",
+  "source_file": "/content/drive/MyDrive/TFM Aghmir/TFM/02. Modelado Multivariante/03. Modelado/radiation_data_completo.parquet",
+  "file_size_bytes": 13565324,
+  "number_of_rows_metadata_only": 570240,
+  "number_of_columns": 31,
+  "number_of_row_groups": 1,
+  "rows_loaded": 0,
+  "test_used": false,
+  "blocks_created": false,
+  "note": "La clasificación por nombre es preliminar. La composición de cada bloque debe ser confirmada por el usuario antes de construir variables."
+}

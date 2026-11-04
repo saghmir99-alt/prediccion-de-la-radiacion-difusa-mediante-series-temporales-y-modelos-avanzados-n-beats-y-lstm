@@ -1,0 +1,25 @@
+{
+  "semillas": [
+    42,
+    123,
+    2024,
+    7,
+    99
+  ],
+  "epocas_max": 60,
+  "cada": 5,
+  "lr": 0.001,
+  "wd": 1e-05,
+  "batch": 128,
+  "hidden": 128,
+  "bloques": 6,
+  "parametros": {
+    "DIFstats": 291990,
+    "E1": 384150
+  },
+  "epocas_elegidas": {
+    "DIFstats": 15,
+    "E1": 5
+  },
+  "ganador": "DIFstats"
+}

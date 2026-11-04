@@ -1,0 +1,2 @@
+CONFIRMADA: la N-BEATS-1h mejora a la N-BEATS-DIFstats en validación (-4.80 W/m², IC95 [-6.41; -3.09]) sin empeorar la banda central. Pasa a ser la N-BEATS final (MAE 23.24).
+Banda central: -11.13, IC95 [-17.31; -4.95] · DM p (operación) = 0.0000

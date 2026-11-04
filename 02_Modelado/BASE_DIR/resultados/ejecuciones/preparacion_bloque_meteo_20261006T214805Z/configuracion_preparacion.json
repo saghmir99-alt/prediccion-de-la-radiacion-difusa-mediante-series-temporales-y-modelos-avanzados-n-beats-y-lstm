@@ -1,0 +1,57 @@
+{
+  "fecha_creacion_utc": "20261006T214805Z",
+  "ventana_horas": 24,
+  "alineacion": {
+    "offset_DIF_lag1_horas": -1,
+    "secuencia": "T-24h hasta T-1h",
+    "referencia_meteorologica": "hora_inicio",
+    "coincidencia_DIF_lag1_pct": 100.0
+  },
+  "particiones": {
+    "train": {
+      "inicio": "2023-12-30 00:00:00+00:00",
+      "fin": "2024-07-31 23:00:00+00:00",
+      "n": 5149
+    },
+    "validation": {
+      "inicio": "2024-08-01 00:00:00+00:00",
+      "fin": "2024-09-30 23:00:00+00:00",
+      "n": 1464
+    },
+    "test": {
+      "inicio": "2024-10-01 00:00:00+00:00",
+      "fin": "2024-11-30 23:00:00+00:00",
+      "estado": "cerrado"
+    }
+  },
+  "configuraciones": {
+    "DIF_elev_T2quad": [
+      "DIF",
+      "elevacion",
+      "T2_media",
+      "T2_pendiente",
+      "T2_curvatura"
+    ],
+    "DIF_elev_RHquad": [
+      "DIF",
+      "elevacion",
+      "RH_media",
+      "RH_pendiente",
+      "RH_curvatura"
+    ],
+    "DIF_elev_Pmedia": [
+      "DIF",
+      "elevacion",
+      "P_media"
+    ],
+    "DIF_elev_Pquad": [
+      "DIF",
+      "elevacion",
+      "P_media",
+      "P_pendiente",
+      "P_curvatura"
+    ]
+  },
+  "normalizacion_aplicada": false,
+  "entrenamiento_realizado": false
+}

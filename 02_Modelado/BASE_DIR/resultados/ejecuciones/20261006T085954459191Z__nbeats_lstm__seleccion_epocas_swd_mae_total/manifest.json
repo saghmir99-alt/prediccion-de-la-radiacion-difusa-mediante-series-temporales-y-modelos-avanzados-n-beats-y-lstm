@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "generated_at_utc": "2026-10-06T09:01:36.572717+00:00",
+  "run_id": "20261006T085954459191Z__nbeats_lstm__seleccion_epocas_swd_mae_total",
+  "file_count": 8,
+  "total_size_bytes": 10838,
+  "files": [
+    {
+      "relative_path": "configuracion/configuracion.json",
+      "size_bytes": 427,
+      "sha256": "0f39066891cd1b8b90dff006c992bbb055f0b3d706cf3079deb04a49d4c02837"
+    },
+    {
+      "relative_path": "configuracion/epocas_seleccionadas.json",
+      "size_bytes": 58,
+      "sha256": "38efd626e12074475ea957ae272350f1171ec14d78cc0561e58870f357e0c14a"
+    },
+    {
+      "relative_path": "configuracion/metadata_ejecucion.json",
+      "size_bytes": 983,
+      "sha256": "fdc537d589f77f5f48fc5edd6586a65a306f58b2f395d01a5499c181304f754d"
+    },
+    {
+      "relative_path": "configuracion/semillas.json",
+      "size_bytes": 68,
+      "sha256": "857089280a06c9e2a8def98f3e9a9e0b07db8adaf0a5d31c24db94cb6c13ca98"
+    },
+    {
+      "relative_path": "finalizacion.json",
+      "size_bytes": 440,
+      "sha256": "7396d1616f720215fb426c2f86ea8306cc5346d4871a53bb99545ee8123a0177"
+    },
+    {
+      "relative_path": "logs/historial_LSTM_DIF_ELEV_SWD.csv",
+      "size_bytes": 5580,
+      "sha256": "f28bfddd87c0f272cc515d92356072c545ad82d56697626fff1f6defd1daf854"
+    },
+    {
+      "relative_path": "logs/historial_NBEATS_DIF_ELEV_SWD.csv",
+      "size_bytes": 2897,
+      "sha256": "ff415da32791394ad06e8f1e378c4559cb2ba7831db735a05104055594969cf4"
+    },
+    {
+      "relative_path": "metricas/resumen_seleccion_SWD_MAE_total.csv",
+      "size_bytes": 385,
+      "sha256": "637826218451d39b304610b6550fe8a8c3af08f151ed4e99987bd69ce93cc661"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+R2 · ¿El cielo de las horas anteriores aporta información que E1-30 no usa?
+================================================================================
+A) Sesgo claro y repetido por cielo de T−1: cubierto (-5.1 train / -13.6 val.)
+B) Corrección con el cielo de T−1…T−4: train +1.29 [+0.98, +1.61] · validación +0.91 [+0.31, +1.49] → no cumple
+VEREDICTO: HAY SEÑAL → pasar al paso 2 (añadir el cielo como canales de E1-30)

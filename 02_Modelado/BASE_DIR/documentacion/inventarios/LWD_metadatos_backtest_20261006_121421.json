@@ -1,0 +1,10 @@
+{
+  "created_at_europe_madrid": "2026-10-06T12:14:21.279914+02:00",
+  "empty_hour": "2024-03-15T10:00:00+00:00",
+  "internal_validation_start": "2024-07-01T23:00:00+00:00",
+  "selection_data": "subtrain",
+  "methods_are_causal": true,
+  "future_hour_used_for_imputation": false,
+  "imputation_modified": false,
+  "test_used": false
+}

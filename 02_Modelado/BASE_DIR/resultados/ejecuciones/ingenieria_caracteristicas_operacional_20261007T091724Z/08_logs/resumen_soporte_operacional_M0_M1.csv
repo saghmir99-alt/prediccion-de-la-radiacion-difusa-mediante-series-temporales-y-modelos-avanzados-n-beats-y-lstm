@@ -1,0 +1,3 @@
+split,n_total,n_operacion,n_noche,porcentaje_operacion
+train,5149,3027,2122,58.788116
+validation,1464,884,580,60.382515

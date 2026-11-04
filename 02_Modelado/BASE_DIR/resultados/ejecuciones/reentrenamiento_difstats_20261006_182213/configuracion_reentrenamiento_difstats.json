@@ -1,0 +1,23 @@
+{
+  "bloque": "DIF_Elev_DIFstats",
+  "canales": [
+    "DIF_media",
+    "elevacion",
+    "DIF_std",
+    "DIF_rango"
+  ],
+  "lookback": 24,
+  "n_train": 5149,
+  "n_validation": 1464,
+  "epocas_nbeats": 18,
+  "epocas_lstm": 105,
+  "batch_size": 128,
+  "learning_rate": 0.001,
+  "weight_decay": 1e-05,
+  "loss": "L1Loss",
+  "gradient_clipping": 1.0,
+  "seed": 42,
+  "device": "cpu",
+  "scaler_fit": "train completo",
+  "validation_usada_para_seleccion": false
+}

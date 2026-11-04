@@ -1,0 +1,6 @@
+modelo,mejor_epoca,parametros_entrenables,tiempo_seleccion_s,tiempo_reajuste_s,tiempo_inferencia_mediana_s,tamaño_checkpoint_MB,observacion
+HGB-9V,,,,,,0.282012939453125,Tiempos no registrados; requiere reentrenamiento instrumentado.
+N-BEATS-U24 DIF,8.0,236694.0,,,,0.9222517013549805,Tiempos no registrados retrospectivamente.
+LSTM-U24 DIF,118.0,19265.0,,,,0.07745075225830078,Tiempos no registrados retrospectivamente.
+N-BEATS-U24 DIF+Elev,15.0,255126.0,40.80443079099996,19.02752089500018,0.039214449500150295,0.995387077331543,Medición completa.
+LSTM-U24 DIF+Elev,35.0,19521.0,48.15322541800015,43.194843867000145,0.08547196550011904,0.07870960235595703,Medición completa.

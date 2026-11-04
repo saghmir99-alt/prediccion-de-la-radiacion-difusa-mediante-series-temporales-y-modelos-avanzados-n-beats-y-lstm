@@ -1,0 +1,3 @@
+modelo,dispositivo,hilos_torch,n_muestras_validation,repeticiones,tiempo_total_mediano_s,tiempo_total_media_s,tiempo_total_std_s,ms_por_muestra_mediana
+NBEATS_DIF_Elev_DIFstats,cpu,1,1464,30,0.09829406999961066,0.13833072983349362,0.09078273757816659,0.06714075819645536
+LSTM_DIF_Elev_DIFstats,cpu,1,1464,30,0.14496211449932161,0.15835684093320498,0.03469581923790897,0.09901783777276067

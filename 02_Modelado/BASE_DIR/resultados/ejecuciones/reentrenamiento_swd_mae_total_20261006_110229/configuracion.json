@@ -1,0 +1,49 @@
+{
+  "run_id": "reentrenamiento_swd_mae_total_20261006_110229",
+  "created_at_europe_madrid": "2026-10-06T11:02:29.099587+02:00",
+  "purpose": "Reentrenamiento final de variantes DIF+elevacion+SWD tras seleccionar epocas mediante MAE total interno.",
+  "selection_criterion": "MAE total de validacion interna",
+  "retraining_partition": "train completo",
+  "external_evaluation_partition": "validation",
+  "test_used": false,
+  "seed": 42,
+  "device": "cpu",
+  "batch_size": 128,
+  "optimizer": "Adam",
+  "learning_rate": 0.001,
+  "weight_decay": 1e-05,
+  "loss": "L1Loss",
+  "gradient_clip": 1.0,
+  "selected_epochs": {
+    "NBEATS_DIF_ELEV_SWD": 18,
+    "LSTM_DIF_ELEV_SWD": 59
+  },
+  "train_shape": [
+    5149,
+    24,
+    5
+  ],
+  "validation_shape": [
+    1464,
+    24,
+    5
+  ],
+  "architectures": {
+    "NBEATS_DIF_ELEV_SWD": {
+      "class": "NBEATSSWD",
+      "number_channels": 5,
+      "window_length": 24,
+      "horizon": 1,
+      "number_stacks": 2,
+      "blocks_per_stack": 3,
+      "dense_layers": 3,
+      "hidden_units": 128
+    },
+    "LSTM_DIF_ELEV_SWD": {
+      "class": "LSTMSWD",
+      "number_channels": 5,
+      "hidden_size": 64,
+      "number_layers": 1
+    }
+  }
+}

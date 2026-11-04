@@ -1,0 +1,6 @@
+H2e · intento 27 hasta 150 épocas (5 semillas, train, 4 meses fuera)
+======================================================================
+Mejor época: 95 → MAE 25.00 W/m² (en la época 80: 25.04)
+E1-30 en su mejor época (30): MAE 25.33 W/m²
+Cambio frente a E1-30 en la mejor época: -0.34 W/m² [-0.66, -0.02]
+ÉPOCAS PARA H3 (regla fijada): 95

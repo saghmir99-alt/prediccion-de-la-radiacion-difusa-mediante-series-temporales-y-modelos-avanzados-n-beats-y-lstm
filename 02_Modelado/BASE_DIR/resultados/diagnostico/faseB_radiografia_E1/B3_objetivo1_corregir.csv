@@ -1,0 +1,4 @@
+versión,MAE train sin corregir,MAE train corregido,MAE validación sin corregir,MAE validación corregido,cambio en validación (W/m²),IC95 del cambio,¿mejora real?
+corrección constante,32.04719199995566,32.046899170667714,28.573762770260082,28.57115441490622,-0.002608355353860503,"[-0.02, +0.01]",no se distingue del azar
+corrección con I1,32.04719199995566,34.50016272801239,28.573762770260082,29.05417902899112,0.48041625873103655,"[-0.10, +1.11]",no se distingue del azar
+corrección con I2,32.04719199995566,33.65656826008766,28.573762770260082,28.807305825072167,0.2335430548120847,"[-0.36, +0.80]",no se distingue del azar

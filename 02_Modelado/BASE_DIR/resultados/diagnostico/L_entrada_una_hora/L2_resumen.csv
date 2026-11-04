@@ -1,0 +1,5 @@
+configuración,mejor época,MAE operación,veredicto,cambio operación,"IC97,5 operación",cambio central,"IC97,5 central","1 mejora ≥0,5 e IC<0",2 central sin empeorar
+E1-30 (R0 de C5b),30.0,25.38599344783358,referencia,,,,,,
+persistencia inteligente,,29.243473052978516,suelo,,,,,,
+LSTM-1h A · hora previa + escalares,40.0,23.72107363820324,PASA A VALIDACIÓN,-1.6649198096303435,"[-2.70, -0.68]",-2.8630935642081248,"[-5.75, -0.01]",True,True
+LSTM-1h B · A + contexto T−2…T−4,35.0,23.720928470297956,PASA A VALIDACIÓN,-1.6650649775356272,"[-2.60, -0.75]",-3.3522483754046086,"[-6.39, -0.43]",True,True

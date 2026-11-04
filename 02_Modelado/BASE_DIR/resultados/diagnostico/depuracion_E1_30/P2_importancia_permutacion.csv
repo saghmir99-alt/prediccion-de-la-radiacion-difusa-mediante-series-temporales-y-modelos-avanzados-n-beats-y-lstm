@@ -1,0 +1,11 @@
+tipo,grupo,subida del MAE [W/m²],IC95,subida (%),lectura
+canal,DIF horaria (DIF_media),16.611463585931602,"[+15.23, +18.03]",62.68287032205763,lo usa
+canal,Geometría (elevación),22.962011560494194,"[+21.72, +24.28]",86.64647672580897,lo usa
+canal,"Dispersión horaria (DIF_std, DIF_rango)",2.62516708240025,"[+2.12, +3.15]",9.905990941050534,lo usa
+canal,Nivel final de la hora (DIF_ult15),39.303668676889984,"[+36.83, +41.87]",148.31124025345454,lo usa
+canal,"Dinámica intrahoraria (pend30, acel60, saltos)",3.1267634141194476,"[+2.61, +3.63]",11.798749977755906,lo usa
+canal,Variabilidad SWD (SWD_cv),1.219280144703684,"[+0.99, +1.43]",4.600917842148975,lo usa
+canal,· control: DIF_media + DIF_ult15 juntos,68.68845962339923,"[+65.01, +72.46]",259.19388649425616,control (no se retira)
+bloque de horas,horas T−1…T−3,101.71298811517958,"[+97.30, +106.14]",383.8109755417576,lo usa
+bloque de horas,horas T−4…T−12,14.340453869380294,"[+13.49, +15.18]",54.11328180709506,lo usa
+bloque de horas,horas T−13…T−24,0.2491313316353685,"[+0.14, +0.36]",0.9400897683264282,"CANDIDATO a retirar (< 0,3)"

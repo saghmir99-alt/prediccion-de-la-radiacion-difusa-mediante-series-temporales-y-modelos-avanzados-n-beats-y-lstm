@@ -1,0 +1,16 @@
+{
+  "canales": [
+    "DIF",
+    "elevacion",
+    "SWU_media",
+    "SWU_rango",
+    "SWU_std"
+  ],
+  "definiciones": {
+    "SWU_media": "Media horaria de SWU",
+    "SWU_rango": "Máximo horario de SWU max menos mínimo horario de SWU min",
+    "SWU_std": "Media horaria de SWU std dev"
+  },
+  "imputacion_realizada": false,
+  "test_utilizado": false
+}

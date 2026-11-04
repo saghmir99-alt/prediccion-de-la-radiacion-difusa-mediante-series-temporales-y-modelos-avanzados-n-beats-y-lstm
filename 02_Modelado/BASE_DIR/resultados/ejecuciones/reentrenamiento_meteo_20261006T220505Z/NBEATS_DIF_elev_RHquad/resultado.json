@@ -1,0 +1,17 @@
+{
+  "configuracion": "DIF_elev_RHquad",
+  "arquitectura": "NBEATS",
+  "n_canales": 5,
+  "n_parametros": 310422,
+  "epocas_reentrenamiento": 8,
+  "MAE": 20.42982765998503,
+  "nMAE_pct": 23.751240248808493,
+  "RMSE": 36.43966984219265,
+  "R2": 0.8864064392972969,
+  "bias": -3.861525326449414,
+  "tiempo_entrenamiento_segundos": 4.704688422000345,
+  "segundos_por_epoca": 0.5880860527500431,
+  "inferencia_validation_segundos": 0.018904448000057528,
+  "inferencia_ms_por_muestra": 0.012912874316979185,
+  "tamano_modelo_MB": 1.2017316818237305
+}

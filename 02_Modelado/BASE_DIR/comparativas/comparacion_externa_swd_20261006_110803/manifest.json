@@ -1,0 +1,47 @@
+{
+  "comparison_id": "comparacion_externa_swd_20261006_110803",
+  "status": "completed",
+  "test_used": false,
+  "files": [
+    {
+      "ruta_relativa": "cambio_swd_frente_base_por_quintil.csv",
+      "tamano_bytes": 1323,
+      "sha256": "ad909a86c738d37ca6ba69b3d567f437fb391321267a029d280f221d108560fb"
+    },
+    {
+      "ruta_relativa": "cambio_swd_frente_base_por_regimen.csv",
+      "tamano_bytes": 2047,
+      "sha256": "694dd06d25a1362326064aff815ff179ecb786659b9b1924c4bf424d50b61888"
+    },
+    {
+      "ruta_relativa": "configuracion_comparacion.json",
+      "tamano_bytes": 817,
+      "sha256": "36ebd94ba46a1359042fef3a06fbce09b98e0874a9f2f87757b6a1cc9d4eaf7a"
+    },
+    {
+      "ruta_relativa": "coste_modelos_base_recuperado.csv",
+      "tamano_bytes": 1268,
+      "sha256": "a0686cd6859772f9f159d6e759adeb93942ef2f5401f85f5e6a0f3d5135361f4"
+    },
+    {
+      "ruta_relativa": "coste_modelos_swd.csv",
+      "tamano_bytes": 918,
+      "sha256": "d63aa8e8a8750eee7a8fbefabdaeeb488dc5323668eefd037105ce82425f6124"
+    },
+    {
+      "ruta_relativa": "direccion_y_sesgo_rampas.csv",
+      "tamano_bytes": 781,
+      "sha256": "b7cdad41b9c9110ce4dac18d9c8cd92b1b815e33227224d5f7393cdc2c680ef3"
+    },
+    {
+      "ruta_relativa": "metricas_por_quintil_delta_DIF.csv",
+      "tamano_bytes": 4345,
+      "sha256": "57aacb7c7ad52ab230d186739473d74d6db0f624fc3e1fcf8f9eb706df26358d"
+    },
+    {
+      "ruta_relativa": "metricas_por_regimen.csv",
+      "tamano_bytes": 3670,
+      "sha256": "972cfdf36e98459f261c743e5b46cd5f12d7c1cad3c5200c1b4c452cf13b2f16"
+    }
+  ]
+}

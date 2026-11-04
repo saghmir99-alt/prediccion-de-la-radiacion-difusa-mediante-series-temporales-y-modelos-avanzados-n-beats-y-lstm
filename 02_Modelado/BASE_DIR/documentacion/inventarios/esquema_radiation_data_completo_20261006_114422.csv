@@ -1,0 +1,32 @@
+posicion,columna,tipo_arrow,nullable,clasificacion_preliminar,clasificacion_aprobada
+0,Date/Time,timestamp[ns],True,TIEMPO,False
+1,Height [m],int64,True,,False
+2,SWD [W/m**2],double,True,SWD,False
+3,SWD std dev [W/m**2],double,True,SWD,False
+4,SWD min [W/m**2],double,True,SWD,False
+5,SWD max [W/m**2],double,True,SWD,False
+6,DIR [W/m**2],double,True,DIR,False
+7,DIR std dev [W/m**2],double,True,DIR,False
+8,DIR min [W/m**2],double,True,DIR,False
+9,DIR max [W/m**2],double,True,DIR,False
+10,DIF [W/m**2],double,True,DIF,False
+11,DIF std dev [W/m**2],double,True,DIF,False
+12,DIF min [W/m**2],double,True,DIF,False
+13,DIF max [W/m**2],double,True,DIF,False
+14,LWD [W/m**2],double,True,LWD,False
+15,LWD std dev [W/m**2],double,True,LWD,False
+16,LWD min [W/m**2],double,True,LWD,False
+17,LWD max [W/m**2],double,True,LWD,False
+18,SWU [W/m**2],double,True,SWU,False
+19,SWU std dev [W/m**2],double,True,SWU,False
+20,SWU min [W/m**2],double,True,SWU,False
+21,SWU max [W/m**2],double,True,SWU,False
+22,LWU [W/m**2],double,True,LWU,False
+23,LWU std dev [W/m**2],double,True,LWU,False
+24,LWU min [W/m**2],double,True,LWU,False
+25,LWU max [W/m**2],double,True,LWU,False
+26,T2 [°C],double,True,,False
+27,RH [%],double,True,RH,False
+28,PoPoPoPo [hPa],double,True,,False
+29,source_file,string,True,,False
+30,year_month,string,True,,False

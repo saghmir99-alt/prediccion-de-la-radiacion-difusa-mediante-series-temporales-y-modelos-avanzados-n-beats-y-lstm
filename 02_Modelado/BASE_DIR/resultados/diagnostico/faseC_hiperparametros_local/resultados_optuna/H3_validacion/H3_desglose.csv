@@ -1,0 +1,13 @@
+grupo,horas,MAE E1-30,MAE intento 27,cambio [W/m²],cambio (%),IC95,lectura
+TODAS las horas con sol,884,23.334,23.242,-0.092,-0.394,"[-0.44, +0.24]",igual
+regimen: completamente_diurno,765,26.549,26.471,-0.078,-0.295,"[-0.46, +0.31]",igual
+regimen: transicion,119,2.664,2.484,-0.18,-6.76,"[-0.49, +0.13]",igual
+banda: central >40°,205,36.294,36.554,0.26,0.717,"[-0.70, +1.23]",igual
+banda: hombros ≤20°,339,9.903,9.794,-0.109,-1.105,"[-0.43, +0.26]",igual
+banda: intermedia 20–40°,340,28.911,28.624,-0.287,-0.992,"[-0.97, +0.39]",igual
+cielo: amanecer/atardecer,119,2.664,2.484,-0.18,-6.76,"[-0.49, +0.14]",igual
+cielo: cubierto,53,31.826,33.724,1.898,5.964,"[-0.06, +3.62]",igual
+cielo: despejado,185,14.614,15.151,0.537,3.678,"[-0.28, +1.39]",igual
+cielo: nubes rotas,438,32.244,31.799,-0.445,-1.38,"[-0.94, +0.02]",igual
+cielo: velado,89,20.19,19.46,-0.73,-3.617,"[-1.46, +0.05]",igual
+"amanecer (transición, UTC < 12)",60,3.507,3.018,-0.488,-13.928,"[-1.02, +0.06]",igual

@@ -1,0 +1,17 @@
+{
+  "configuracion": "DIF_elev_Pquad",
+  "arquitectura": "NBEATS",
+  "n_canales": 5,
+  "n_parametros": 310422,
+  "epocas_reentrenamiento": 8,
+  "MAE": 19.140656176602082,
+  "nMAE_pct": 22.252479606607185,
+  "RMSE": 35.01465569583454,
+  "R2": 0.89511712905766,
+  "bias": -2.0272749675135002,
+  "tiempo_entrenamiento_segundos": 4.83711220799978,
+  "segundos_por_epoca": 0.6046390259999725,
+  "inferencia_validation_segundos": 0.032177887499983626,
+  "inferencia_ms_por_muestra": 0.021979431352447832,
+  "tamano_modelo_MB": 1.2017316818237305
+}

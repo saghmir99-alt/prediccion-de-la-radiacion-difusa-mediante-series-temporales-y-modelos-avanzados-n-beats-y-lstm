@@ -1,0 +1,12 @@
+H3 · CONFIRMACIÓN EN VALIDACIÓN (ago–sep 2024, horas con sol, 5 semillas, una sola vez)
+==============================================================================
+E1-30:      MAE 23.33 W/m²  (ventaja sobre persistencia 48.2 %)
+intento 27: MAE 23.24 W/m²  (ventaja sobre persistencia 48.4 %)
+
+1) Operación:     -0.09 W/m² (-0.4 %) IC95 [-0.43, +0.23] → NO cumple
+2) Banda central: +0.26 W/m² IC95 [-0.70, +1.24] · sin empeorar op./central → cumple
+3) Amanecer:      -13.9 % IC95 [-1.02, +0.04] W/m² → cumple (límite +4 %)
+Diebold–Mariano (diario, 61 días, Newey–West L=3, HLN): estadístico -0.69, p = 0.4953
+Mejora por semilla: 4/5
+
+VEREDICTO: NO SE ACEPTA. E1-30 se mantiene como modelo base.

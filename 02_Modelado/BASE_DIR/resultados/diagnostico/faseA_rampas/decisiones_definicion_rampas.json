@@ -1,0 +1,29 @@
+{
+  "delta": "ΔDIF = DIF(T) − DIF(T−1), medias horarias (hora etiquetada por inicio, >=30 min válidos); misma magnitud que y; verificado: datos preparados = parquet original (100 %)",
+  "umbral": "p90 de |ΔDIF| en horas de sol de train = 97.78 W/m2 (fijo, no se recalcula)",
+  "objetivo": "C_t ∈ {−1, 0, +1}: −1 si ΔDIF ≤ −umbral; +1 si ΔDIF ≥ umbral; 0 en otro caso",
+  "muestra": "solo horas completamente diurnas (transición tiene 0 rampas en train y validación)",
+  "limitaciones": [
+    "hombros (≤20°): 30 rampas en train y 9 en validación, sin potencia para concluir",
+    "fuerte estacionalidad: 0 % rampas en enero, 12–14 % abril–julio",
+    "train sin meses de otoño (empieza a finales de dic-2023)"
+  ],
+  "conteo": [
+    {
+      "conjunto": "train",
+      "bajadas (−1)": 147,
+      "sin rampa (0)": 2301,
+      "subidas (+1)": 156,
+      "horas": 2604,
+      "% rampas": 11.63594470046083
+    },
+    {
+      "conjunto": "validation",
+      "bajadas (−1)": 45,
+      "sin rampa (0)": 684,
+      "subidas (+1)": 36,
+      "horas": 765,
+      "% rampas": 10.588235294117647
+    }
+  ]
+}

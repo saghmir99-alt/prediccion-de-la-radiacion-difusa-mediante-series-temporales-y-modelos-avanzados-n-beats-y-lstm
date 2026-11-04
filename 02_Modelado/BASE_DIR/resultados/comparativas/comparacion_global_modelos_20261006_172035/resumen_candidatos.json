@@ -1,0 +1,15 @@
+{
+  "criterio": "Complementariedad entre MAE, RMSE, R2 y familia de modelo",
+  "candidatos_preliminares": [
+    "LSTM-SWD",
+    "LSTM-SWD+DIR+FD",
+    "LSTM-GeomT",
+    "HGB-9V"
+  ],
+  "mejor_MAE": "LSTM-SWD",
+  "mejor_nMAE": "LSTM-SWD",
+  "mejor_RMSE": "LSTM-GeomT",
+  "mejor_R2": "LSTM-GeomT",
+  "decision_LWU": "No seleccionado como candidato preliminar. LSTM-LWU es competitivo, pero no mejora los modelos LSTM principales. N-BEATS-LWU presenta un deterioro claro.",
+  "test_utilizado": false
+}

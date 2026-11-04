@@ -1,0 +1,47 @@
+{
+  "timestamp": "20261006_121216",
+  "criterio_seleccion": "MAE interna total",
+  "n_subtrain": 4428,
+  "n_internal_validation": 721,
+  "max_epochs": 300,
+  "patience": 25,
+  "min_delta": 1e-05,
+  "batch_size": 128,
+  "learning_rate": 0.001,
+  "weight_decay": 1e-05,
+  "gradient_clip": 1.0,
+  "seed": 42,
+  "device": "cpu",
+  "validation_externa_utilizada": false,
+  "test_utilizado": false,
+  "arquitecturas_control": {
+    "N-BEATS_5_canales": 310422,
+    "LSTM_5_canales": 20289
+  },
+  "bloques": {
+    "SWD_DIR": {
+      "shape": [
+        5149,
+        24,
+        8
+      ],
+      "n_canales": 8
+    },
+    "SWD_FD": {
+      "shape": [
+        5149,
+        24,
+        6
+      ],
+      "n_canales": 6
+    },
+    "SWD_DIR_FD": {
+      "shape": [
+        5149,
+        24,
+        9
+      ],
+      "n_canales": 9
+    }
+  }
+}

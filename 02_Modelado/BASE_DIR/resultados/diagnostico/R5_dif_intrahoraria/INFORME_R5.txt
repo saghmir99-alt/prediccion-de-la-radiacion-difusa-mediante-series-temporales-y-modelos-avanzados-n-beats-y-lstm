@@ -1,0 +1,4 @@
+R5 · w* = 1 min (menor MAE de persistencia en train entre 1, 5 y 10 min)
+B1 · pendiente b: train -0.257 [-0.354, -0.196] · validación -0.311 [-0.473, -0.199]
+B2 · frente a solo sesgo: train -0.66 [-0.98, -0.36] · validación -0.60 [-1.02, -0.19] · DM p = 0.005
+PASA A C8: los últimos 1 min contienen información que E1-30 no aprovecha → probar el canal 'DIF_ult1' en la LSTM

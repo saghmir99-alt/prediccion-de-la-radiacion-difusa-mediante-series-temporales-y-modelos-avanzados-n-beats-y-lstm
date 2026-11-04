@@ -1,0 +1,3 @@
+configuración,mejor época,MAE operación,veredicto,cambio operación,IC95 operación,cambio central,IC95 central,"1 mejora ≥0,5 e IC<0",2 central sin empeorar
+BASE · N-BEATS-DIFstats (4 canales),20,29.32091962805363,referencia,,,,,,
+VX · + escala de cielo despejado D*(T) (5 canales),20,29.456174119199588,no pasa,0.13525449114595714,"[-0.34, +0.63]",0.19693192853614197,"[-1.08, +1.39]",False,True

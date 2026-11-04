@@ -1,0 +1,1 @@
+PASA A VALIDACIÓN: la N-BEATS-1h mejora a la N-BEATS-DIFstats en -5.12 W/m² (IC95 [-6.43; -3.85]), mejor época 5. Siguiente: N6b, confirmación con 5 semillas en validación.

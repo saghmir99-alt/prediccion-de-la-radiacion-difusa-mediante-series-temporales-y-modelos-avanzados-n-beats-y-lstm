@@ -1,0 +1,4 @@
+configuración,mejor época,MAE operación,sesgo,ganancia del ensemble,ruido entre épocas,veredicto,cambio operación,"IC97,5 operación",cambio central,"IC97,5 central","1 mejora ≥0,5 e IC<0",2 central sin empeorar
+BASE · N-BEATS-DIFstats,20,29.32091962805363,-0.7418329227016838,0.8574163283911247,0.3899803347161214,referencia,,,,,,
+LOG · DIF y objetivo en log1p,35,30.191527346100198,-5.499052810373946,1.134312150250782,1.2237680613207602,no pasa,0.8706077180465666,"[-0.44, +2.19]",5.7264993246732185,"[+1.24, +10.00]",False,False
+REG · dropout 0.2,20,28.65310398376602,-3.444170290782697,0.4623770164470109,0.4619705229655584,no pasa,-0.6678156442876116,"[-1.46, +0.10]",-1.2196727269132372,"[-3.39, +0.65]",False,True

@@ -1,0 +1,19 @@
+{
+  "modelo": "M2_DIFstats_SWD",
+  "protocolo": "original_sin_mascara_nocturna",
+  "n_lags": 24,
+  "canales": [
+    "DIF_media",
+    "elevacion",
+    "DIF_std",
+    "DIF_rango",
+    "SWD_media",
+    "SWD_std",
+    "SWD_rango"
+  ],
+  "definiciones_SWD": {
+    "SWD_media": "media horaria de SWD [W/m**2]",
+    "SWD_std": "media horaria de SWD std dev [W/m**2]",
+    "SWD_rango": "max horario de SWD max [W/m**2] - min horario de SWD min [W/m**2]"
+  }
+}
