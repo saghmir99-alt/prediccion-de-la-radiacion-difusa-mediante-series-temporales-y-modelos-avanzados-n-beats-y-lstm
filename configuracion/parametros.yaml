@@ -1,0 +1,123 @@
+# Parámetros del TFM «Predicción de la radiación difusa mediante series temporales y modelos avanzados N-BEATS y LSTM».
+# Resumen de referencia: los valores coinciden con los de los cuadernos y los scripts, y con los que describe la memoria
+# (capítulos 4 y 5 y anexo D). Los cuadernos y los scripts no leen este archivo: cada uno fija sus parámetros en su
+# primera celda o en su cabecera.
+
+semillas:
+  redes: [42, 123, 2024, 7, 99]     # la predicción es la media de las cinco (confirmaciones, modelos finales y test)
+  cribas: [42, 123]                 # una o dos semillas en las cribas dentro de entrenamiento
+  optuna: {busqueda_H1: 42, repeticion_H2: 123}
+  bootstrap: 0
+  determinismo: "algoritmos de PyTorch fijados como deterministas; una misma semilla reproduce el mismo modelo"
+
+datos:
+  estacion: "Cabauw (CAB), Baseline Surface Radiation Network (BSRN)"
+  fuente: "Knap (2022), serie de PANGAEA, https://doi.org/10.1594/PANGAEA.940531"
+  ficheros: "CAB_radiation_2023-11.tab ... CAB_radiation_2024-11.tab"   # 13 ficheros mensuales, resolución de 1 minuto
+  registros_minutales: 570240
+  coordenadas_geometria_solar: {latitud: 51.9711, longitud: 4.9267}
+  agregacion_horaria:
+    etiqueta: "inicio de la hora: el valor de la hora t es la media de los minutos válidos de [t, t + 60 min)"
+    minutos_validos_minimos: 30
+  inicio_serie_horaria: "2023-12-28"   # tras el hueco del 20 al 27 de diciembre de 2023, que no se interpola
+  cielo_despejado: "Ineichen y Perez (2002) con turbidez de Linke climatológica, en pvlib"
+
+particiones:   # cronológicas, sin barajar, asignadas por la hora objetivo
+  entrenamiento: {inicio: "2023-12-30", fin: "2024-07-31", horas: 5149, horas_con_sol: 3027}
+  validacion:    {inicio: "2024-08-01", fin: "2024-09-30", horas: 1464, horas_con_sol: 884}
+  test:          {inicio: "2024-10-01", fin: "2024-11-30", horas: 1464, horas_con_sol: 646}
+  escaladores: "se ajustan solo con el entrenamiento de cada pliegue y se aplican sin reajuste al resto"
+
+regimenes:   # f = fracción de minutos de la hora objetivo con elevación solar aparente positiva
+  noche: "f = 0; predicción fijada en 0 W/m² y hora excluida de la evaluación"
+  transicion: "0 < f < 1; el amanecer es la transición con hora UTC anterior a las 12"
+  completamente_diurno: "f = 1"
+  evaluacion: "todas las métricas se calculan sobre las horas con sol (transición y completamente diurno)"
+bandas_elevacion:   # elevación media de la hora, sobre las horas con sol
+  hombros: "<= 20°"
+  intermedia: "20–40°"
+  central: "> 40°"
+
+seleccion:
+  validacion_cruzada: "7 pliegues dejando un mes fuera (diciembre y enero juntos; febrero a julio), con purga de 24 h"
+  criba: "4 meses fuera (enero, marzo, mayo y julio), con purga de 24 h"
+  regla_epoca: "error del mes no visto cada 5 épocas, media entre semillas, media móvil centrada de 3 puntos y mínimo"
+  confirmacion: "la validación se usa una sola vez por decisión"
+  test: "una sola evaluación, con el protocolo de docs/protocolo_test.md"
+
+criterios:
+  mejora_en_criba: "reducción del MAE en horas con sol >= 0,5 W/m² con el intervalo entero por debajo de 0 (al 97,5 % si se comparan dos variantes)"
+  sin_dano: "ningún empeoramiento significativo en horas con sol ni en la banda central"
+  limite_amanecer: "empeoramiento del MAE del amanecer <= 4 %"
+  confirmacion_en_validacion: "IC95 de la diferencia de MAE entero por debajo de 0, sin empeorar la banda central"
+  comparacion_en_test: "IC95 de MAE(N-BEATS-1h) - MAE(E1-30): entero < 0, menor error de la N-BEATS-1h; entero > 0, menor error de E1-30; si cruza el 0, no se distinguen"
+
+inferencia:
+  bootstrap: {tipo: "por bloques de días", remuestras: 2000, semilla: 0, intervalo: "percentiles"}
+  diebold_mariano: "diferencias medias diarias; varianza de largo plazo de Newey–West con L = parte entera de T^(1/3); corrección de Harvey, Leybourne y Newbold; t de Student con T - 1 grados de libertad"
+  comparaciones_multiples: "Bonferroni al comparar varias variantes con un mismo control; Holm en los contrastes por familias de variables"
+
+referencias:
+  persistencia_simple: "DIF(t)"
+  persistencia_diaria: "DIF(t - 23)"
+  persistencia_hibrida: "simple en las horas completamente diurnas; diaria en la transición y la noche"
+  persistencia_inteligente_horaria: "DIF(t) · DIFcs(t+1) / DIFcs(t), con DIFcs en el centro de cada hora; si DIFcs(t) <= 5 W/m², persistencia simple; recorte a >= 0"
+  persistencia_inteligente_ultimo_minuto: "último minuto válido de la hora t (minutos 57 a 59) · DIFcs medio de t+1 / DIFcs del último bloque de 5 min de t"
+
+entrenamiento_comun:   # LSTM y N-BEATS
+  perdida: "L1"
+  optimizador: {nombre: "Adam", tasa: 1.0e-3, weight_decay: 1.0e-5}
+  tamano_lote: 128
+  recorte_gradiente: 1.0
+  prediccion: "media de las 5 semillas"
+
+modelos_finales:
+  LSTM_E1-30:
+    entrada: "ventana de t-23 a t, un paso por hora, 9 canales"
+    canales: ["DIF media", "elevación solar media", "media de la desviación intraminutal de la DIF", "rango horario de la DIF",
+              "media de los últimos 15 min", "pendiente de los últimos 30 min", "curvatura de la hora",
+              "fracción de minutos con saltos de más de 20 W/m²", "coeficiente de variación de la global"]
+    red: "LSTM de 1 capa y 64 unidades; cabeza densa 64 -> 32 -> 1 (ReLU)"
+    objetivo: "DIF media de t+1"
+    epocas: 30
+    parametros_entrenables: 21313
+    mae_validacion: 23.25
+  N-BEATS-1h:
+    entrada: "12 bloques de 5 min de la hora t (5 canales) y 4 escalares, entre ellos el último minuto y la persistencia del último minuto"
+    red: "6 bloques genéricos de 3 capas densas de 128 unidades (ReLU); la DIF hace de serie y el resto entra como covariables en cada bloque"
+    objetivo: "corrección sobre la persistencia inteligente del último minuto; salida recortada a >= 0"
+    epocas: 5
+    parametros_entrenables: 258126
+    mae_validacion: 23.24
+  modelos_del_test: "principales reentrenados con entrenamiento y validación con la misma receta; secundarios, los validados (solo entrenamiento)"
+
+otros_modelos:
+  V3-50: "E1-30 con un décimo canal (último minuto válido de cada hora de la ventana); 50 épocas. Confirmado en validación (22,47 W/m²), pero excluido del test por decisión del autor (apartado 5.6.1 de la memoria)"
+  LSTM-1h_A: "LSTM de 64 unidades sobre los 12 bloques de 5 min de la hora t, cuyo último estado se une a 4 escalares; predice la corrección sobre la persistencia del último minuto"
+  N-BEATS-DIFstats: "misma ventana de 24 h que el modelo de partida de la LSTM (4 canales por hora); la DIF hace de serie; 15 épocas"
+  HGB_de_referencia: "gradient boosting de histogramas (scikit-learn) con 9 variables y pérdida absoluta"
+  Ridge_M1: "regresión Ridge con DIF(t), DIF(t-1), DIF(t-2) y DIF(t-23); alfa = 1e-4"
+
+optuna:   # anexo D de la memoria
+  muestreador: "TPE"
+  poda: "mediana"
+  objetivo: "MAE de la criba de 4 meses con la semilla 42, cada intento en su mejor época; el intento 0 es el modelo vigente"
+  LSTM:
+    epocas: "hasta 80, medidas cada 5"
+    espacio:
+      tasa_aprendizaje: {min: 3.0e-4, max: 3.0e-3, escala: "logarítmica"}
+      weight_decay: {min: 1.0e-6, max: 1.0e-3, escala: "logarítmica"}
+      unidades: [32, 64, 128]
+      tamano_lote: [64, 128, 256]
+      dropout_entre_capas: [0.0, 0.2]
+      capas: {min: 1, max: 2}
+  N-BEATS-1h:
+    epocas: "hasta 40, medidas en cada época"
+    espacio:
+      tasa_aprendizaje: {min: 1.0e-4, max: 3.0e-3, escala: "logarítmica"}
+      tamano_lote: [64, 128, 256]
+      unidades_por_capa: [64, 128, 256]
+      numero_de_bloques: {min: 2, max: 8}
+      weight_decay: {min: 1.0e-6, max: 1.0e-3, escala: "logarítmica"}
+      dropout: [0.0, 0.2]
+    intento_19: {tasa_aprendizaje: 1.83e-4, tamano_lote: 256, unidades_por_capa: 256, numero_de_bloques: 3, weight_decay: 1.13e-6, dropout: 0.0, epocas: 23}

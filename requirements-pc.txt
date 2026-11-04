@@ -1,0 +1,12 @@
+# Ordenador personal (Windows, CPU Intel i5-12450H de 8 núcleos), Python 3.11.
+# Scripts de la búsqueda de hiperparámetros con Optuna y de la confirmación en validación del candidato de la LSTM
+# (ver docs/fases.md, fases 11, 12 y 36).
+torch==2.14.1
+optuna==5.0.0
+scikit-learn==1.9.1
+numpy==2.4.6
+pandas==3.0.6
+scipy==1.17.1
+
+# Versión no registrada: se usa para las figuras de los informes.
+matplotlib

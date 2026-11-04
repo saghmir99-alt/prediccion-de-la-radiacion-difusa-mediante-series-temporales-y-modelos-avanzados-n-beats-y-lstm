@@ -1,0 +1,9 @@
+# Python y Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Ficheros de la carpeta de Drive «03. Modelado» que no forman parte del repositorio:
+# un cuaderno de trabajo anterior, sustituido por la parte 1 de 06_linea_NBEATS_y_test.ipynb, y notas personales.
+02_Modelado/BASE_DIR/diagnostico_NBEATS_DIFstats.ipynb
+02_Modelado/BASE_DIR/Tipos de nubes.*
