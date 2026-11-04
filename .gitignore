@@ -3,7 +3,7 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 
-# Contenido de la carpeta de Drive «03. Modelado» que no forma parte del repositorio (ver 02_Modelado/BASE_DIR/LEEME.md)
+# Contenido de la carpeta de Drive «03. Modelado» que no forma parte del repositorio (ver 02_Modelado/BASE_DIR/README.md)
 02_Modelado/BASE_DIR/radiation_data_completo.parquet
 02_Modelado/BASE_DIR/diagnostico_NBEATS_DIFstats.ipynb
 02_Modelado/BASE_DIR/Tipos de nubes.*
