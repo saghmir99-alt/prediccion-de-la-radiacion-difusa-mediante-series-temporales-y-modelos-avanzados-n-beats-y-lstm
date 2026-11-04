@@ -3,7 +3,12 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 
-# Ficheros de la carpeta de Drive «03. Modelado» que no forman parte del repositorio:
-# un cuaderno de trabajo anterior, sustituido por la parte 1 de 06_linea_NBEATS_y_test.ipynb, y notas personales.
+# Contenido de la carpeta de Drive «03. Modelado» que no forma parte del repositorio (ver 02_Modelado/BASE_DIR/LEEME.md)
+02_Modelado/BASE_DIR/radiation_data_completo.parquet
 02_Modelado/BASE_DIR/diagnostico_NBEATS_DIFstats.ipynb
 02_Modelado/BASE_DIR/Tipos de nubes.*
+02_Modelado/BASE_DIR/Punto inicial modelado.png
+02_Modelado/BASE_DIR/ruta_seleccion_variables_tfm.png
+02_Modelado/BASE_DIR/resultados/diagnostico/EDA_DIF_P90*
+02_Modelado/BASE_DIR/resultados/diagnostico/diagnostico_NBEATS_DIFstats_20261009_101726/
+02_Modelado/BASE_DIR/resultados/diagnostico/diagnostico_LSTM_DIFstats_20261007_150138/Diagnóstico LSTM-DIFstats y plan de acción.*

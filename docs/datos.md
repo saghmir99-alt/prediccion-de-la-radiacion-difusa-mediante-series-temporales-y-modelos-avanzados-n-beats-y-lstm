@@ -15,7 +15,7 @@
 
 - `datos/originales/`: los 13 ficheros mensuales tal como se descargaron de PANGAEA.
 - `datos/radiation_data_completo.parquet`: los 13 ficheros unidos por `01_EDA/00_carga_y_analisis_univariante.ipynb`. Los
-  cuadernos 03 a 06 leen una copia del mismo fichero desde `BASE_DIR` (`02_Modelado/BASE_DIR/`).
+  cuadernos 03 a 06 lo leen desde `BASE_DIR`, así que para volver a ejecutarlos hay que copiarlo allí.
 
 Son datos de la BSRN. Su uso está sujeto a las condiciones de la BSRN
 (https://bsrn.awi.de/data/conditions-of-data-release) y exige citar el conjunto de datos como se indica al final. Los

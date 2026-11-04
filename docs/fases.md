@@ -25,7 +25,8 @@ docs/                           este documento, los datos y el protocolo del tes
 3. `02_Modelado/03_modelado.ipynb`, `04_modelado_combinaciones.ipynb`, `05_linea_LSTM.ipynb` y
    `06_linea_NBEATS_y_test.ipynb`, en ese orden. Las partes 1 a 4 del cuaderno 03 trabajan con ficheros subidos a la
    sesión y descargan un ZIP por etapa; desde la parte 5, los cuadernos leen y escriben en `BASE_DIR`. Para volver a
-   ejecutarlos se copia `02_Modelado/BASE_DIR/` a Google Drive y se apunta `BASE_DIR` a esa copia.
+   ejecutarlos se copia `02_Modelado/BASE_DIR/` a Google Drive, se pone dentro `datos/radiation_data_completo.parquet` y se
+   apunta `BASE_DIR` a esa copia.
 4. La búsqueda de hiperparámetros (fases 11, 12 y 36) se ejecutó en el ordenador personal con los scripts que se
    describen más abajo, intercalada con los cuadernos 05 y 06 en el orden de la tabla.
 
